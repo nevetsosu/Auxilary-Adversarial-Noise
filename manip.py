@@ -1,7 +1,10 @@
 import numpy as np
 from PIL import Image, ImageEnhance
+from dotenv import load_dotenv
+from pathlib import Path
+import os
 
-def saturate_image(input_path, output_path, saturation_factor):
+def saturate_image(input_path, output_path, saturation_factor=1.0):
     """
     Adjusts the saturation of an image and saves the modified image.
     
@@ -48,6 +51,27 @@ def add_noise_to_logo(logo_path, output_path, noise_level=0.2):
     # Save the resulting image
     noisy_logo.save(output_path)
 
+def main():
+    load_dotenv()
+    LOGO_DIR = Path(os.getenv("LOGO_DIR"))
+
+    # Noise
+    for entry in Path(LOGO_DIR).iterdir():
+        if entry.suffix != ".png" and entry.suffix != ".jpg":
+            continue
+        if "Noise" in entry.stem:
+            continue
+
+        for noise_level in range(1, 10, 1):
+            new_name = entry.stem + f".Noise{noise_level}" + entry.suffix
+            if os.path.exists(LOGO_DIR / Path(new_name)):
+                continue
+            print(f"working on {new_name}")
+            add_noise_to_logo(LOGO_DIR / Path(entry.name), LOGO_DIR / Path(new_name), noise_level * 0.1)
+        
 # Usage
 # add_noise_to_logo("./logos/Google.jpg", "./logos/Google.Noisy6.jpg", noise_level=0.6)
-saturate_image("./logos/Google.jpg", "./logos/Google.Saturate.jpg", 1.5)  # Adjust the saturation as needed
+# saturate_image("./logos/Google.jpg", "./logos/Google.Saturate.jpg", 1.5)  # Adjust the saturation as needed
+
+if __name__ == "__main__":
+    main()
