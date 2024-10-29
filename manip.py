@@ -18,6 +18,9 @@ def saturate_image(input_path, output_path, saturation_factor=1.0):
     # Step 1: Open the image file
     img = Image.open(input_path)
     
+    # Ensure the image is in RGB mode for color enhancement compatibility
+    if img.mode != "RGB":
+        img = img.convert("RGB")
     # Step 2: Create an enhancer for color (saturation)
     enhancer = ImageEnhance.Color(img)
     
@@ -26,7 +29,6 @@ def saturate_image(input_path, output_path, saturation_factor=1.0):
     
     # Step 4: Save the modified image
     img_saturated.save(output_path)
-    print(f"Saturated image saved as: {output_path}")
 
 def add_noise_to_logo(logo_path, output_path, noise_level=0.2):
     # Load the logo image
@@ -59,15 +61,20 @@ def main():
     for entry in Path(LOGO_DIR).iterdir():
         if entry.suffix != ".png" and entry.suffix != ".jpg":
             continue
-        if "Noise" in entry.stem:
+        if "Noise" in entry.stem or "Saturate" in entry.stem:
             continue
-
+            
         for noise_level in range(1, 10, 1):
-            new_name = entry.stem + f".Noise{noise_level}" + entry.suffix
-            if os.path.exists(LOGO_DIR / Path(new_name)):
-                continue
-            print(f"working on {new_name}")
-            add_noise_to_logo(LOGO_DIR / Path(entry.name), LOGO_DIR / Path(new_name), noise_level * 0.1)
+                new_path = LOGO_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
+                if not os.path.exists(new_path): 
+                    add_noise_to_logo(LOGO_DIR / Path(entry.name), new_path, noise_level * 0.1)
+                    print(f"working on NOISE {new_path}")
+                
+                new_path = LOGO_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
+                if not os.path.exists(new_path): 
+                    print(f"working on SATURATE {new_path}")
+                    saturate_image(LOGO_DIR / Path(entry.name), new_path, noise_level * 0.1 - 0.5)
+            
         
 # Usage
 # add_noise_to_logo("./logos/Google.jpg", "./logos/Google.Noisy6.jpg", noise_level=0.6)
