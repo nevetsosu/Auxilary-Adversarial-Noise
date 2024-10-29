@@ -57,7 +57,7 @@ def main():
 
         # identify whether the logo was identified
         name = entry.stem.split(".")[0]
-        match = find_match(response.text, name)
+        match = find_match(response.text.strip(), name)
         new_data.append((name, entry.name, response.text, match))
            
 
