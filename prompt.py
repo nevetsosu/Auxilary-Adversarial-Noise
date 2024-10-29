@@ -3,6 +3,12 @@ from dotenv import load_dotenv
 from pathlib import Path
 import pandas as pd
 import os
+import time
+
+def snooze(s):
+    for _ in range(0, s):
+        time.sleep(1)
+        print("zzz")
 
 def prompt_logo(model, filepath):
     file = genai.upload_file(filepath)
@@ -52,7 +58,8 @@ def main():
             response = prompt_logo(model, LOGO_DIR / Path(entry.name))
         except Exception as e:
             print(e)
-            break
+            snooze(15)
+            continue
         print(f'response: |{response.text}|')
 
         # identify whether the logo was identified
