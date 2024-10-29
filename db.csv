@@ -1,0 +1,27 @@
+filename,name,response,classification
+Google.jpg,Google,"Google. 
+",True
+Microsoft.png,Microsoft,Windows,False
+Apple.png,Apple,"Apple 
+",True
+Facebook.png,Facebook,"Facebook. 
+",True
+AT&T.png,AT&T,AT&T,True
+PayPal.jpg,PayPal,"PayPal. 
+",True
+DHL.png,DHL,DHL,True
+Bank of America.png,Bank of America,Bank of America,True
+Chase.png,Chase,"CHASE 
+",True
+FedEx.png,FedEx,"FedEx 
+",True
+Windows 7.png,Windows 7,Windows,False
+Google.Noisy.jpg,Google,Google.,True
+Google.Noisy2.jpg,Google,"Google 
+",True
+Google.Noisy5.jpg,Google,"Google 
+",True
+Google.Noisy6.jpg,Google,"Google. 
+",True
+Google.Saturate.jpg,Google,"Google. 
+",True
