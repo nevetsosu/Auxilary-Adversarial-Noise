@@ -90,7 +90,7 @@ class auto_prompt:
 
                     # identify whether the logo was identified
                     name = entry.stem.split(".")[0]                                  # the logo name is extracted from the FILE NAME itself
-                    match = find_match(response.text.strip(), name)                  # checks if the response has the logo name in it 
+                    match = self.find_match(response.text.strip(), name)                  # checks if the response has the logo name in it 
                     new_data.append((name, entry.name, response.text, match))        # adds result to database
 
                     break
