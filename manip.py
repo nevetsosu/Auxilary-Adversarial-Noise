@@ -34,7 +34,7 @@ def saturate_image(input_path, output_path, saturation_factor=1.0):
                                     and >1.0 increases saturation.
     '''
     # open original
-    img = Image.open(input_path).convert("RGB")
+    img = Image.open(input_path).convert("RGBA")
 
     # adjust saturation
     enhancer = ImageEnhance.Color(img)
@@ -45,7 +45,7 @@ def saturate_image(input_path, output_path, saturation_factor=1.0):
 
 def add_noise_to_logo(logo_path, output_path, noise_level=0.2):
     # Load the logo image
-    logo = Image.open(logo_path).convert("RGB")
+    logo = Image.open(logo_path).convert("RGBA")
 
     # Convert the logo to a numpy array
     logo_array = np.array(logo)
@@ -60,7 +60,7 @@ def add_noise_to_logo(logo_path, output_path, noise_level=0.2):
     noisy_logo_array = np.clip(noisy_logo_array, 0, 255).astype(np.uint8)
 
     # Convert back to a PIL Image
-    noisy_logo = Image.fromarray(noisy_logo_array, "RGB")
+    noisy_logo = Image.fromarray(noisy_logo_array, "RGBA")
 
     # Save the resulting image
     noisy_logo.save(output_path)

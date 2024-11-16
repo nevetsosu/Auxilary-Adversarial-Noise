@@ -6,7 +6,7 @@ prompt = "Give the name of this logo, just the name and nothing else."
 class gemini:
      def __init__(self):
           genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-          self = genai.GenerativeModel("gemini-1.5-flash")
+          self.model = genai.GenerativeModel("gemini-1.5-flash")
 
      def prompt(self, filepath):
           file = genai.upload_file(filepath)
