@@ -11,10 +11,6 @@ prompt.py will look into the LOGO_DIR folder and cross check with the csv at DB_
 # Todo
 There should be another image module that converts all the images to PNG. PNG generally holds more information than JPG, including an alpha (transparency) layer. All files are currently being converted to RGB, without the transparency layer, so logos with transparency have their transparent parts replaced with opaque gray. We don't want that.
 
-I'm going to get LLlama classifications going. 
-
-We also need to get GPT classifications going.
-
 We need to attempt adversarial attacks, where we inject specifically crafted minimal noise that causes the network to misclassify.
 
 # Adversarial attacks
