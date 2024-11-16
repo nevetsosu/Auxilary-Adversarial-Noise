@@ -21,6 +21,7 @@ comm==0.2.2
 debugpy==1.8.7
 decorator==5.1.1
 defusedxml==0.7.1
+distro==1.9.0
 docstring-to-markdown==0.15
 executing==2.1.0
 fastjsonschema==2.20.0
@@ -46,6 +47,7 @@ isoduration==20.11.0
 jedi==0.19.1
 jedi-language-server==0.41.4
 Jinja2==3.1.4
+jiter==0.7.1
 json5==0.9.25
 jsonpointer==3.0.0
 jsonschema==4.23.0
@@ -73,6 +75,7 @@ nest-asyncio==1.6.0
 notebook==7.2.2
 notebook_shim==0.2.4
 numpy==2.1.2
+openai==1.54.4
 overrides==7.7.0
 packaging==24.1
 pandas==2.2.3
