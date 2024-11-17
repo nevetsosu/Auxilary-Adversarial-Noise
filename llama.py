@@ -11,7 +11,7 @@ processor = MllamaProcessor.from_pretrained(model_name)
 
 print("initializing model")
 model = MllamaForConditionalGeneration.from_pretrained(
-    "meta-llama/Llama-3.2-11B-Vision",
+    model_name,
     device_map="auto",
     torch_dtype=torch.float16,
     use_safetensors=True,
