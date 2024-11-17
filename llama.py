@@ -38,7 +38,6 @@ inputs = processor(text=text,images=image, return_tensors='pt').to(model.device)
 
 print("forwarding")
 outputs = model.generate(**inputs, max_new_tokens=50)
-print(f'output.scores[0].requires_grad: {output.scores[0].requires_grad}')
 
 final = processor.batch_decode(outputs)
 print("decoding")
