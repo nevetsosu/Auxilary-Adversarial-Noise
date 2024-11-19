@@ -100,10 +100,10 @@ def tensor_to_image(processor, original_image, pixel_values):
     img = img.resize((width, height))
 
     # restore alpha is the original had an alpha
-    if (original_image.mode == "RGBA"):
-        r, g, b = img.split()
-        _,_,_, a = original_image.split()
-        img = Image.merge("RGBA", (r, g, b, a))
+    # if (original_image.mode == "RGBA"):
+    #    r, g, b = img.split()
+    #    _,_,_, a = original_image.split()
+    #    img = Image.merge("RGBA", (r, g, b, a))
 
     return img
 
@@ -133,7 +133,6 @@ def iterative_FGSM(epsilon=0.01, iterations=1, loss_threshold=0.0, progressive_s
         generation = model.generate.__wrapped__(
             model,
             **model_inputs,
-            # pixel_values=pixel_values,
             max_new_tokens=5,
             do_sample=False,
             output_scores=True,
@@ -147,8 +146,7 @@ def iterative_FGSM(epsilon=0.01, iterations=1, loss_threshold=0.0, progressive_s
         target_labels_reshaped = target_inputs.view(-1)
 
         # calculate loss and gradients
-        print(logits)
-        print(logits.size())
+        # loss = loss_fn(logits_reshaped, target_labels_reshaped)
         loss = loss_fn(logits_reshaped, target_labels_reshaped) + reg_loss_fn(model_inputs['pixel_values'])
         model.zero_grad()
         loss.backward()
@@ -170,6 +168,6 @@ def iterative_FGSM(epsilon=0.01, iterations=1, loss_threshold=0.0, progressive_s
 
     return model_inputs['pixel_values']
 
-adv_pixel_values = iterative_FGSM(iterations=100, loss_threshold=0.5, progressive_save=True)
+adv_pixel_values = iterative_FGSM(epsilon=0.01,iterations=100, loss_threshold=0.50, progressive_save=False)
 adv_img = tensor_to_image(processor.image_processor, image, adv_pixel_values)
 adv_img.save("./adversarial.png")
