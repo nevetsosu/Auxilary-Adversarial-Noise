@@ -76,7 +76,7 @@ def main():
         if "Noise" in entry.stem or "Saturate" in entry.stem:
             continue
 
-        for noise_level in range(1, 5, 1):
+        for noise_level in range(1, 5):
             # create noise files
             new_path = LOGO_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
             if not os.path.exists(new_path):
@@ -87,6 +87,6 @@ def main():
             new_path = LOGO_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
             if not os.path.exists(new_path): 
                 print(f"working on SATURATE {new_path}")
-                saturate_image(LOGO_DIR / Path(entry.name), new_path, noise_level * 0.1 - 0.5)
+                saturate_image(LOGO_DIR / Path(entry.name), new_path, noise_level * 0.1)
 if __name__ == "__main__":
     main()

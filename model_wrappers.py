@@ -10,11 +10,11 @@ class gemini:
 
      def prompt(self, filepath):
           file = genai.upload_file(filepath)
-          result = self.model.generate_content(
+          response = self.model.generate_content(
                [file, "\n\n", prompt]
           )
           file.delete()
-          return result
+          return response.text
 
 # gpt
 from openai import OpenAI
@@ -50,7 +50,7 @@ class gpt:
                          ],
                     }
                ])
-          return completion.choices[0]
+          return completion.choices[0].message.content
 
 class llama:
      def __init__(self):
