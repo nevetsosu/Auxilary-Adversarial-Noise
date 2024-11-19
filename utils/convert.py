@@ -1,13 +1,23 @@
 from PIL import Image
 import sys
 from pathlib import Path
+from dotenv import load_dotenv
+import os
 
-if len(sys.argv) < 2:
-    print("Usage: convert file1 [file2] [file3]...")
+load_dotenv()
+LOGO_DIR = Path(os.getenv("LOGO_DIR"))
+ALTERED_DIR = Path(os.getenv("ALTERED_DIR"))
 
-paths = [Path(s) for s in sys.argv[1:]]
+def convert(dir:Path):
 
-for path in paths:
-    img = Image.open(path)
-    img.save(path.with_suffix(".png"), "PNG")
+    for entry in dir.iterdir():
+        if entry.suffix == ".png":
+            continue
+        elif entry.suffix == ".jpg":
+            if delete:
+                entry.unlink()
+            continue
+
+        img = Image.open(entry)
+        img.save(ALTERED_DIR / entry.name, "PNG")
 

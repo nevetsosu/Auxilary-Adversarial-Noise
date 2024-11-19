@@ -68,6 +68,7 @@ def add_noise_to_logo(logo_path, output_path, noise_level=0.2):
 def main():
     load_dotenv()
     LOGO_DIR = Path(os.getenv("LOGO_DIR"))
+    ALTERED_DIR = Path(os.getenv("ALTERED_DIR"))
 
     for entry in Path(LOGO_DIR).iterdir():
         # dont create new files if they already exist
@@ -78,13 +79,13 @@ def main():
 
         for noise_level in range(1, 5):
             # create noise files
-            new_path = LOGO_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
+            new_path = ALTERED_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
             if not os.path.exists(new_path):
                 add_noise_to_logo(LOGO_DIR / Path(entry.name), new_path, noise_level * 0.1)
                 print(f"working on NOISE {new_path}")
 
             # create saturation files
-            new_path = LOGO_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
+            new_path = ALTERED_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
             if not os.path.exists(new_path): 
                 print(f"working on SATURATE {new_path}")
                 saturate_image(LOGO_DIR / Path(entry.name), new_path, noise_level * 0.1)

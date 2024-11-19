@@ -3,8 +3,7 @@ from pathlib import Path
 import pandas as pd
 import os
 import time
-
-# our files
+import sys
 from model_wrappers import gemini, llama, gpt
 
 # sleeps for a bit and prints while it does
@@ -57,6 +56,7 @@ class autoprompt:
      # set up variables for data base usage, including loading the database itself
      def init_db(self):
           self.LOGO_DIR = Path(os.getenv("LOGO_DIR"))
+          self.ALTERED_DIR = Path(os.getenv("LOGO_DIR"))
           self.COLUMNS = ['model', 'filename', 'name', 'response', 'classification']
           self.DB_PATH = os.getenv("DB_PATH")
           self.db = self.load_db(self.DB_PATH, ['index'] + self.COLUMNS)
@@ -87,24 +87,23 @@ class autoprompt:
      def start(self):
           new_data = []
           # goes through each file in the LOGO_DIR with the suffix png or jpg
-          for entry in Path(self.LOGO_DIR).iterdir():
-               self.db = self.load_db(self.DB_PATH, self.COLUMNS)
-               # skips if non jpg or png file
-               if entry.suffix == ".jpg" and entry.suffix == ".png":
-                    continue
+          for dir in [self.LOGO_DIR, self.ALTERED_DIR]:
+               for entry in Path(dir).iterdir():
+                    self.db = self.load_db(self.DB_PATH, self.COLUMNS)
+                    # skips if non jpg or png file
+                    if entry.suffix == ".jpg" and entry.suffix == ".png":
+                         continue
 
-               # skips if entry is already in the database
-               filtered = self.db[(self.db['model'] == self.model_name) & (self.db['filename'] == entry.name)]
-               if not filtered.empty:
-                    print(f'{entry.name} already present. skipping.')
-                    continue
+                    # skips if entry is already in the database
+                    filtered = self.db[(self.db['model'] == self.model_name) & (self.db['filename'] == entry.name)]
+                    if not filtered.empty:
+                         print(f'{entry.name} already present. skipping.')
+                         continue
 
-               db_entry = self.prompt(self.model, self.LOGO_DIR / Path(entry.name))
-               new_data.append((self.model_name,) + db_entry)
-               self.save_data(new_data)
-               new_data = []
-
-import sys
+                    db_entry = self.prompt(self.model, self.LOGO_DIR / Path(entry.name))
+                    new_data.append((self.model_name,) + db_entry)
+                    self.save_data(new_data)
+                    new_data = []
 
 def usage():
      print("Usage: autoprompt MODEL")
@@ -116,7 +115,6 @@ def main():
 
      load_dotenv()
      model_name = sys.argv[1]
-     
      if (model_name == "all"):
           for name in ["gemini", "gpt", "llama"]:
                auto_prompt = autoprompt(name) 
