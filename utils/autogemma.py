@@ -2,6 +2,12 @@ from pathlib import Path
 import os
 from dotenv import load_dotenv
 from gemma import gemma
+import sys
+
+
+force = False
+if len(sys.argv) > 1:
+    force = sys.argv[1] == "force"
 
 load_dotenv()
 
@@ -16,8 +22,10 @@ for entry in LOGO_DIR.iterdir():
         continue
 
     out_file = ALTERED_DIR / f"{entry.stem}-Adversarial.png"
-    if (out_file.exists()):
+    
+    if (out_file.exists() and not force):
         print(f"ignoring {entry.name} since {out_file.name} exists")
         continue
+
     print(f"perturbing {entry.name} to {out_file.name}")
-    g.perturb(entry, out_file, "cat", 0.01, 10000, 0.5, True)
+    g.perturb(entry, out_file, "cat", 0.01, 10000, 0.25, True)
