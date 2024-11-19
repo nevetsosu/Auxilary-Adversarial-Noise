@@ -56,7 +56,7 @@ class autoprompt:
      # set up variables for data base usage, including loading the database itself
      def init_db(self):
           self.LOGO_DIR = Path(os.getenv("LOGO_DIR"))
-          self.ALTERED_DIR = Path(os.getenv("LOGO_DIR"))
+          self.ALTERED_DIR = Path(os.getenv("ALTERED_DIR"))
           self.COLUMNS = ['model', 'filename', 'name', 'response', 'classification']
           self.DB_PATH = os.getenv("DB_PATH")
           self.db = self.load_db(self.DB_PATH, ['index'] + self.COLUMNS)
@@ -100,7 +100,7 @@ class autoprompt:
                          print(f'{entry.name} already present. skipping.')
                          continue
 
-                    db_entry = self.prompt(self.model, self.LOGO_DIR / Path(entry.name))
+                    db_entry = self.prompt(self.model, dir / Path(entry.name))
                     new_data.append((self.model_name,) + db_entry)
                     self.save_data(new_data)
                     new_data = []
