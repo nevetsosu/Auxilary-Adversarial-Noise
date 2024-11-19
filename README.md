@@ -22,13 +22,38 @@ It WILL replace the original image.
 
 1. Run utils/resolution.py
 
-# Generate altered logos
-manip.py will look into LOGO_DIR for unaltered logos. The file names should be in the form ``[LOGO_NAME].png``.
+# Generating altered
+LOGO_DIR and ALTERED_DIR should be defined in a .env.
+Your images should already be a PNG and should be in LOGO_DIR.
+Your images should also already be checked by the resolution tool.
 
-Manipulated logos will be generated and put into the same LOGO_DIR. The generated file names will be in the form ``[LOGO_NAME].[MANIPULATION_TYPE][MANIPULATION_STRENGTH].png``.
+1. Run utils/manip.py
 
-prompt.py expects both unaltered logo files and altered logo files to be in this format.
+The script will look in LOGO_DIR and the results will be in ALTERED_DIR.
+Files that have already had generated variants will be skipped.
 
+# Classifying
+After all the preprocessing: conversion and resolution assurance.
+utils/prompt.py allows for prompting a single specific model.
+
+utils/autoprompt.py allows for prompting all files on a specific model or all models. It will attempt to prompt all unprompted files in LOGO_DIR and ALTERED_DIR. autoprompt will use the csv at DB_PATH to determine what has already been prompted and save new prompts to there. If the csv at DB_PATH doesn't exist already, it will be created. DB_PATH should be specified in the .env. 
 
 # Todo
 Handle Transparency by replacing it with white RGB pixels
+
+Improve imperceptibility of adversarial examples. 
+
+Find the threshold between human perceptility and model perceptibility.
+Make charts
+
+# Charts
+Find the perceptiability thresholds for humans and models. 
+
+Present more details about how the perturbations were added.
+We have 5 levels of both saturation and noise.
+
+Adversarial noise generation should include the learning rate (epsilon) and the loss threshold.
+
+Should we even bother to present accuracy numbers??
+
+We should add peligemma to the charts, which will be the only ones that can actually misclassify. 
