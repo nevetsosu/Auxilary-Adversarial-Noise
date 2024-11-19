@@ -39,6 +39,9 @@ utils/prompt.py allows for prompting a single specific model.
 utils/autoprompt.py allows for prompting all files on a specific model or all models. It will attempt to prompt all unprompted files in LOGO_DIR and ALTERED_DIR. autoprompt will use the csv at DB_PATH to determine what has already been prompted and save new prompts to there. If the csv at DB_PATH doesn't exist already, it will be created. DB_PATH should be specified in the .env. 
 
 # Todo
+In gemma, I should output either the accumulated perturbation or the average perturbation.
+This allows me to create different images that may have different amounts of perturbation (using a multplier), but still from the same perturbation pattern. 
+
 Handle Transparency by replacing it with white RGB pixels
 
 Improve imperceptibility of adversarial examples. 
@@ -57,3 +60,5 @@ Adversarial noise generation should include the learning rate (epsilon) and the 
 Should we even bother to present accuracy numbers??
 
 We should add peligemma to the charts, which will be the only ones that can actually misclassify. 
+
+
