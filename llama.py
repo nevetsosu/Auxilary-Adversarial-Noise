@@ -15,8 +15,12 @@ model = MllamaForConditionalGeneration.from_pretrained(
     device_map="auto",
     torch_dtype=torch.float16,
     use_safetensors=True,
+    low_cpu_mem_usage=True,
 )
-prompt = "Give the name of this logo, just the name and nothing else."
+model.tie_weights()
+model.gradient_checkpointing_enable()
+
+prompt = "Just give logo name"
 messages = [
     [
         {
@@ -37,10 +41,13 @@ print("processing inputs")
 inputs = processor(text=text,images=image, return_tensors='pt').to(model.device)
 
 print("forwarding")
-outputs = model.generate(**inputs, max_new_tokens=50)
+# outputs = model.generate(**inputs, max_new_tokens=50)
+outputs = model.generate.__wrapped__(model, **inputs, max_new_tokens=5)
+forward = model(**inputs)
+# print("decoding")
+# final = processor.batch_decode(outputs)
 
-final = processor.batch_decode(outputs)
-print("decoding")
+# print(f'final: {final}')
 #generated = processor.decode(outputs[0])
 
 # print("generated")

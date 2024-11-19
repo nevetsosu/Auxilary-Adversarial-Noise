@@ -26,6 +26,28 @@ def blend(image1_path, image2_path, output_path, alpha=0.3):
      blended.save(output_path)
      print(f"Combined image saved to {output_path}")
 
+import numpy as np
+from PIL import Image
+from scipy.fftpack import fft2, ifft2
+
+def frequency_perturbation(base_image, overlay_image, alpha=0.5):
+    base = np.array(base_image).astype(np.float32)
+    overlay = np.array(overlay_image).astype(np.float32)
+
+    # FFT for both images
+    base_fft = fft2(base)
+    overlay_fft = fft2(overlay)
+
+    # Blend in the frequency domain
+    perturbed_fft = (1 - alpha) * base_fft + alpha * overlay_fft
+
+    # Inverse FFT to get perturbed image
+    perturbed = np.abs(ifft2(perturbed_fft))
+    perturbed = np.clip(perturbed, 0, 255)  # Ensure valid pixel range
+
+    return Image.fromarray(perturbed.astype(np.uint8))
+
+
 # Example usage
 blend(
 image1_path="./logos/FedEx.png",
