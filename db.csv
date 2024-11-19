@@ -1,78 +1,143 @@
 model,filename,name,response,classification
-gemini,destina.png,destina,"Destinia
-",FALSE
+gpt,walmart.png,walmart,Walmart,TRUE
+gpt,State Farm.png,State Farm,State Farm,TRUE
+gpt,VISA debit.png,VISA debit,VISA Debit,TRUE
+gpt,costco wholesale.png,costco wholesale,Costco Wholesale,TRUE
+gpt,Bank of America.png,Bank of America,Bank of America,TRUE
+gpt,dell.png,dell,Dell,TRUE
+gpt,FedEx.png,FedEx,FedEx,TRUE
+gpt,wechat.png,wechat,WeChat,TRUE
+gpt,DHL.png,DHL,DHL,TRUE
+gpt,boeing.png,boeing,Boeing,TRUE
+gpt,target.png,target,Target,TRUE
+gpt,Microsoft.png,Microsoft,Microsoft,TRUE
+gpt,oracle.png,oracle,Oracle,TRUE
+gpt,exxon mobil.png,exxon mobil,ExxonMobil,FALSE
+gpt,Google.png,Google,Google,TRUE
+gpt,blue Style.png,blue Style,blue Style.,TRUE
+gpt,The Home Depot.png,The Home Depot,The Home Depot,TRUE
+gpt,bank of america.png,bank of america,Bank of America,TRUE
+gpt,PayPal.png,PayPal,PayPal,TRUE
+gpt,amazon.png,amazon,Amazon,TRUE
+gpt,nike.png,nike,Nike,TRUE
+gpt,kroger.png,kroger,Kroger,TRUE
+gpt,american express.png,american express,AMERICAN EXPRESS,TRUE
+gpt,jpmorganchase.png,jpmorganchase,Tesla,FALSE
+gpt,Nurel Group.png,Nurel Group,Nurel Group,TRUE
+gpt,Facebook.png,Facebook,Facebook,TRUE
+gpt,Apple.png,Apple,Apple,TRUE
+gpt,Chase.png,Chase,Chase,TRUE
+gpt,P&G.png,P&G,Procter & Gamble,FALSE
+gpt,mcdonalds.png,mcdonalds,McDonald's,FALSE
+gpt,Wells Fargo.png,Wells Fargo,Wells Fargo,TRUE
+gpt,mastercard.png,mastercard,Mastercard,TRUE
+gpt,discover.jpeg,discover,Discover,TRUE
+gpt,ExxonMobil.png,ExxonMobil,ExxonMobil,TRUE
+gpt,ups.png,ups,UPS,TRUE
+gpt,United-Healthcare-Logo.png,United-Healthcare-Logo,United Healthcare,FALSE
+gpt,PAGO.png,PAGO,PAGO,TRUE
+gpt,mckesson.png,mckesson,McKesson,TRUE
+gpt,bitcoin.png,bitcoin,Bitcoin,TRUE
+gpt,sunTrust.png,sunTrust,SunTrust,TRUE
+gpt,HRC elektron.png,HRC elektron,HRC elektron,TRUE
+gpt,regions bank.png,regions bank,Regions,FALSE
+gpt,AT&T.png,AT&T,AT&T,TRUE
+gpt,discover.png,discover,Discover,TRUE
+gpt,capital one .png,capital one ,Capital One Bank,TRUE
+gemini,walmart.png,walmart,Walmart,TRUE
+gemini,State Farm.png,State Farm,State Farm,TRUE
+gemini,VISA debit.png,VISA debit,"VISA Debit
+",TRUE
+gemini,costco wholesale.png,costco wholesale,COSTCO,FALSE
 gemini,Bank of America.png,Bank of America,Bank of America,TRUE
+gemini,dell.png,dell,DELL,TRUE
 gemini,FedEx.png,FedEx,FedEx,TRUE
+gemini,wechat.png,wechat,"WeChat
+",TRUE
 gemini,DHL.png,DHL,DHL,TRUE
+gemini,boeing.png,boeing,BOEING,TRUE
+gemini,target.png,target,Target,TRUE
 gemini,Microsoft.png,Microsoft,Microsoft,TRUE
+gemini,oracle.png,oracle,ORACLE,TRUE
+gemini,exxon mobil.png,exxon mobil,ExxonMobil,FALSE
 gemini,Google.png,Google,"Google
 ",TRUE
 gemini,blue Style.png,blue Style,Blue Style,TRUE
-gemini,PayPal.png,PayPal,PayPal,TRUE
+gemini,The Home Depot.png,The Home Depot,The Home Depot,TRUE
+gemini,bank of america.png,bank of america,Bank of America,TRUE
+gemini,PayPal.png,PayPal,"PayPal
+",TRUE
+gemini,amazon.png,amazon,"Amazon
+",TRUE
+gemini,nike.png,nike,NIKE,TRUE
+gemini,kroger.png,kroger,Kroger,TRUE
+gemini,american express.png,american express,American Express,TRUE
+gemini,jpmorganchase.png,jpmorganchase,Netflix,FALSE
 gemini,Nurel Group.png,Nurel Group,Nurel Group,TRUE
 gemini,Facebook.png,Facebook,"Facebook
 ",TRUE
 gemini,Apple.png,Apple,"Apple
 ",TRUE
 gemini,Chase.png,Chase,CHASE,TRUE
-gemini,PAGO.png,PAGO,PAGO,TRUE
-gemini,HRC elektron.png,HRC elektron,HRC elektron,TRUE
-gemini,AT&T.png,AT&T,AT&T,TRUE
-gpt,Bank of America.png,Bank of America,Bank of America,TRUE
-gpt,FedEx.png,FedEx,FedEx,TRUE
-gpt,DHL.png,DHL,DHL,TRUE
-gpt,Microsoft.png,Microsoft,Microsoft,TRUE
-gpt,Google.png,Google,Google,TRUE
-gpt,blue Style.png,blue Style,blue Style.,TRUE
-gpt,PayPal.png,PayPal,PayPal,TRUE
-gpt,Nurel Group.png,Nurel Group,Nurel Group,TRUE
-gpt,Facebook.png,Facebook,Facebook,TRUE
-gpt,Apple.png,Apple,Apple,TRUE
-gpt,Chase.png,Chase,Chase,TRUE
-gpt,PAGO.png,PAGO,Pago,TRUE
-gpt,HRC elektron.png,HRC elektron,HRC elektron,TRUE
-gpt,AT&T.png,AT&T,AT&T,TRUE
-llama,Bank of America.png,Bank of America,Bank of America.,TRUE
-llama,FedEx.png,FedEx,FedEx.,TRUE
-llama,DHL.png,DHL,DHL,TRUE
-llama,Microsoft.png,Microsoft,Microsoft.,TRUE
-llama,Google.png,Google,Google,TRUE
-llama,blue Style.png,blue Style,Blue Style.,TRUE
-llama,PayPal.png,PayPal,PayPal.,TRUE
-llama,Nurel Group.png,Nurel Group,Nurel Group.,TRUE
-llama,Facebook.png,Facebook,Facebook.,TRUE
-llama,Apple.png,Apple,Apple.,TRUE
-llama,Chase.png,Chase,Chase Bank logo.,TRUE
-llama,PAGO.png,PAGO,PAGO,TRUE
-llama,HRC elektron.png,HRC elektron,HRC Elektronik,TRUE
-llama,AT&T.png,AT&T,AT&T,TRUE
-gemini,walmart.png,walmart,Walmart,TRUE
-gemini,State Farm.png,State Farm,State Farm,TRUE
-gemini,kroger.jpg,kroger,Kroger,TRUE
-gemini,boeing.png,boeing,BOEING,TRUE
-gemini,target.png,target,Target,TRUE
-gemini,oracle.png,oracle,ORACLE,TRUE
-gemini,amazon.png,amazon,Amazon,TRUE
-gemini,nike.png,nike,NIKE,TRUE
+gemini,P&G.png,P&G,P&G,TRUE
+gemini,mcdonalds.png,mcdonalds,McDonald's,FALSE
 gemini,Wells Fargo.png,Wells Fargo,Wells Fargo,TRUE
+gemini,mastercard.png,mastercard,Mastercard,TRUE
+gemini,discover.jpeg,discover,DISCOVER,TRUE
+gemini,ExxonMobil.png,ExxonMobil,ExxonMobil,TRUE
+gemini,ups.png,ups,UPS,TRUE
+gemini,United-Healthcare-Logo.png,United-Healthcare-Logo,United Healthcare,FALSE
+gemini,PAGO.png,PAGO,Pago,TRUE
 gemini,mckesson.png,mckesson,McKesson,TRUE
-gpt,walmart.png,walmart,Walmart,TRUE
-gpt,State Farm.png,State Farm,State Farm,TRUE
-gpt,kroger.jpg,kroger,Kroger,TRUE
-gpt,boeing.png,boeing,Boeing,TRUE
-gpt,target.png,target,Target,TRUE
-gpt,oracle.png,oracle,ORACLE,TRUE
-gpt,amazon.png,amazon,Amazon,TRUE
-gpt,nike.png,nike,Nike,TRUE
-gpt,Wells Fargo.png,Wells Fargo,Wells Fargo,TRUE
-gpt,mckesson.png,mckesson,McKesson,TRUE
+gemini,bitcoin.png,bitcoin,Bitcoin,TRUE
+gemini,sunTrust.png,sunTrust,SunTrust,TRUE
+gemini,HRC elektron.png,HRC elektron,HRC elektron,TRUE
+gemini,regions bank.png,regions bank,REGIONS,FALSE
+gemini,AT&T.png,AT&T,AT&T,TRUE
+gemini,discover.png,discover,DISCOVER,TRUE
+gemini,capital one .png,capital one ,Capital One Bank,TRUE
 llama,walmart.png,walmart,Walmart,TRUE
 llama,State Farm.png,State Farm,State Farm,TRUE
-llama,kroger.jpg,kroger,Kroger,TRUE
+llama,VISA debit.png,VISA debit,Visa Debit,TRUE
+llama,costco wholesale.png,costco wholesale,Costco Wholesale.,TRUE
+llama,Bank of America.png,Bank of America,Bank of America.,TRUE
+llama,dell.png,dell,Dell.,TRUE
+llama,FedEx.png,FedEx,FedEx.,TRUE
+llama,wechat.png,wechat,WeChat,TRUE
+llama,DHL.png,DHL,DHL,TRUE
 llama,boeing.png,boeing,Boeing.,TRUE
 llama,target.png,target,Target,TRUE
+llama,Microsoft.png,Microsoft,Microsoft.,TRUE
 llama,oracle.png,oracle,Oracle.,TRUE
+llama,exxon mobil.png,exxon mobil,ExxonMobil.,FALSE
+llama,Google.png,Google,Google,TRUE
+llama,blue Style.png,blue Style,Blue Style.,TRUE
+llama,The Home Depot.png,The Home Depot,The Home Depot.,TRUE
+llama,bank of america.png,bank of america,Bank of America.,TRUE
+llama,PayPal.png,PayPal,PayPal,TRUE
 llama,amazon.png,amazon,Amazon.,TRUE
 llama,nike.png,nike,Nike,TRUE
+llama,kroger.png,kroger,Kroger,TRUE
+llama,american express.png,american express,American Express.,TRUE
+llama,jpmorganchase.png,jpmorganchase,There is no logo in the image.,FALSE
+llama,Nurel Group.png,Nurel Group,Nurel Group.,TRUE
+llama,Facebook.png,Facebook,Facebook.,TRUE
+llama,Apple.png,Apple,Apple,TRUE
+llama,Chase.png,Chase,Chase Bank logo.,TRUE
+llama,P&G.png,P&G,Procter & Gamble,FALSE
+llama,mcdonalds.png,mcdonalds,McDonald's.,FALSE
 llama,Wells Fargo.png,Wells Fargo,Wells Fargo,TRUE
+llama,mastercard.png,mastercard,Mastercard,TRUE
+llama,discover.jpeg,discover,Discover,TRUE
+llama,ExxonMobil.png,ExxonMobil,ExxonMobil.,TRUE
+llama,ups.png,ups,UPS.,TRUE
+llama,United-Healthcare-Logo.png,United-Healthcare-Logo,UnitedHealthcare.,FALSE
+llama,PAGO.png,PAGO,PAGO.,TRUE
 llama,mckesson.png,mckesson,Mckesson,TRUE
+llama,bitcoin.png,bitcoin,Bitcoin.,TRUE
+llama,sunTrust.png,sunTrust,SunTrust.,TRUE
+llama,HRC elektron.png,HRC elektron,HRC Elektronik.,TRUE
+llama,regions bank.png,regions bank,Regions.,FALSE
+llama,AT&T.png,AT&T,AT&T,TRUE
+llama,discover.png,discover,Discover,TRUE
+llama,capital one .png,capital one ,Capital One Bank.,TRUE
