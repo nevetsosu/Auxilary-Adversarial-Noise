@@ -75,7 +75,7 @@ class gemma:
 
         return tv_loss
 
-    def iterative_FGSM(self, image_rgb, target_label, epsilon=0.01, iterations=1, loss_threshold=0.0, progressive_save=False, out_path=None):
+    def iterative_FGSM(self, image_rgb, target_label, eta=0.01, epsilon=0.03, iterations=1, loss_threshold=0.0, progressive_save=False, out_path=None):
         if progressive_save and out_path == None:
             raise ValueError("out_path should be given if progressive_save is true")
 
@@ -91,6 +91,16 @@ class gemma:
         # preprocess image
         prompt = "<image>What is this"
         model_inputs = self.processor(text=prompt, images=image_rgb, return_tensors="pt").to(self.device, self.dtype)
+       
+        # original_image.require_grad should be false at this point
+        original_image = model_inputs['pixel_values']
+        upper_bound = original_image + epsilon
+        lower_bound = original_image - epsilon
+
+        # should be FALSE FALSE at this point
+        print(upper_bound.requires_grad)
+        print(lower_bound.requires_grad)
+
         model_inputs['pixel_values'].requires_grad = True
 
         # using the non-wrapped generate avoids the @no_grad decorator on the normal generate
@@ -142,8 +152,8 @@ class gemma:
             print(f"loss: {loss}")
             # create the adversarial pixel_values
             grad = model_inputs['pixel_values'].grad.data
-            perturbed_pixel_values = model_inputs['pixel_values'].clone().detach().to(self.device) - epsilon * grad.sign()
-            perturbed_pixel_values = torch.clamp(perturbed_pixel_values, -1, 1)
+            perturbed_pixel_values = model_inputs['pixel_values'].clone().detach().to(self.device) - eta * grad.sign()
+            perturbed_pixel_values = torch.clip(perturbed_pixel_values, lower_bound, upper_bound)
             perturbed_pixel_values.requires_grad = True
 
             model_inputs['pixel_values'] = perturbed_pixel_values
