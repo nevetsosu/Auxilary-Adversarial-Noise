@@ -28,4 +28,4 @@ for entry in LOGO_DIR.iterdir():
         continue
 
     print(f"perturbing {entry.name} to {out_file.name}")
-    g.perturb(entry, out_file, "cat", 0.01, 0.1, 10000, 0.5, True)
+    g.perturb(entry, out_file, "cat", 0.005, 0.050, 10000, 0.50, True)

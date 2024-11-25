@@ -124,10 +124,10 @@ class gemma:
 
         # define the loss function
         loss_fn = nn.CrossEntropyLoss()
-        # reg_loss_fn = self.total_variation_loss
+        reg_loss_fn = self.total_variation_loss
 
-        # original = model_inputs['pixel_values'].clone().detach()
-        # perturbation = torch.zeros_like(model_inputs['pixel_values']).detach()
+        original = model_inputs['pixel_values'].clone().detach()
+        perturbation = torch.zeros_like(model_inputs['pixel_values']).detach()
 
         # introduce random start
         model_inputs['pixel_values'] += torch.empty_like(model_inputs['pixel_values']).uniform_(-eta, eta)
@@ -154,16 +154,17 @@ class gemma:
             target_labels_reshaped = target_inputs.view(-1)
 
             # calculate loss and gradients
-            loss = loss_fn(logits_reshaped, target_labels_reshaped)
-            # loss = loss_fn(logits_reshaped, target_labels_reshaped) + reg_loss_fn(perturbation)
+            # loss = loss_fn(logits_reshaped, target_labels_reshaped)
+            loss = loss_fn(logits_reshaped, target_labels_reshaped) + reg_loss_fn(perturbation)
             self.model.zero_grad()
             loss.backward()
             print(f"loss: {loss}")
+
             # create the adversarial pixel_values
             grad = model_inputs['pixel_values'].grad.data
             perturbed_pixel_values = model_inputs['pixel_values'].clone().detach().to(self.device) - eta * grad.sign()
             perturbed_pixel_values = torch.clip(perturbed_pixel_values, lower_bound, upper_bound)
-            # perturbation = perturbed_pixel_values - original
+            perturbation = perturbed_pixel_values - original
             perturbed_pixel_values.requires_grad = True
 
             model_inputs['pixel_values'] = perturbed_pixel_values
@@ -196,7 +197,7 @@ class gemma:
             progressive_save=progressive_save,
             out_path=out_path
         )
-        self.prompt(in_path)
+        self.prompt(out_path)
         adv_img = self.tensor_to_image(image, adv_pixel_values)
         adv_img.save(out_path)
 
