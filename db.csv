@@ -1,0 +1,600 @@
+model,filename,name,response,classification
+gemini,Google.png,Google,"Google
+",True
+gemini,HRC elektron.png,HRC elektron,HRC elektron,True
+gemini,PAGO.png,PAGO,PAGO,True
+gemini,AT&T.png,AT&T,AT&T,True
+gemini,Amazon.png,Amazon,Amazon,True
+gemini,American Express.png,American Express,American Express,True
+gemini,Apple.png,Apple,"Apple
+",True
+gemini,Bank of America.png,Bank of America,Bank of America,True
+gemini,Bitcoin.png,Bitcoin,Bitcoin,True
+gemini,Blue Style.png,Blue Style,Blue Style,True
+gemini,Capital One.png,Capital One,Capital One Bank,True
+gemini,Chase.png,Chase,CHASE,True
+gemini,Costco Wholesale.png,Costco Wholesale,COSTCO,False
+gemini,DHL.png,DHL,DHL,True
+gemini,Discover.png,Discover,DISCOVER,True
+gemini,ExxonMobil.png,ExxonMobil,ExxonMobil,True
+gemini,Facebook.png,Facebook,"Facebook
+",True
+gemini,FedEx.png,FedEx,FedEx,True
+gemini,JPMorganChase.png,JPMorganChase,JPMorgan Chase & Co.,False
+gemini,Kroger.png,Kroger,Kroger,True
+gemini,Mastercard.png,Mastercard,"Mastercard
+",True
+gemini,McDonalds.png,McDonalds,McDonald's,False
+gemini,McKesson.png,McKesson,McKesson,True
+gemini,Microsoft.png,Microsoft,Microsoft,True
+gemini,Nike.png,Nike,"NIKE
+",True
+gemini,Nurel Group.png,Nurel Group,Nurel Group,True
+gemini,P&G.png,P&G,P&G,True
+gemini,PayPal.png,PayPal,PayPal,True
+gemini,Regions.png,Regions,REGIONS,True
+gemini,State Farm.png,State Farm,State Farm,True
+gemini,SunTrust.png,SunTrust,SunTrust,True
+gemini,Target.png,Target,"TARGET
+",True
+gemini,The Home Depot.png,The Home Depot,The Home Depot,True
+gemini,UPS.png,UPS,UPS,True
+gemini,United Healthcare.png,United Healthcare,UnitedHealthcare,False
+gemini,VISA.png,VISA,"VISA Debit
+",True
+gemini,WeChat.png,WeChat,WeChat,True
+gemini,Wells Fargo.png,Wells Fargo,Wells Fargo,True
+gemini,ExxonMobil.Noise2.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Noise3.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Noise4.png,ExxonMobil,ExxonMobil,True
+gemini,Facebook.Noise1.png,Facebook,"Facebook
+",True
+gemini,Facebook.Noise2.png,Facebook,"Facebook
+",True
+gemini,Facebook.Noise3.png,Facebook,"Facebook
+",True
+gemini,Facebook.Noise4.png,Facebook,Facebook,True
+gemini,FedEx.Noise1.png,FedEx,FedEx,True
+gemini,FedEx.Noise2.png,FedEx,FedEx,True
+gemini,FedEx.Noise3.png,FedEx,FedEx,True
+gemini,FedEx.Noise4.png,FedEx,FedEx,True
+gemini,Google.Noise1.png,Google,"Google
+",True
+gemini,Google.Noise2.png,Google,"Google
+",True
+gemini,Google.Noise3.png,Google,"Google
+",True
+gemini,Google.Noise4.png,Google,"Google
+",True
+gemini,HRC elektron.Noise1.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Noise2.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Noise3.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Noise4.png,HRC elektron,HRC elektron,True
+gemini,JPMorganChase.Noise2.png,JPMorganChase,JPMorgan Chase & Co.,False
+gemini,JPMorganChase.Noise4.png,JPMorganChase,JPMorgan Chase & Co.,False
+gemini,Kroger.Noise4.png,Kroger,Kroger,True
+gemini,Mastercard.Noise3.png,Mastercard,Mastercard,True
+gemini,Microsoft.Noise1.png,Microsoft,Microsoft,True
+gemini,Microsoft.Noise2.png,Microsoft,Microsoft,True
+gemini,Microsoft.Noise3.png,Microsoft,Microsoft,True
+gemini,Microsoft.Noise4.png,Microsoft,Microsoft,True
+gemini,Nurel Group.Noise1.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Noise2.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Noise3.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Noise4.png,Nurel Group,Nurel Group,True
+gemini,P&G.Noise1.png,P&G,P&G,True
+gemini,P&G.Noise2.png,P&G,P&G,True
+gemini,P&G.Noise3.png,P&G,P&G,True
+gemini,P&G.Noise4.png,P&G,P&G,True
+gemini,PAGO.Noise1.png,PAGO,PAGO,True
+gemini,PAGO.Noise2.png,PAGO,PAGO,True
+gemini,PAGO.Noise3.png,PAGO,PAGO,True
+gemini,PAGO.Noise4.png,PAGO,PAGO,True
+gemini,PayPal.Noise1.png,PayPal,PayPal,True
+gemini,PayPal.Noise2.png,PayPal,PayPal,True
+gemini,PayPal.Noise3.png,PayPal,PayPal,True
+gemini,PayPal.Noise4.png,PayPal,PayPal,True
+gemini,State Farm.Noise1.png,State Farm,State Farm,True
+gemini,State Farm.Noise2.png,State Farm,State Farm,True
+gemini,State Farm.Noise3.png,State Farm,State Farm,True
+gemini,State Farm.Noise4.png,State Farm,State Farm,True
+gemini,The Home Depot.Noise1.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Noise2.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Noise3.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Noise4.png,The Home Depot,The Home Depot,True
+gemini,Costco Wholesale.Noise3.png,Costco Wholesale,COSTCO,False
+gemini,DHL.Noise1.png,DHL,DHL,True
+gemini,DHL.Noise3.png,DHL,DHL,True
+gemini,Discover.Noise1.png,Discover,DISCOVER,True
+gemini,Discover.Noise3.png,Discover,DISCOVER,True
+gemini,ExxonMobil.Noise1.png,ExxonMobil,ExxonMobil,True
+gemini,JPMorganChase.Noise3.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,Kroger.Noise2.png,Kroger,Kroger,True
+gemini,Mastercard.Noise1.png,Mastercard,Mastercard,True
+gemini,McDonalds.Noise1.png,McDonalds,McDonald's,False
+gemini,Wells Fargo.Noise1.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Noise2.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Noise3.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Noise4.png,Wells Fargo,Wells Fargo,True
+gemini,AT&T.Noise1.png,AT&T,AT&T,True
+gemini,AT&T.Noise2.png,AT&T,AT&T,True
+gemini,AT&T.Noise3.png,AT&T,AT&T,True
+gemini,AT&T.Noise4.png,AT&T,AT&T,True
+gemini,Amazon.Noise1.png,Amazon,amazon,True
+gemini,Amazon.Noise2.png,Amazon,"amazon
+",True
+gemini,Amazon.Noise3.png,Amazon,Amazon,True
+gemini,Amazon.Noise4.png,Amazon,Amazon,True
+gemini,American Express.Noise1.png,American Express,American Express,True
+gemini,American Express.Noise2.png,American Express,American Express,True
+gemini,American Express.Noise3.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Noise4.png,American Express,American Express,True
+gemini,Apple.Noise1.png,Apple,"Apple
+",True
+gemini,Apple.Noise2.png,Apple,"Apple
+",True
+gemini,Apple.Noise3.png,Apple,"Apple
+",True
+gemini,Apple.Noise4.png,Apple,"Apple
+",True
+gemini,Bank of America.Noise1.png,Bank of America,Bank of America,True
+gemini,Bank of America.Noise2.png,Bank of America,Bank of America,True
+gemini,Bank of America.Noise3.png,Bank of America,Bank of America,True
+gemini,Bank of America.Noise4.png,Bank of America,Bank of America,True
+gemini,Bitcoin.Noise1.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Noise2.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Noise3.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Noise4.png,Bitcoin,Bitcoin,True
+gemini,Blue Style.Noise1.png,Blue Style,Blue Style,True
+gemini,Blue Style.Noise2.png,Blue Style,Blue Style,True
+gemini,Blue Style.Noise3.png,Blue Style,Blue Style,True
+gemini,Blue Style.Noise4.png,Blue Style,Blue Style,True
+gemini,Capital One.Noise1.png,Capital One,Capital One Bank,True
+gemini,Capital One.Noise2.png,Capital One,Capital One Bank,True
+gemini,Capital One.Noise3.png,Capital One,Capital One Bank,True
+gemini,Capital One.Noise4.png,Capital One,Capital One Bank,True
+gemini,Chase.Noise1.png,Chase,CHASE,True
+gemini,Chase.Noise2.png,Chase,CHASE,True
+gemini,Chase.Noise3.png,Chase,CHASE,True
+gemini,Chase.Noise4.png,Chase,CHASE,True
+gemini,Costco Wholesale.Noise1.png,Costco Wholesale,Costco,False
+gemini,Costco Wholesale.Noise2.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Noise4.png,Costco Wholesale,Costco,False
+gemini,DHL.Noise2.png,DHL,DHL,True
+gemini,DHL.Noise4.png,DHL,DHL,True
+gemini,Discover.Noise2.png,Discover,DISCOVER,True
+gemini,Discover.Noise4.png,Discover,DISCOVER,True
+gemini,JPMorganChase.Noise1.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,Kroger.Noise1.png,Kroger,Kroger,True
+gemini,Kroger.Noise3.png,Kroger,Kroger,True
+gemini,Mastercard.Noise2.png,Mastercard,Mastercard,True
+gemini,Mastercard.Noise4.png,Mastercard,Mastercard,True
+gemini,McDonalds.Noise2.png,McDonalds,McDonald's,False
+gemini,McDonalds.Noise3.png,McDonalds,McDonald's,False
+gemini,McDonalds.Noise4.png,McDonalds,McDonald's,False
+gemini,McKesson.Noise1.png,McKesson,McKesson,True
+gemini,McKesson.Noise2.png,McKesson,McKesson,True
+gemini,McKesson.Noise3.png,McKesson,McKesson,True
+gemini,McKesson.Noise4.png,McKesson,McKesson,True
+gemini,Nike.Noise1.png,Nike,"NIKE
+",True
+gemini,Nike.Noise2.png,Nike,NIKE,True
+gemini,Nike.Noise3.png,Nike,"NIKE
+",True
+gemini,Nike.Noise4.png,Nike,NIKE,True
+gemini,Regions.Noise1.png,Regions,REGIONS,True
+gemini,Regions.Noise2.png,Regions,REGIONS,True
+gemini,Regions.Noise3.png,Regions,REGIONS,True
+gemini,Regions.Noise4.png,Regions,REGIONS,True
+gemini,SunTrust.Noise1.png,SunTrust,SunTrust,True
+gemini,SunTrust.Noise2.png,SunTrust,SunTrust,True
+gemini,SunTrust.Noise3.png,SunTrust,SunTrust,True
+gemini,SunTrust.Noise4.png,SunTrust,SunTrust,True
+gemini,Target.Noise1.png,Target,TARGET,True
+gemini,Target.Noise2.png,Target,TARGET,True
+gemini,Target.Noise3.png,Target,TARGET,True
+gemini,Target.Noise4.png,Target,TARGET,True
+gemini,UPS.Noise1.png,UPS,UPS,True
+gemini,UPS.Noise2.png,UPS,UPS,True
+gemini,UPS.Noise3.png,UPS,UPS,True
+gemini,UPS.Noise4.png,UPS,UPS,True
+gemini,United Healthcare.Noise1.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Noise2.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Noise3.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Noise4.png,United Healthcare,UnitedHealthcare,False
+gemini,VISA.Noise1.png,VISA,"Visa Debit
+",True
+gemini,VISA.Noise2.png,VISA,"Visa Debit
+",True
+gemini,VISA.Noise3.png,VISA,"VISA Debit
+",True
+gemini,VISA.Noise4.png,VISA,"VISA Debit
+",True
+gemini,WeChat.Noise1.png,WeChat,WeChat,True
+gemini,WeChat.Noise2.png,WeChat,WeChat,True
+gemini,WeChat.Noise3.png,WeChat,WeChat,True
+gemini,WeChat.Noise4.png,WeChat,WeChat,True
+gemini,walmart-Adversarial.png,walmart-Adversarial,"Walmart
+",False
+gpt,Google.png,Google,Google,True
+gpt,HRC elektron.png,HRC elektron,HRC elektron,True
+gpt,PAGO.png,PAGO,PAGO,True
+gpt,AT&T.png,AT&T,AT&T,True
+gpt,Amazon.png,Amazon,Amazon,True
+gpt,American Express.png,American Express,AMERICAN EXPRESS,True
+gpt,Apple.png,Apple,Apple,True
+gpt,Bank of America.png,Bank of America,Bank of America,True
+gpt,Bitcoin.png,Bitcoin,Bitcoin,True
+gpt,Blue Style.png,Blue Style,blue Style.,True
+gpt,Capital One.png,Capital One,Capital One Bank,True
+gpt,Chase.png,Chase,Chase,True
+gpt,Costco Wholesale.png,Costco Wholesale,Costco Wholesale,True
+gpt,DHL.png,DHL,DHL,True
+gpt,Discover.png,Discover,Discover,True
+gpt,ExxonMobil.png,ExxonMobil,ExxonMobil,True
+gpt,Facebook.png,Facebook,Facebook,True
+gpt,FedEx.png,FedEx,FedEx,True
+gpt,JPMorganChase.png,JPMorganChase,JPMorgan Chase & Co.,False
+gpt,Kroger.png,Kroger,Kroger,True
+gpt,Mastercard.png,Mastercard,Mastercard,True
+gpt,McDonalds.png,McDonalds,McDonald's,False
+gpt,McKesson.png,McKesson,McKesson,True
+gpt,Microsoft.png,Microsoft,Microsoft,True
+gpt,Nike.png,Nike,Nike,True
+gpt,Nurel Group.png,Nurel Group,Nurel Group,True
+gpt,P&G.png,P&G,P&G,True
+gpt,PayPal.png,PayPal,PayPal,True
+gpt,Regions.png,Regions,Regions,True
+gpt,State Farm.png,State Farm,State Farm,True
+gpt,SunTrust.png,SunTrust,SunTrust,True
+gpt,Target.png,Target,Target,True
+gpt,The Home Depot.png,The Home Depot,The Home Depot,True
+gpt,UPS.png,UPS,UPS,True
+gpt,United Healthcare.png,United Healthcare,United Healthcare,True
+gpt,VISA.png,VISA,Visa,True
+gpt,WeChat.png,WeChat,WeChat,True
+gpt,Wells Fargo.png,Wells Fargo,Wells Fargo,True
+gpt,ExxonMobil.Noise2.png,ExxonMobil,ExxonMobil,True
+gpt,ExxonMobil.Noise3.png,ExxonMobil,ExxonMobil,True
+gpt,ExxonMobil.Noise4.png,ExxonMobil,ExxonMobil,True
+gpt,Facebook.Noise1.png,Facebook,Facebook,True
+gpt,Facebook.Noise2.png,Facebook,Facebook,True
+gpt,Facebook.Noise3.png,Facebook,Facebook,True
+gpt,Facebook.Noise4.png,Facebook,Facebook,True
+gpt,FedEx.Noise1.png,FedEx,FedEx,True
+gpt,FedEx.Noise2.png,FedEx,FedEx,True
+gpt,FedEx.Noise3.png,FedEx,FedEx,True
+gpt,FedEx.Noise4.png,FedEx,FedEx,True
+gpt,Google.Noise1.png,Google,Google,True
+gpt,Google.Noise2.png,Google,Google,True
+gpt,Google.Noise3.png,Google,Google,True
+gpt,Google.Noise4.png,Google,Google,True
+gpt,HRC elektron.Noise1.png,HRC elektron,HRC Elektron,True
+gpt,HRC elektron.Noise2.png,HRC elektron,HRC elektron,True
+gpt,HRC elektron.Noise3.png,HRC elektron,HRC elektron,True
+gpt,HRC elektron.Noise4.png,HRC elektron,HRC elektron,True
+gpt,JPMorganChase.Noise2.png,JPMorganChase,JPMorgan Chase & Co.,False
+gpt,JPMorganChase.Noise4.png,JPMorganChase,JPMorgan Chase & Co.,False
+gpt,Kroger.Noise4.png,Kroger,Kroger,True
+gpt,Mastercard.Noise3.png,Mastercard,Mastercard,True
+gpt,Microsoft.Noise1.png,Microsoft,Microsoft,True
+gpt,Microsoft.Noise2.png,Microsoft,Microsoft,True
+gpt,Microsoft.Noise3.png,Microsoft,Microsoft,True
+gpt,Microsoft.Noise4.png,Microsoft,Microsoft,True
+gpt,Nurel Group.Noise1.png,Nurel Group,Nurel Group,True
+gpt,Nurel Group.Noise2.png,Nurel Group,Nurel Group,True
+gpt,Nurel Group.Noise3.png,Nurel Group,Nurel Group,True
+gpt,Nurel Group.Noise4.png,Nurel Group,Nurel Group,True
+gpt,P&G.Noise1.png,P&G,P&G,True
+gpt,P&G.Noise2.png,P&G,P&G,True
+gpt,P&G.Noise3.png,P&G,P&G,True
+gpt,P&G.Noise4.png,P&G,P&G,True
+gpt,PAGO.Noise1.png,PAGO,PAGO,True
+gpt,PAGO.Noise2.png,PAGO,PAGO,True
+gpt,PAGO.Noise3.png,PAGO,PAGO,True
+gpt,PAGO.Noise4.png,PAGO,PAGO,True
+gpt,PayPal.Noise1.png,PayPal,PayPal,True
+gpt,PayPal.Noise2.png,PayPal,PayPal,True
+gpt,PayPal.Noise3.png,PayPal,PayPal,True
+gpt,PayPal.Noise4.png,PayPal,PayPal,True
+gpt,State Farm.Noise1.png,State Farm,State Farm,True
+gpt,State Farm.Noise2.png,State Farm,State Farm,True
+gpt,State Farm.Noise3.png,State Farm,State Farm,True
+gpt,State Farm.Noise4.png,State Farm,State Farm,True
+gpt,The Home Depot.Noise1.png,The Home Depot,The Home Depot,True
+gpt,The Home Depot.Noise2.png,The Home Depot,The Home Depot,True
+gpt,The Home Depot.Noise3.png,The Home Depot,The Home Depot,True
+gpt,The Home Depot.Noise4.png,The Home Depot,The Home Depot,True
+gpt,Costco Wholesale.Noise3.png,Costco Wholesale,Costco Wholesale,True
+gpt,DHL.Noise1.png,DHL,DHL,True
+gpt,DHL.Noise3.png,DHL,DHL,True
+gpt,Discover.Noise1.png,Discover,Discover,True
+gpt,Discover.Noise3.png,Discover,Discover,True
+gpt,ExxonMobil.Noise1.png,ExxonMobil,ExxonMobil,True
+gpt,JPMorganChase.Noise3.png,JPMorganChase,JPMorgan Chase & Co.,False
+gpt,Kroger.Noise2.png,Kroger,Kroger,True
+gpt,Mastercard.Noise1.png,Mastercard,Mastercard,True
+gpt,McDonalds.Noise1.png,McDonalds,McDonald's,False
+gpt,Wells Fargo.Noise1.png,Wells Fargo,Wells Fargo,True
+gpt,Wells Fargo.Noise2.png,Wells Fargo,Wells Fargo,True
+gpt,Wells Fargo.Noise3.png,Wells Fargo,Wells Fargo,True
+gpt,Wells Fargo.Noise4.png,Wells Fargo,Wells Fargo,True
+gpt,AT&T.Noise1.png,AT&T,AT&T,True
+gpt,AT&T.Noise2.png,AT&T,AT&T,True
+gpt,AT&T.Noise3.png,AT&T,AT&T,True
+gpt,AT&T.Noise4.png,AT&T,AT&T,True
+gpt,Amazon.Noise1.png,Amazon,Amazon,True
+gpt,Amazon.Noise2.png,Amazon,Amazon,True
+gpt,Amazon.Noise3.png,Amazon,Amazon,True
+gpt,Amazon.Noise4.png,Amazon,Amazon,True
+gpt,American Express.Noise1.png,American Express,AMERICAN EXPRESS,True
+gpt,American Express.Noise2.png,American Express,AMERICAN EXPRESS,True
+gpt,American Express.Noise3.png,American Express,AMERICAN EXPRESS,True
+gpt,American Express.Noise4.png,American Express,AMERICAN EXPRESS,True
+gpt,Apple.Noise1.png,Apple,Apple,True
+gpt,Apple.Noise2.png,Apple,Apple,True
+gpt,Apple.Noise3.png,Apple,Apple,True
+gpt,Apple.Noise4.png,Apple,Apple,True
+gpt,Bank of America.Noise1.png,Bank of America,Bank of America,True
+gpt,Bank of America.Noise2.png,Bank of America,Bank of America,True
+gpt,Bank of America.Noise3.png,Bank of America,Bank of America,True
+gpt,Bank of America.Noise4.png,Bank of America,Bank of America,True
+gpt,Bitcoin.Noise1.png,Bitcoin,Bitcoin,True
+gpt,Bitcoin.Noise2.png,Bitcoin,Bitcoin,True
+gpt,Bitcoin.Noise3.png,Bitcoin,Bitcoin,True
+gpt,Bitcoin.Noise4.png,Bitcoin,Bitcoin,True
+gpt,Blue Style.Noise1.png,Blue Style,blue Style.,True
+gpt,Blue Style.Noise2.png,Blue Style,blue Style.,True
+gpt,Blue Style.Noise3.png,Blue Style,Blue Style.,True
+gpt,Blue Style.Noise4.png,Blue Style,blue Style.,True
+gpt,Capital One.Noise1.png,Capital One,Capital One Bank,True
+gpt,Capital One.Noise2.png,Capital One,Capital One Bank,True
+gpt,Capital One.Noise3.png,Capital One,Capital One Bank,True
+gpt,Capital One.Noise4.png,Capital One,Capital One Bank,True
+gpt,Chase.Noise1.png,Chase,Chase,True
+gpt,Chase.Noise2.png,Chase,Chase,True
+gpt,Chase.Noise3.png,Chase,Chase,True
+gpt,Chase.Noise4.png,Chase,Chase,True
+gpt,Costco Wholesale.Noise1.png,Costco Wholesale,Costco Wholesale,True
+gpt,Costco Wholesale.Noise2.png,Costco Wholesale,Costco Wholesale,True
+gpt,Costco Wholesale.Noise4.png,Costco Wholesale,Costco Wholesale,True
+gpt,DHL.Noise2.png,DHL,DHL,True
+gpt,DHL.Noise4.png,DHL,DHL,True
+gpt,Discover.Noise2.png,Discover,Discover,True
+gpt,Discover.Noise4.png,Discover,Discover,True
+gpt,JPMorganChase.Noise1.png,JPMorganChase,JPMorgan Chase & Co.,False
+gpt,Kroger.Noise1.png,Kroger,Kroger,True
+gpt,Kroger.Noise3.png,Kroger,Kroger,True
+gpt,Mastercard.Noise2.png,Mastercard,Mastercard,True
+gpt,Mastercard.Noise4.png,Mastercard,Mastercard,True
+gpt,McDonalds.Noise2.png,McDonalds,McDonald's,False
+gpt,McDonalds.Noise3.png,McDonalds,McDonald's,False
+gpt,McDonalds.Noise4.png,McDonalds,McDonald's,False
+gpt,McKesson.Noise1.png,McKesson,McKesson,True
+gpt,McKesson.Noise2.png,McKesson,McKesson,True
+gpt,McKesson.Noise3.png,McKesson,McKesson,True
+gpt,McKesson.Noise4.png,McKesson,McKesson,True
+gpt,Nike.Noise1.png,Nike,Nike,True
+gpt,Nike.Noise2.png,Nike,Nike,True
+gpt,Nike.Noise3.png,Nike,Nike,True
+gpt,Nike.Noise4.png,Nike,Nike,True
+gpt,Regions.Noise1.png,Regions,Regions,True
+gpt,Regions.Noise2.png,Regions,Regions,True
+gpt,Regions.Noise3.png,Regions,Regions,True
+gpt,Regions.Noise4.png,Regions,Regions,True
+gpt,SunTrust.Noise1.png,SunTrust,SunTrust,True
+gpt,SunTrust.Noise2.png,SunTrust,SunTrust,True
+gpt,SunTrust.Noise3.png,SunTrust,SunTrust,True
+gpt,SunTrust.Noise4.png,SunTrust,SunTrust,True
+gpt,Target.Noise1.png,Target,Target,True
+gpt,Target.Noise2.png,Target,Target,True
+gpt,Target.Noise3.png,Target,Target,True
+gpt,Target.Noise4.png,Target,Target,True
+gpt,UPS.Noise1.png,UPS,UPS,True
+gpt,UPS.Noise2.png,UPS,UPS,True
+gpt,UPS.Noise3.png,UPS,UPS,True
+gpt,UPS.Noise4.png,UPS,UPS,True
+gpt,United Healthcare.Noise1.png,United Healthcare,United Healthcare,True
+gpt,United Healthcare.Noise2.png,United Healthcare,United Healthcare,True
+gpt,United Healthcare.Noise3.png,United Healthcare,United Healthcare,True
+gpt,United Healthcare.Noise4.png,United Healthcare,United Healthcare,True
+gpt,VISA.Noise1.png,VISA,VISA,True
+gpt,VISA.Noise2.png,VISA,VISA Debit,True
+gpt,VISA.Noise3.png,VISA,VISA Debit,True
+gpt,VISA.Noise4.png,VISA,VISA,True
+gpt,WeChat.Noise1.png,WeChat,WeChat,True
+gpt,WeChat.Noise2.png,WeChat,WeChat,True
+gpt,WeChat.Noise3.png,WeChat,WeChat,True
+gpt,WeChat.Noise4.png,WeChat,WeChat,True
+gpt,walmart-Adversarial.png,walmart-Adversarial,Walmart,False
+llama,Google.png,Google,Google.,True
+llama,HRC elektron.png,HRC elektron,HRC Elektronik,True
+llama,PAGO.png,PAGO,PAGO,True
+llama,AT&T.png,AT&T,AT&T,True
+llama,Amazon.png,Amazon,Amazon.,True
+llama,American Express.png,American Express,American Express.,True
+llama,Apple.png,Apple,Apple,True
+llama,Bank of America.png,Bank of America,Bank of America.,True
+llama,Bitcoin.png,Bitcoin,Bitcoin.,True
+llama,Blue Style.png,Blue Style,Blue Style.,True
+llama,Capital One.png,Capital One,Capital One Bank,True
+llama,Chase.png,Chase,Chase Bank.,True
+llama,Costco Wholesale.png,Costco Wholesale,Costco Wholesale.,True
+llama,DHL.png,DHL,DHL,True
+llama,Discover.png,Discover,Discover,True
+llama,ExxonMobil.png,ExxonMobil,ExxonMobil,True
+llama,Facebook.png,Facebook,Facebook.,True
+llama,FedEx.png,FedEx,FedEx.,True
+llama,JPMorganChase.png,JPMorganChase,JPMorgan Chase & Co.,False
+llama,Kroger.png,Kroger,Kroger,True
+llama,Mastercard.png,Mastercard,Mastercard,True
+llama,McDonalds.png,McDonalds,McDonald's.,False
+llama,McKesson.png,McKesson,Mckesson,True
+llama,Microsoft.png,Microsoft,Microsoft,True
+llama,Nike.png,Nike,Nike,True
+llama,Nurel Group.png,Nurel Group,Nurel Group.,True
+llama,P&G.png,P&G,Procter & Gamble,False
+llama,PayPal.png,PayPal,PayPal,True
+llama,Regions.png,Regions,Regions,True
+llama,State Farm.png,State Farm,State Farm.,True
+llama,SunTrust.png,SunTrust,SunTrust.,True
+llama,Target.png,Target,Target.,True
+llama,The Home Depot.png,The Home Depot,The Home Depot,True
+llama,UPS.png,UPS,UPS,True
+llama,United Healthcare.png,United Healthcare,United Healthcare.,True
+llama,VISA.png,VISA,Visa Debit.,True
+llama,WeChat.png,WeChat,WeChat,True
+llama,Wells Fargo.png,Wells Fargo,Wells Fargo,True
+llama,ExxonMobil.Noise2.png,ExxonMobil,ExxonMobil,True
+llama,ExxonMobil.Noise3.png,ExxonMobil,ExxonMobil.,True
+llama,ExxonMobil.Noise4.png,ExxonMobil,ExxonMobil,True
+llama,Facebook.Noise1.png,Facebook,Facebook.,True
+llama,Facebook.Noise2.png,Facebook,Facebook.,True
+llama,Facebook.Noise3.png,Facebook,Facebook.,True
+llama,Facebook.Noise4.png,Facebook,Facebook.,True
+llama,FedEx.Noise1.png,FedEx,FedEx.,True
+llama,FedEx.Noise2.png,FedEx,FedEx.,True
+llama,FedEx.Noise3.png,FedEx,FedEx.,True
+llama,FedEx.Noise4.png,FedEx,FedEx.,True
+llama,Google.Noise1.png,Google,Google.,True
+llama,Google.Noise2.png,Google,Google.,True
+llama,Google.Noise3.png,Google,Google,True
+llama,Google.Noise4.png,Google,Google.,True
+llama,HRC elektron.Noise1.png,HRC elektron,HRC Elektronik.,True
+llama,HRC elektron.Noise2.png,HRC elektron,HRC Elektronik,True
+llama,HRC elektron.Noise3.png,HRC elektron,HRC Elektronik.,True
+llama,HRC elektron.Noise4.png,HRC elektron,HRC Elektronik.,True
+llama,JPMorganChase.Noise2.png,JPMorganChase,JPMorgan Chase & Co.,False
+llama,JPMorganChase.Noise4.png,JPMorganChase,JPMorgan Chase & Co.,False
+llama,Kroger.Noise4.png,Kroger,Kroger,True
+llama,Mastercard.Noise3.png,Mastercard,Mastercard,True
+llama,Microsoft.Noise1.png,Microsoft,Microsoft.,True
+llama,Microsoft.Noise2.png,Microsoft,Microsoft.,True
+llama,Microsoft.Noise3.png,Microsoft,Microsoft.,True
+llama,Microsoft.Noise4.png,Microsoft,Microsoft.,True
+llama,Nurel Group.Noise1.png,Nurel Group,Nurel Group.,True
+llama,Nurel Group.Noise2.png,Nurel Group,Nurel Group.,True
+llama,Nurel Group.Noise3.png,Nurel Group,Nurel Group.,True
+llama,Nurel Group.Noise4.png,Nurel Group,Nurel Group,True
+llama,P&G.Noise1.png,P&G,Procter & Gamble.,False
+llama,P&G.Noise2.png,P&G,Procter & Gamble.,False
+llama,P&G.Noise3.png,P&G,Procter & Gamble,False
+llama,P&G.Noise4.png,P&G,Procter & Gamble,False
+llama,PAGO.Noise1.png,PAGO,PAGO.,True
+llama,PAGO.Noise2.png,PAGO,PAGO.,True
+llama,PAGO.Noise3.png,PAGO,PAGO.,True
+llama,PAGO.Noise4.png,PAGO,PAGO.,True
+llama,PayPal.Noise1.png,PayPal,PayPal.,True
+llama,PayPal.Noise2.png,PayPal,PayPal.,True
+llama,PayPal.Noise3.png,PayPal,PayPal.,True
+llama,PayPal.Noise4.png,PayPal,PayPal.,True
+llama,State Farm.Noise1.png,State Farm,State Farm.,True
+llama,State Farm.Noise2.png,State Farm,State Farm.,True
+llama,State Farm.Noise3.png,State Farm,State Farm.,True
+llama,State Farm.Noise4.png,State Farm,State Farm.,True
+llama,The Home Depot.Noise1.png,The Home Depot,The Home Depot.,True
+llama,The Home Depot.Noise2.png,The Home Depot,The Home Depot.,True
+llama,The Home Depot.Noise3.png,The Home Depot,The Home Depot.,True
+llama,The Home Depot.Noise4.png,The Home Depot,The Home Depot.,True
+llama,Costco Wholesale.Noise3.png,Costco Wholesale,Costco.,False
+llama,DHL.Noise1.png,DHL,DHL.,True
+llama,DHL.Noise3.png,DHL,DHL,True
+llama,Discover.Noise1.png,Discover,Discover.,True
+llama,Discover.Noise3.png,Discover,Discover,True
+llama,ExxonMobil.Noise1.png,ExxonMobil,ExxonMobil.,True
+llama,JPMorganChase.Noise3.png,JPMorganChase,JPMorgan Chase & Co.,False
+llama,Kroger.Noise2.png,Kroger,Kroger.,True
+llama,Mastercard.Noise1.png,Mastercard,Mastercard.,True
+llama,McDonalds.Noise1.png,McDonalds,Golden Arches.,False
+llama,Wells Fargo.Noise1.png,Wells Fargo,Wells Fargo,True
+llama,Wells Fargo.Noise2.png,Wells Fargo,Wells Fargo.,True
+llama,Wells Fargo.Noise3.png,Wells Fargo,Wells Fargo.,True
+llama,Wells Fargo.Noise4.png,Wells Fargo,Wells Fargo.,True
+llama,AT&T.Noise1.png,AT&T,AT&T.,True
+llama,AT&T.Noise2.png,AT&T,AT&T Globe.,True
+llama,AT&T.Noise3.png,AT&T,AT&T,True
+llama,AT&T.Noise4.png,AT&T,AT&T Globe.,True
+llama,Amazon.Noise1.png,Amazon,Amazon.,True
+llama,Amazon.Noise2.png,Amazon,Smile Logo.,False
+llama,Amazon.Noise3.png,Amazon,Smile Logo.,False
+llama,Amazon.Noise4.png,Amazon,Amazon.,True
+llama,American Express.Noise1.png,American Express,American Express.,True
+llama,American Express.Noise2.png,American Express,American Express.,True
+llama,American Express.Noise3.png,American Express,American Express.,True
+llama,American Express.Noise4.png,American Express,American Express.,True
+llama,Apple.Noise1.png,Apple,Apple,True
+llama,Apple.Noise2.png,Apple,Apple.,True
+llama,Apple.Noise3.png,Apple,Apple.,True
+llama,Apple.Noise4.png,Apple,Apple.,True
+llama,Bank of America.Noise1.png,Bank of America,Bank of America.,True
+llama,Bank of America.Noise2.png,Bank of America,Bank of America.,True
+llama,Bank of America.Noise3.png,Bank of America,Bank of America.,True
+llama,Bank of America.Noise4.png,Bank of America,Bank of America.,True
+llama,Bitcoin.Noise1.png,Bitcoin,Bitcoin.,True
+llama,Bitcoin.Noise2.png,Bitcoin,Bitcoin.,True
+llama,Bitcoin.Noise3.png,Bitcoin,Bitcoin.,True
+llama,Bitcoin.Noise4.png,Bitcoin,Bitcoin.,True
+llama,Blue Style.Noise1.png,Blue Style,Blue Style.,True
+llama,Blue Style.Noise2.png,Blue Style,Blue Style.,True
+llama,Blue Style.Noise3.png,Blue Style,Blue Style.,True
+llama,Blue Style.Noise4.png,Blue Style,blue style.,True
+llama,Capital One.Noise1.png,Capital One,Capital One Bank.,True
+llama,Capital One.Noise2.png,Capital One,Capital One.,True
+llama,Capital One.Noise3.png,Capital One,Capital One.,True
+llama,Capital One.Noise4.png,Capital One,Capital One Bank,True
+llama,Chase.Noise1.png,Chase,Chase.,True
+llama,Chase.Noise2.png,Chase,Chase.,True
+llama,Chase.Noise3.png,Chase,Chase.,True
+llama,Chase.Noise4.png,Chase,Chase.,True
+llama,Costco Wholesale.Noise1.png,Costco Wholesale,Costco Wholesale.,True
+llama,Costco Wholesale.Noise2.png,Costco Wholesale,Costco.,False
+llama,Costco Wholesale.Noise4.png,Costco Wholesale,Costco.,False
+llama,DHL.Noise2.png,DHL,DHL.,True
+llama,DHL.Noise4.png,DHL,DHL.,True
+llama,Discover.Noise2.png,Discover,Discover,True
+llama,Discover.Noise4.png,Discover,Discover.,True
+llama,JPMorganChase.Noise1.png,JPMorganChase,JPMorgan Chase & Co.,False
+llama,Kroger.Noise1.png,Kroger,Kroger.,True
+llama,Kroger.Noise3.png,Kroger,Kroger.,True
+llama,Mastercard.Noise2.png,Mastercard,Mastercard.,True
+llama,Mastercard.Noise4.png,Mastercard,Mastercard,True
+llama,McDonalds.Noise2.png,McDonalds,Golden Arches.,False
+llama,McDonalds.Noise3.png,McDonalds,Golden Arches.,False
+llama,McDonalds.Noise4.png,McDonalds,McDonald's,False
+llama,McKesson.Noise1.png,McKesson,McKesson.,True
+llama,McKesson.Noise2.png,McKesson,McKesson.,True
+llama,McKesson.Noise3.png,McKesson,Mckesson,True
+llama,McKesson.Noise4.png,McKesson,McKesson.,True
+llama,Nike.Noise1.png,Nike,Swoosh.,False
+llama,Nike.Noise2.png,Nike,Swoosh.,False
+llama,Nike.Noise3.png,Nike,Swoosh.,False
+llama,Nike.Noise4.png,Nike,Nike Swoosh.,True
+llama,Regions.Noise1.png,Regions,Regions,True
+llama,Regions.Noise2.png,Regions,Regions.,True
+llama,Regions.Noise3.png,Regions,Regions.,True
+llama,Regions.Noise4.png,Regions,Regions.,True
+llama,SunTrust.Noise1.png,SunTrust,SunTrust.,True
+llama,SunTrust.Noise2.png,SunTrust,SunTrust.,True
+llama,SunTrust.Noise3.png,SunTrust,SunTrust.,True
+llama,SunTrust.Noise4.png,SunTrust,SunTrust.,True
+llama,Target.Noise1.png,Target,Target,True
+llama,Target.Noise2.png,Target,Target,True
+llama,Target.Noise3.png,Target,Target.,True
+llama,Target.Noise4.png,Target,Target.,True
+llama,UPS.Noise1.png,UPS,UPS.,True
+llama,UPS.Noise2.png,UPS,UPS.,True
+llama,UPS.Noise3.png,UPS,UPS.,True
+llama,UPS.Noise4.png,UPS,UPS.,True
+llama,United Healthcare.Noise1.png,United Healthcare,UnitedHealthcare.,False
+llama,United Healthcare.Noise2.png,United Healthcare,UnitedHealthcare.,False
+llama,United Healthcare.Noise3.png,United Healthcare,UnitedHealthcare.,False
+llama,United Healthcare.Noise4.png,United Healthcare,UnitedHealthcare.,False
+llama,VISA.Noise1.png,VISA,Visa Debit,True
+llama,VISA.Noise2.png,VISA,Visa Debit,True
+llama,VISA.Noise3.png,VISA,Visa Debit,True
+llama,VISA.Noise4.png,VISA,Visa.,True
+llama,WeChat.Noise1.png,WeChat,WeChat.,True
+llama,WeChat.Noise2.png,WeChat,WeChat.,True
+llama,WeChat.Noise3.png,WeChat,WeChat.,True
+llama,WeChat.Noise4.png,WeChat,WeChat.,True
+llama,walmart-Adversarial.png,walmart-Adversarial,Walmart.,False
