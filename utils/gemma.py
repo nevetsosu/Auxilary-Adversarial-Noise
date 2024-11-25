@@ -4,6 +4,7 @@ import torch
 import torch.nn as nn
 import sys
 from torchvision import transforms
+import numpy as np
 
 class gemma:
     def __init__(self):
@@ -91,11 +92,11 @@ class gemma:
         # preprocess image
         prompt = "<image>What is this"
         model_inputs = self.processor(text=prompt, images=image_rgb, return_tensors="pt").to(self.device, self.dtype)
-       
+
         # original_image.require_grad should be false at this point
         original_image = model_inputs['pixel_values']
-        upper_bound = original_image + epsilon
-        lower_bound = original_image - epsilon
+        upper_bound = torch.clamp(original_image + epsilon, -1, 1)
+        lower_bound = torch.clamp(original_image - epsilon, -1, 1)
 
         # should be FALSE FALSE at this point
         print(upper_bound.requires_grad)
@@ -167,18 +168,19 @@ class gemma:
 
         return model_inputs['pixel_values']
 
-    def perturb(self, in_path, out_path, target_label, epsilon, iterations, loss_threshold, progressive_save):
+    def perturb(self, in_path, out_path, target_label, eta, epsilon, iterations, loss_threshold, progressive_save):
         """
         One time setup
         """
         # open image
         image = Image.open(in_path)
-        image_rgb = image.convert("RGB")
+        image_rgb = image
 
                # get target output
         adv_pixel_values = self.iterative_FGSM(
             image_rgb,
             target_label,
+            eta=eta,
             epsilon=epsilon,
             iterations=iterations,
             loss_threshold=loss_threshold,

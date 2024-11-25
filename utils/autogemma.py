@@ -22,10 +22,10 @@ for entry in LOGO_DIR.iterdir():
         continue
 
     out_file = ALTERED_DIR / f"{entry.stem}-Adversarial.png"
-    
+
     if (out_file.exists() and not force):
         print(f"ignoring {entry.name} since {out_file.name} exists")
         continue
 
     print(f"perturbing {entry.name} to {out_file.name}")
-    g.perturb(entry, out_file, "cat", 0.01, 10000, 0.25, True)
+    g.perturb(entry, out_file, "cat", 0.01, 0.03, 10000, 0.50, True)
