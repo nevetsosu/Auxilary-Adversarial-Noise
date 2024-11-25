@@ -99,10 +99,8 @@ class gemma:
         lower_bound = torch.clamp(original_image - epsilon, -1, 1)
 
         # should be FALSE FALSE at this point
-        print(upper_bound.requires_grad)
-        print(lower_bound.requires_grad)
-
-        model_inputs['pixel_values'].requires_grad = True
+        # print(upper_bound.requires_grad)
+        # print(lower_bound.requires_grad)
 
         # using the non-wrapped generate avoids the @no_grad decorator on the normal generate
         generation = self.model.generate.__wrapped__(
@@ -126,7 +124,17 @@ class gemma:
 
         # define the loss function
         loss_fn = nn.CrossEntropyLoss()
-        reg_loss_fn = self.total_variation_loss
+        # reg_loss_fn = self.total_variation_loss
+
+        # original = model_inputs['pixel_values'].clone().detach()
+        # perturbation = torch.zeros_like(model_inputs['pixel_values']).detach()
+
+        # introduce random start
+        model_inputs['pixel_values'] += torch.empty_like(model_inputs['pixel_values']).uniform_(-eta, eta)
+        model_inputs['pixel_values'] = torch.clamp(model_inputs['pixel_values'], lower_bound, upper_bound)
+
+        model_inputs['pixel_values'].requires_grad = True
+
         for i in range(iterations):
             print(f"[iterative_FGSM] {i + 1} / {iterations}")
             # generate prediction
@@ -146,8 +154,8 @@ class gemma:
             target_labels_reshaped = target_inputs.view(-1)
 
             # calculate loss and gradients
-            # loss = loss_fn(logits_reshaped, target_labels_reshaped)
-            loss = loss_fn(logits_reshaped, target_labels_reshaped) + reg_loss_fn(model_inputs['pixel_values'])
+            loss = loss_fn(logits_reshaped, target_labels_reshaped)
+            # loss = loss_fn(logits_reshaped, target_labels_reshaped) + reg_loss_fn(perturbation)
             self.model.zero_grad()
             loss.backward()
             print(f"loss: {loss}")
@@ -155,6 +163,7 @@ class gemma:
             grad = model_inputs['pixel_values'].grad.data
             perturbed_pixel_values = model_inputs['pixel_values'].clone().detach().to(self.device) - eta * grad.sign()
             perturbed_pixel_values = torch.clip(perturbed_pixel_values, lower_bound, upper_bound)
+            # perturbation = perturbed_pixel_values - original
             perturbed_pixel_values.requires_grad = True
 
             model_inputs['pixel_values'] = perturbed_pixel_values
@@ -187,15 +196,38 @@ class gemma:
             progressive_save=progressive_save,
             out_path=out_path
         )
+        self.prompt(in_path)
         adv_img = self.tensor_to_image(image, adv_pixel_values)
         adv_img.save(out_path)
 
+    def prompt(self, in_path):
+        image = Image.open(in_path)
+        image_rgb = image
+
+        # preprocess image
+        prompt = "<image>What is this"
+        model_inputs = self.processor(text=prompt, images=image_rgb, return_tensors="pt").to(self.device, self.dtype)
+
+        generation = self.model.generate(
+                **model_inputs,
+                max_new_tokens=5,
+                do_sample=False,
+                output_scores=True,
+                output_logits=True,
+                return_dict_in_generate=True
+        )
+        input_len = model_inputs["input_ids"].shape[-1]
+        sequence = generation.sequences[0][input_len:]
+
+        decoded = self.processor.decode(sequence, skip_special_tokens=False)
+        print(f'Prediction: {decoded}')
 
 def main():
-    if len(sys.argv) != 8:
-        print("Usage: gemma IN_PATH OUT_PATH TARGET_LABEL EPSILON ITERATIONS LOSS_THRESHOLD PROGRESSIVE_SAVE")
-        exit() 
-    _, in_path, out_path, target_label, epsilon, iterations, loss_threshold, progressive_save = sys.argv
+    if len(sys.argv) != 9:
+        print("Usage: gemma sub_command IN_PATH OUT_PATH TARGET_LABEL EPSILON ITERATIONS LOSS_THRESHOLD PROGRESSIVE_SAVE")
+        exit()
+
+    _, sub_command, in_path, out_path, target_label, epsilon, iterations, loss_threshold, progressive_save = sys.argv
 
     epsilon = float(epsilon)
     iterations = int(iterations)
@@ -210,7 +242,13 @@ def main():
     print(f'loss_threshold: {loss_threshold}')
     print(f'progressive_save: {progressive_save}')
 
-    gemma().perturb(in_path, out_path, target_label, epsilon, iterations, loss_threshold, progressive_save) 
+    if (sub_command == "prompt"):
+        gemma().prompt(in_path)
+    elif (sub_command == "perturb"):
+        gemma().perturb(in_path, out_path, target_label, epsilon, iterations, loss_threshold, progressive_save)
+    else:
+        print("invalid command")
+        exit(1)
 
 if __name__ == "__main__":
     main()

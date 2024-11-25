@@ -214,8 +214,6 @@ gemini,WeChat.Noise1.png,WeChat,WeChat,True
 gemini,WeChat.Noise2.png,WeChat,WeChat,True
 gemini,WeChat.Noise3.png,WeChat,WeChat,True
 gemini,WeChat.Noise4.png,WeChat,WeChat,True
-gemini,walmart-Adversarial.png,walmart-Adversarial,"Walmart
-",False
 gpt,Google.png,Google,Google,True
 gpt,HRC elektron.png,HRC elektron,HRC elektron,True
 gpt,PAGO.png,PAGO,PAGO,True
@@ -406,7 +404,6 @@ gpt,WeChat.Noise1.png,WeChat,WeChat,True
 gpt,WeChat.Noise2.png,WeChat,WeChat,True
 gpt,WeChat.Noise3.png,WeChat,WeChat,True
 gpt,WeChat.Noise4.png,WeChat,WeChat,True
-gpt,walmart-Adversarial.png,walmart-Adversarial,Walmart,False
 llama,Google.png,Google,Google.,True
 llama,HRC elektron.png,HRC elektron,HRC Elektronik,True
 llama,PAGO.png,PAGO,PAGO,True
@@ -597,4 +594,3 @@ llama,WeChat.Noise1.png,WeChat,WeChat.,True
 llama,WeChat.Noise2.png,WeChat,WeChat.,True
 llama,WeChat.Noise3.png,WeChat,WeChat.,True
 llama,WeChat.Noise4.png,WeChat,WeChat.,True
-llama,walmart-Adversarial.png,walmart-Adversarial,Walmart.,False
