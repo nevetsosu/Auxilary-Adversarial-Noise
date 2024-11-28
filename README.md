@@ -1,9 +1,10 @@
 # Classification Pipeline
 1. Convert jpg to png. This can be skipped if PNG already.
 2. Ensure resolution sizes are within bounds.
-3. Classify original, if not recognized, remove image and do not continue.
-4. Generate altered logos
-5. Classify altered
+3. Apply transparency fixes
+4. Classify original, if not recognized, remove image and do not continue.
+5. Generate altered logos
+6. Classify altered
 
 Instead of classifying the original and altered logos in two different steps (3 and 5), you can skip step 3 and the original image will be classified in step 5 along with the altered logos.
 Classifying the original first just shows if the original is even recognized, if the original isn't recognized, perturbations are not going to matter.
@@ -21,6 +22,15 @@ Your image should already be a PNG and should be in LOGO_DIR.
 It WILL replace the original image.
 
 1. Run utils/resolution.py
+
+
+# Transparency fixes
+LOGO_DIR and ALTERED_DIR should be defined in a .env, as well as the model api keys.
+Your image should already be PNG and within resolution bounds.
+
+1. Run utils/alpha.py FILE1 \[FILE2\]...
+
+Unlike some of the other utilities, this one currently takes file names as arguments instead of searching through LOGO_DIR or ALTERED_DIR.
 
 # Generating altered
 LOGO_DIR and ALTERED_DIR should be defined in a .env.
