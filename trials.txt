@@ -1,0 +1,11 @@
+Adversarial1:
+eta = 0.005
+epislon = 0.050
+max iterations = 10000
+loss threshold = 0.50
+
+Adversarial2:
+eta = 0.005
+epislon = 0.1
+max iterations = 10000
+loss threshold = 0.50
