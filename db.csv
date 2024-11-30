@@ -594,3 +594,1565 @@ llama,WeChat.Noise1.png,WeChat,WeChat.,True
 llama,WeChat.Noise2.png,WeChat,WeChat.,True
 llama,WeChat.Noise3.png,WeChat,WeChat.,True
 llama,WeChat.Noise4.png,WeChat,WeChat.,True
+gemini,AT&T.Saturate1.png,AT&T,AT&T,True
+gemini,AT&T.Saturate2.png,AT&T,AT&T,True
+gemini,AT&T.Saturate3.png,AT&T,AT&T,True
+gemini,AT&T.Saturate4.png,AT&T,AT&T,True
+gemini,Amazon.Saturate1.png,Amazon,amazon,True
+gemini,Amazon.Saturate2.png,Amazon,amazon,True
+gemini,Amazon.Saturate3.png,Amazon,amazon,True
+gemini,Amazon.Saturate4.png,Amazon,"Amazon
+",True
+gemini,American Express.Saturate1.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Saturate2.png,American Express,American Express,True
+gemini,American Express.Saturate3.png,American Express,American Express,True
+gemini,American Express.Saturate4.png,American Express,AMERICAN EXPRESS,True
+gemini,Apple.Saturate1.png,Apple,"Apple
+",True
+gemini,Apple.Saturate2.png,Apple,"Apple
+",True
+gemini,Apple.Saturate3.png,Apple,"Apple
+",True
+gemini,Apple.Saturate4.png,Apple,"Apple
+",True
+gemini,Bank of America.Saturate1.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate2.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate3.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate4.png,Bank of America,Bank of America,True
+gemini,Bitcoin.Saturate1.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate2.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate3.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate4.png,Bitcoin,Bitcoin,True
+gemini,Blue Style.Saturate1.png,Blue Style,Blue Style,True
+gemini,Blue Style.Saturate2.png,Blue Style,Blue Style,True
+gemini,Blue Style.Saturate3.png,Blue Style,Blue Style,True
+gemini,Blue Style.Saturate4.png,Blue Style,Blue Style,True
+gemini,Capital One.Saturate1.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate2.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate3.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate4.png,Capital One,Capital One Bank,True
+gemini,Chase.Saturate1.png,Chase,CHASE,True
+gemini,Chase.Saturate2.png,Chase,CHASE,True
+gemini,Chase.Saturate3.png,Chase,CHASE,True
+gemini,Chase.Saturate4.png,Chase,CHASE,True
+gemini,Costco Wholesale.Saturate1.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Saturate2.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Saturate3.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Saturate4.png,Costco Wholesale,COSTCO,False
+gemini,DHL.Saturate1.png,DHL,DHL,True
+gemini,DHL.Saturate2.png,DHL,DHL,True
+gemini,DHL.Saturate3.png,DHL,DHL,True
+gemini,DHL.Saturate4.png,DHL,DHL,True
+gemini,Discover.Saturate1.png,Discover,DISCOVER,True
+gemini,Discover.Saturate2.png,Discover,DISCOVER,True
+gemini,Discover.Saturate3.png,Discover,DISCOVER,True
+gemini,Discover.Saturate4.png,Discover,DISCOVER,True
+gemini,ExxonMobil.Saturate1.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate2.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate3.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate4.png,ExxonMobil,ExxonMobil,True
+gemini,Facebook.Saturate1.png,Facebook,"Facebook
+",True
+gemini,Facebook.Saturate2.png,Facebook,"Facebook
+",True
+gemini,Facebook.Saturate3.png,Facebook,"Facebook
+",True
+gemini,Facebook.Saturate4.png,Facebook,"Facebook
+",True
+gemini,FedEx.Saturate1.png,FedEx,FedEx,True
+gemini,FedEx.Saturate2.png,FedEx,FedEx,True
+gemini,FedEx.Saturate3.png,FedEx,FedEx,True
+gemini,FedEx.Saturate4.png,FedEx,FedEx,True
+gemini,Google.Saturate1.png,Google,"Google.
+",True
+gemini,Google.Saturate2.png,Google,"Google
+",True
+gemini,Google.Saturate3.png,Google,"Google
+",True
+gemini,Google.Saturate4.png,Google,"Google
+",True
+gemini,HRC elektron.Saturate1.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate2.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate3.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate4.png,HRC elektron,HRC elektron,True
+gemini,JPMorganChase.Saturate1.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Saturate2.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Saturate3.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Saturate4.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,Kroger.Saturate1.png,Kroger,Kroger,True
+gemini,Kroger.Saturate2.png,Kroger,Kroger,True
+gemini,Kroger.Saturate3.png,Kroger,Kroger,True
+gemini,Kroger.Saturate4.png,Kroger,Kroger,True
+gemini,Mastercard.Saturate1.png,Mastercard,Intersections,False
+gemini,Mastercard.Saturate2.png,Mastercard,"The overlap of two circles is a common visual motif, and without more information, it's impossible to name the logo.  A logo is a visual mark associated with a specific brand or organization; without knowing the brand, its name cannot be provided.
+",False
+gemini,Mastercard.Saturate3.png,Mastercard,"That's the logo for **The Wine Group**.
+",False
+gemini,Mastercard.Saturate4.png,Mastercard,Redwood Credit Union,False
+gemini,McDonalds.Saturate1.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate2.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate3.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate4.png,McDonalds,McDonald's,False
+gemini,McKesson.Saturate1.png,McKesson,McKesson,True
+gemini,McKesson.Saturate2.png,McKesson,McKesson,True
+gemini,McKesson.Saturate3.png,McKesson,McKesson,True
+gemini,McKesson.Saturate4.png,McKesson,McKesson,True
+gemini,Microsoft.Saturate1.png,Microsoft,"Microsoft
+",True
+gemini,Microsoft.Saturate2.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate3.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate4.png,Microsoft,Microsoft,True
+gemini,Nike.Saturate1.png,Nike,"NIKE
+",True
+gemini,Nike.Saturate2.png,Nike,"NIKE
+",True
+gemini,Nike.Saturate3.png,Nike,NIKE,True
+gemini,Nike.Saturate4.png,Nike,NIKE,True
+gemini,Nurel Group.Saturate1.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate2.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate3.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate4.png,Nurel Group,Nurel Group,True
+gemini,P&G.Saturate1.png,P&G,P&G,True
+gemini,P&G.Saturate2.png,P&G,P&G,True
+gemini,P&G.Saturate3.png,P&G,P&G,True
+gemini,P&G.Saturate4.png,P&G,P&G,True
+gemini,PAGO.Saturate1.png,PAGO,PAGO,True
+gemini,PAGO.Saturate2.png,PAGO,PAGO,True
+gemini,PAGO.Saturate3.png,PAGO,PAGO,True
+gemini,PAGO.Saturate4.png,PAGO,PAGO,True
+gemini,PayPal.Saturate1.png,PayPal,PayPal,True
+gemini,PayPal.Saturate2.png,PayPal,PayPal,True
+gemini,PayPal.Saturate3.png,PayPal,PayPal,True
+gemini,PayPal.Saturate4.png,PayPal,PayPal,True
+gemini,Regions.Saturate1.png,Regions,REGIONS,True
+gemini,Regions.Saturate2.png,Regions,REGIONS,True
+gemini,Regions.Saturate3.png,Regions,REGIONS,True
+gemini,Regions.Saturate4.png,Regions,REGIONS,True
+gemini,State Farm.Saturate1.png,State Farm,State Farm,True
+gemini,State Farm.Saturate2.png,State Farm,State Farm,True
+gemini,State Farm.Saturate3.png,State Farm,State Farm,True
+gemini,State Farm.Saturate4.png,State Farm,State Farm,True
+gemini,SunTrust.Saturate1.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate2.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate3.png,SunTrust,SUNTRUST,True
+gemini,SunTrust.Saturate4.png,SunTrust,SunTrust,True
+gemini,Target.Saturate1.png,Target,TARGET,True
+gemini,Target.Saturate2.png,Target,TARGET,True
+gemini,Target.Saturate3.png,Target,TARGET,True
+gemini,Target.Saturate4.png,Target,TARGET,True
+gemini,The Home Depot.Saturate1.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate2.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate3.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate4.png,The Home Depot,The Home Depot,True
+gemini,UPS.Saturate1.png,UPS,UPS,True
+gemini,UPS.Saturate2.png,UPS,UPS,True
+gemini,UPS.Saturate3.png,UPS,UPS,True
+gemini,UPS.Saturate4.png,UPS,UPS,True
+gemini,United Healthcare.Saturate1.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Saturate2.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Saturate3.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Saturate4.png,United Healthcare,UnitedHealthcare,False
+gemini,VISA.Saturate1.png,VISA,"VISA Debit
+",True
+gemini,VISA.Saturate2.png,VISA,"Visa Debit
+",True
+gemini,VISA.Saturate3.png,VISA,"VISA Debit
+",True
+gemini,VISA.Saturate4.png,VISA,"VISA Debit
+",True
+gemini,WeChat.Saturate1.png,WeChat,WeChat,True
+gemini,WeChat.Saturate2.png,WeChat,WeChat,True
+gemini,WeChat.Saturate3.png,WeChat,WeChat,True
+gemini,WeChat.Saturate4.png,WeChat,WeChat,True
+gemini,Wells Fargo.Saturate1.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate2.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate3.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate4.png,Wells Fargo,Wells Fargo,True
+gemini,P&G.Noise5.png,P&G,P&G,True
+gemini,P&G.Saturate5.png,P&G,P&G,True
+gemini,P&G.Noise6.png,P&G,P&G,True
+gemini,P&G.Saturate6.png,P&G,P&G,True
+gemini,P&G.Noise7.png,P&G,P&G,True
+gemini,P&G.Saturate7.png,P&G,P&G,True
+gemini,P&G.Noise8.png,P&G,P&G,True
+gemini,P&G.Saturate8.png,P&G,P&G,True
+gemini,P&G.Noise9.png,P&G,P&G,True
+gemini,P&G.Saturate9.png,P&G,P&G,True
+gemini,PayPal.Noise5.png,PayPal,PayPal,True
+gemini,PayPal.Saturate5.png,PayPal,PayPal,True
+gemini,PayPal.Noise6.png,PayPal,PayPal,True
+gemini,PayPal.Saturate6.png,PayPal,PayPal,True
+gemini,PayPal.Noise7.png,PayPal,PayPal,True
+gemini,PayPal.Saturate7.png,PayPal,PayPal,True
+gemini,PayPal.Noise8.png,PayPal,PayPal,True
+gemini,PayPal.Saturate8.png,PayPal,PayPal,True
+gemini,PayPal.Noise9.png,PayPal,PayPal,True
+gemini,PayPal.Saturate9.png,PayPal,PayPal,True
+gemini,State Farm.Noise5.png,State Farm,State Farm,True
+gemini,State Farm.Saturate5.png,State Farm,State Farm,True
+gemini,State Farm.Noise6.png,State Farm,State Farm,True
+gemini,State Farm.Saturate6.png,State Farm,State Farm,True
+gemini,State Farm.Noise7.png,State Farm,State Farm,True
+gemini,State Farm.Saturate7.png,State Farm,State Farm,True
+gemini,State Farm.Noise8.png,State Farm,State Farm,True
+gemini,State Farm.Saturate8.png,State Farm,State Farm,True
+gemini,State Farm.Noise9.png,State Farm,State Farm,True
+gemini,State Farm.Saturate9.png,State Farm,State Farm,True
+gemini,The Home Depot.Noise5.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate5.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Noise6.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate6.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Noise7.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate7.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Noise8.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate8.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Noise9.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate9.png,The Home Depot,The Home Depot,True
+gemini,United Healthcare.Noise5.png,United Healthcare,UnitedHealthcare,False
+gemini,United Healthcare.Saturate5.png,United Healthcare,UnitedHealthcare,False
+gemini,United Healthcare.Noise6.png,United Healthcare,UnitedHealthcare,False
+gemini,United Healthcare.Saturate6.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Noise7.png,United Healthcare,UnitedHealthcare,False
+gemini,United Healthcare.Saturate7.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Noise8.png,United Healthcare,UnitedHealthcare,False
+gemini,United Healthcare.Saturate8.png,United Healthcare,United Healthcare,True
+gemini,United Healthcare.Noise9.png,United Healthcare,UnitedHealthcare,False
+gemini,United Healthcare.Saturate9.png,United Healthcare,UnitedHealthcare,False
+gemini,Wells Fargo.Noise5.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate5.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Noise6.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate6.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Noise7.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate7.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Noise8.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate8.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Noise9.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate9.png,Wells Fargo,Wells Fargo,True
+gemini,American Express.Noise5.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Saturate5.png,American Express,American Express,True
+gemini,American Express.Noise6.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Saturate6.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Noise7.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Saturate7.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Noise8.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Saturate8.png,American Express,American Express,True
+gemini,American Express.Noise9.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Saturate9.png,American Express,American Express,True
+gemini,Apple.Noise5.png,Apple,"Apple
+",True
+gemini,Apple.Saturate5.png,Apple,"Apple
+",True
+gemini,Apple.Noise6.png,Apple,"Apple
+",True
+gemini,Apple.Saturate6.png,Apple,"Apple
+",True
+gemini,Apple.Noise7.png,Apple,"Apple
+",True
+gemini,Apple.Saturate7.png,Apple,"Apple
+",True
+gemini,Apple.Noise8.png,Apple,"Apple
+",True
+gemini,Apple.Saturate8.png,Apple,"Apple
+",True
+gemini,Apple.Noise9.png,Apple,"Apple
+",True
+gemini,Apple.Saturate9.png,Apple,"Apple
+",True
+gemini,Bank of America.Noise5.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate5.png,Bank of America,Bank of America,True
+gemini,Bank of America.Noise6.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate6.png,Bank of America,Bank of America,True
+gemini,Bank of America.Noise7.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate7.png,Bank of America,Bank of America,True
+gemini,Bank of America.Noise8.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate8.png,Bank of America,Bank of America,True
+gemini,Bank of America.Noise9.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate9.png,Bank of America,Bank of America,True
+gemini,Bitcoin.Noise5.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate5.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Noise6.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate6.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Noise7.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate7.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Noise8.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate8.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Noise9.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate9.png,Bitcoin,Bitcoin,True
+gemini,Blue Style.Noise5.png,Blue Style,Blue Style,True
+gemini,Blue Style.Saturate5.png,Blue Style,Blue Style,True
+gemini,Blue Style.Noise6.png,Blue Style,Blue Style,True
+gemini,Blue Style.Saturate6.png,Blue Style,Blue Style.,True
+gemini,Blue Style.Noise7.png,Blue Style,Blue Style,True
+gemini,Blue Style.Saturate7.png,Blue Style,Blue Style,True
+gemini,Blue Style.Noise8.png,Blue Style,Blue Skyla,False
+gemini,Blue Style.Saturate8.png,Blue Style,Blue Style,True
+gemini,Blue Style.Noise9.png,Blue Style,Blue Skyla,False
+gemini,Blue Style.Saturate9.png,Blue Style,Blue Style,True
+gemini,Capital One.Noise5.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate5.png,Capital One,Capital One Bank,True
+gemini,Capital One.Noise6.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate6.png,Capital One,Capital One Bank,True
+gemini,Capital One.Noise7.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate7.png,Capital One,Capital One Bank,True
+gemini,Capital One.Noise8.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate8.png,Capital One,Capital One Bank,True
+gemini,Capital One.Noise9.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate9.png,Capital One,Capital One Bank,True
+gemini,Chase.Noise5.png,Chase,CHASE,True
+gemini,Chase.Saturate5.png,Chase,CHASE,True
+gemini,Chase.Noise6.png,Chase,CHASE,True
+gemini,Chase.Saturate6.png,Chase,CHASE,True
+gemini,Chase.Noise7.png,Chase,CHASE,True
+gemini,Chase.Saturate7.png,Chase,CHASE,True
+gemini,Chase.Noise8.png,Chase,CHASE,True
+gemini,Chase.Saturate8.png,Chase,CHASE,True
+gemini,Chase.Noise9.png,Chase,CHASE,True
+gemini,Chase.Saturate9.png,Chase,CHASE,True
+gemini,Costco Wholesale.Noise5.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Saturate5.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Noise6.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Saturate6.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Noise7.png,Costco Wholesale,Costco,False
+gemini,Costco Wholesale.Saturate7.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Noise8.png,Costco Wholesale,Costco,False
+gemini,Costco Wholesale.Saturate8.png,Costco Wholesale,COSTCO,False
+gemini,Costco Wholesale.Noise9.png,Costco Wholesale,Costco,False
+gemini,Costco Wholesale.Saturate9.png,Costco Wholesale,Costco,False
+gemini,DHL.Noise5.png,DHL,DHL,True
+gemini,DHL.Saturate5.png,DHL,DHL,True
+gemini,DHL.Noise6.png,DHL,DHL,True
+gemini,DHL.Saturate6.png,DHL,DHL,True
+gemini,DHL.Noise7.png,DHL,DHL,True
+gemini,DHL.Saturate7.png,DHL,DHL,True
+gemini,DHL.Noise8.png,DHL,DHL,True
+gemini,DHL.Saturate8.png,DHL,DHL,True
+gemini,DHL.Noise9.png,DHL,DHL,True
+gemini,DHL.Saturate9.png,DHL,DHL,True
+gemini,Discover.Noise5.png,Discover,DISCOVER,True
+gemini,Discover.Saturate5.png,Discover,DISCOVER,True
+gemini,Discover.Noise6.png,Discover,DISCOVER,True
+gemini,Discover.Saturate6.png,Discover,DISCOVER,True
+gemini,Discover.Noise7.png,Discover,DISCOVER,True
+gemini,Discover.Saturate7.png,Discover,DISCOVER,True
+gemini,Discover.Noise8.png,Discover,DISCOVER,True
+gemini,Discover.Saturate8.png,Discover,DISCOVER,True
+gemini,Discover.Noise9.png,Discover,DISCOVER,True
+gemini,Discover.Saturate9.png,Discover,DISCOVER,True
+gemini,ExxonMobil.Noise5.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate5.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Noise6.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate6.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Noise7.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate7.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Noise8.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate8.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Noise9.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate9.png,ExxonMobil,ExxonMobil,True
+gemini,Facebook.Noise5.png,Facebook,"Facebook
+",True
+gemini,Facebook.Saturate5.png,Facebook,"Facebook
+",True
+gemini,Facebook.Noise6.png,Facebook,"Facebook
+",True
+gemini,Facebook.Saturate6.png,Facebook,"Facebook
+",True
+gemini,Facebook.Noise7.png,Facebook,Facebook,True
+gemini,Facebook.Saturate7.png,Facebook,"Facebook
+",True
+gemini,Facebook.Noise8.png,Facebook,"Facebook
+",True
+gemini,Facebook.Saturate8.png,Facebook,"Facebook
+",True
+gemini,Facebook.Noise9.png,Facebook,"Facebook.
+",True
+gemini,Facebook.Saturate9.png,Facebook,"Facebook
+",True
+gemini,FedEx.Noise5.png,FedEx,FedEx,True
+gemini,FedEx.Saturate5.png,FedEx,FedEx,True
+gemini,FedEx.Noise6.png,FedEx,FedEx,True
+gemini,FedEx.Saturate6.png,FedEx,FedEx,True
+gemini,FedEx.Noise7.png,FedEx,FedEx,True
+gemini,FedEx.Saturate7.png,FedEx,FedEx,True
+gemini,FedEx.Noise8.png,FedEx,FedEx,True
+gemini,FedEx.Saturate8.png,FedEx,FedEx,True
+gemini,FedEx.Noise9.png,FedEx,FedEx,True
+gemini,FedEx.Saturate9.png,FedEx,FedEx,True
+gemini,Google.Noise5.png,Google,"Google
+",True
+gemini,Google.Saturate5.png,Google,"Google
+",True
+gemini,Google.Noise6.png,Google,"Google
+",True
+gemini,Google.Saturate6.png,Google,"Google
+",True
+gemini,Google.Noise7.png,Google,"Google
+",True
+gemini,Google.Saturate7.png,Google,"Google
+",True
+gemini,Google.Noise8.png,Google,"Google
+",True
+gemini,Google.Saturate8.png,Google,"Google
+",True
+gemini,Google.Noise9.png,Google,"Google
+",True
+gemini,Google.Saturate9.png,Google,"Google
+",True
+gemini,HRC elektron.Noise5.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate5.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Noise6.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate6.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Noise7.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate7.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Noise8.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate8.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Noise9.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate9.png,HRC elektron,HRC elektron,True
+gemini,JPMorganChase.Noise5.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Saturate5.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Noise6.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Saturate6.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Noise7.png,JPMorganChase,JPMorgan Chase & Co.,False
+gemini,JPMorganChase.Saturate7.png,JPMorganChase,JPMorgan Chase & Co.,False
+gemini,JPMorganChase.Noise8.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Saturate8.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Noise9.png,JPMorganChase,JPMorgan Chase & Co.,False
+gemini,JPMorganChase.Saturate9.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,Kroger.Noise5.png,Kroger,Kroger,True
+gemini,Kroger.Saturate5.png,Kroger,Kroger,True
+gemini,Kroger.Noise6.png,Kroger,Kroger,True
+gemini,Kroger.Saturate6.png,Kroger,Kroger,True
+gemini,Kroger.Noise7.png,Kroger,Kroger,True
+gemini,Kroger.Saturate7.png,Kroger,Kroger,True
+gemini,Kroger.Noise8.png,Kroger,Kroger,True
+gemini,Kroger.Saturate8.png,Kroger,Kroger,True
+gemini,Kroger.Noise9.png,Kroger,Kroger,True
+gemini,Kroger.Saturate9.png,Kroger,Kroger,True
+gemini,Mastercard.Noise5.png,Mastercard,Mastercard,True
+gemini,Mastercard.Saturate5.png,Mastercard,Mastercard,True
+gemini,Mastercard.Noise6.png,Mastercard,Mastercard,True
+gemini,Mastercard.Saturate6.png,Mastercard,Mastercard,True
+gemini,Mastercard.Noise7.png,Mastercard,Mastercard,True
+gemini,Mastercard.Saturate7.png,Mastercard,Mastercard,True
+gemini,Mastercard.Noise8.png,Mastercard,Vennly,False
+gemini,Mastercard.Saturate8.png,Mastercard,Mastercard,True
+gemini,Mastercard.Noise9.png,Mastercard,Overlap,False
+gemini,Mastercard.Saturate9.png,Mastercard,"Mastercard
+",True
+gemini,McDonalds.Noise5.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate5.png,McDonalds,McDonald's,False
+gemini,McDonalds.Noise6.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate6.png,McDonalds,McDonald's,False
+gemini,McDonalds.Noise7.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate7.png,McDonalds,McDonald's,False
+gemini,McDonalds.Noise8.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate8.png,McDonalds,McDonald's,False
+gemini,McDonalds.Noise9.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate9.png,McDonalds,McDonald's,False
+gemini,McKesson.Noise5.png,McKesson,McKesson,True
+gemini,McKesson.Saturate5.png,McKesson,McKesson,True
+gemini,McKesson.Noise6.png,McKesson,McKesson,True
+gemini,McKesson.Saturate6.png,McKesson,McKesson,True
+gemini,McKesson.Noise7.png,McKesson,McKesson,True
+gemini,McKesson.Saturate7.png,McKesson,McKesson,True
+gemini,McKesson.Noise8.png,McKesson,McKesson,True
+gemini,McKesson.Saturate8.png,McKesson,McKesson,True
+gemini,McKesson.Noise9.png,McKesson,McKesson,True
+gemini,McKesson.Saturate9.png,McKesson,McKesson,True
+gemini,Microsoft.Noise5.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate5.png,Microsoft,Microsoft,True
+gemini,Microsoft.Noise6.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate6.png,Microsoft,Microsoft,True
+gemini,Microsoft.Noise7.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate7.png,Microsoft,Microsoft,True
+gemini,Microsoft.Noise8.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate8.png,Microsoft,Microsoft,True
+gemini,Microsoft.Noise9.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate9.png,Microsoft,Microsoft,True
+gemini,Nike.Noise5.png,Nike,NIKE,True
+gemini,Nike.Saturate5.png,Nike,"NIKE
+",True
+gemini,Nike.Noise6.png,Nike,NIKE,True
+gemini,Nike.Saturate6.png,Nike,"NIKE
+",True
+gemini,Nike.Noise7.png,Nike,NIKE,True
+gemini,Nike.Saturate7.png,Nike,"NIKE
+",True
+gemini,Nike.Noise8.png,Nike,NIKE,True
+gemini,Nike.Saturate8.png,Nike,"NIKE
+",True
+gemini,Nike.Noise9.png,Nike,NIKE,True
+gemini,Nike.Saturate9.png,Nike,"NIKE
+",True
+gemini,Nurel Group.Noise5.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate5.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Noise6.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate6.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Noise7.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate7.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Noise8.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate8.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Noise9.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate9.png,Nurel Group,Nurel Group,True
+gemini,PAGO.Noise5.png,PAGO,PAGO,True
+gemini,PAGO.Saturate5.png,PAGO,PAGO,True
+gemini,PAGO.Noise6.png,PAGO,PAGO,True
+gemini,PAGO.Saturate6.png,PAGO,PAGO,True
+gemini,PAGO.Noise7.png,PAGO,PAGO,True
+gemini,PAGO.Saturate7.png,PAGO,PAGO,True
+gemini,PAGO.Noise8.png,PAGO,PAGO,True
+gemini,PAGO.Saturate8.png,PAGO,PAGO,True
+gemini,PAGO.Noise9.png,PAGO,PAGO,True
+gemini,PAGO.Saturate9.png,PAGO,Pago,True
+gemini,Regions.Noise5.png,Regions,REGIONS,True
+gemini,Regions.Saturate5.png,Regions,REGIONS,True
+gemini,Regions.Noise6.png,Regions,REGIONS,True
+gemini,Regions.Saturate6.png,Regions,REGIONS,True
+gemini,Regions.Noise7.png,Regions,REGIONS,True
+gemini,Regions.Saturate7.png,Regions,REGIONS,True
+gemini,Regions.Noise8.png,Regions,REGIONS,True
+gemini,Regions.Saturate8.png,Regions,REGIONS,True
+gemini,Regions.Noise9.png,Regions,REGIONS,True
+gemini,Regions.Saturate9.png,Regions,REGIONS,True
+gemini,SunTrust.Noise5.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate5.png,SunTrust,SunTrust,True
+gemini,SunTrust.Noise6.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate6.png,SunTrust,SunTrust,True
+gemini,SunTrust.Noise7.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate7.png,SunTrust,SunTrust,True
+gemini,SunTrust.Noise8.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate8.png,SunTrust,SunTrust,True
+gemini,SunTrust.Noise9.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate9.png,SunTrust,SunTrust,True
+gemini,Target.Noise5.png,Target,TARGET,True
+gemini,Target.Saturate5.png,Target,TARGET,True
+gemini,Target.Noise6.png,Target,TARGET,True
+gemini,Target.Saturate6.png,Target,"TARGET
+",True
+gemini,Target.Noise7.png,Target,TARGET,True
+gemini,Target.Saturate7.png,Target,TARGET,True
+gemini,Target.Noise8.png,Target,"TARGET
+",True
+gemini,Target.Saturate8.png,Target,TARGET,True
+gemini,Target.Noise9.png,Target,TARGET,True
+gemini,Target.Saturate9.png,Target,TARGET,True
+gemini,UPS.Noise5.png,UPS,UPS,True
+gemini,UPS.Saturate5.png,UPS,UPS,True
+gemini,UPS.Noise6.png,UPS,UPS,True
+gemini,UPS.Saturate6.png,UPS,UPS,True
+gemini,UPS.Noise7.png,UPS,UPS,True
+gemini,UPS.Saturate7.png,UPS,UPS,True
+gemini,UPS.Noise8.png,UPS,UPS,True
+gemini,UPS.Saturate8.png,UPS,UPS,True
+gemini,UPS.Noise9.png,UPS,UPS,True
+gemini,UPS.Saturate9.png,UPS,UPS,True
+gemini,VISA.Noise5.png,VISA,"VISA Debit
+",True
+gemini,VISA.Saturate5.png,VISA,"That's the Visa Debit logo.
+",True
+gemini,VISA.Noise6.png,VISA,"That's the Visa Debit logo.
+",True
+gemini,VISA.Saturate6.png,VISA,"VISA Debit
+",True
+gemini,VISA.Noise7.png,VISA,"VISA Debit
+",True
+gemini,VISA.Saturate7.png,VISA,"VISA Debit
+",True
+gemini,VISA.Noise8.png,VISA,"That's the Visa Debit logo.
+",True
+gemini,VISA.Saturate8.png,VISA,"Visa Debit
+",True
+gemini,VISA.Noise9.png,VISA,"VISA Debit
+",True
+gemini,VISA.Saturate9.png,VISA,"VISA Debit
+",True
+gemini,WeChat.Noise5.png,WeChat,WeChat,True
+gemini,WeChat.Saturate5.png,WeChat,WeChat,True
+gemini,WeChat.Noise6.png,WeChat,WeChat,True
+gemini,WeChat.Saturate6.png,WeChat,WeChat,True
+gemini,WeChat.Noise7.png,WeChat,WeChat,True
+gemini,WeChat.Saturate7.png,WeChat,WeChat,True
+gemini,WeChat.Noise8.png,WeChat,WeChat,True
+gemini,WeChat.Saturate8.png,WeChat,WeChat,True
+gemini,WeChat.Noise9.png,WeChat,WeChat,True
+gemini,WeChat.Saturate9.png,WeChat,WeChat,True
+gemini,AT&T.Noise5.png,AT&T,AT&T,True
+gemini,AT&T.Saturate5.png,AT&T,AT&T,True
+gemini,AT&T.Noise6.png,AT&T,AT&T,True
+gemini,AT&T.Saturate6.png,AT&T,AT&T,True
+gemini,AT&T.Noise7.png,AT&T,AT&T,True
+gemini,AT&T.Saturate7.png,AT&T,AT&T,True
+gemini,AT&T.Noise8.png,AT&T,AT&T,True
+gemini,AT&T.Saturate8.png,AT&T,AT&T,True
+gemini,AT&T.Noise9.png,AT&T,AT&T,True
+gemini,AT&T.Saturate9.png,AT&T,AT&T,True
+gemini,Amazon.Noise5.png,Amazon,amazon,True
+gemini,Amazon.Saturate5.png,Amazon,amazon,True
+gemini,Amazon.Noise6.png,Amazon,amazon,True
+gemini,Amazon.Saturate6.png,Amazon,amazon,True
+gemini,Amazon.Noise7.png,Amazon,amazon,True
+gemini,Amazon.Saturate7.png,Amazon,amazon,True
+gemini,Amazon.Noise8.png,Amazon,amazon,True
+gemini,Amazon.Saturate8.png,Amazon,amazon,True
+gemini,Amazon.Noise9.png,Amazon,Amazon,True
+gemini,Amazon.Saturate9.png,Amazon,Amazon,True
+gemini,P&G.Noise10.png,P&G,P&G,True
+gemini,P&G.Saturate10.png,P&G,P&G,True
+gemini,PayPal.Noise10.png,PayPal,PayPal,True
+gemini,PayPal.Saturate10.png,PayPal,PayPal,True
+gemini,State Farm.Noise10.png,State Farm,State Farm,True
+gemini,State Farm.Saturate10.png,State Farm,State Farm,True
+gemini,The Home Depot.Noise10.png,The Home Depot,The Home Depot,True
+gemini,The Home Depot.Saturate10.png,The Home Depot,The Home Depot,True
+gemini,United Healthcare.Noise10.png,United Healthcare,UnitedHealthcare,False
+gemini,United Healthcare.Saturate10.png,United Healthcare,UnitedHealthcare,False
+gemini,Wells Fargo.Noise10.png,Wells Fargo,Wells Fargo,True
+gemini,Wells Fargo.Saturate10.png,Wells Fargo,Wells Fargo,True
+gemini,American Express.Noise10.png,American Express,AMERICAN EXPRESS,True
+gemini,American Express.Saturate10.png,American Express,American Express,True
+gemini,Apple.Noise10.png,Apple,"Apple
+",True
+gemini,Apple.Saturate10.png,Apple,"Apple
+",True
+gemini,Bank of America.Noise10.png,Bank of America,Bank of America,True
+gemini,Bank of America.Saturate10.png,Bank of America,Bank of America,True
+gemini,Bitcoin.Noise10.png,Bitcoin,Bitcoin,True
+gemini,Bitcoin.Saturate10.png,Bitcoin,Bitcoin,True
+gemini,Blue Style.Noise10.png,Blue Style,Blue Skylo,False
+gemini,Blue Style.Saturate10.png,Blue Style,blue Style.,True
+gemini,Capital One.Noise10.png,Capital One,Capital One Bank,True
+gemini,Capital One.Saturate10.png,Capital One,Capital One Bank,True
+gemini,Chase.Noise10.png,Chase,CHASE,True
+gemini,Chase.Saturate10.png,Chase,CHASE,True
+gemini,Costco Wholesale.Noise10.png,Costco Wholesale,Costco,False
+gemini,Costco Wholesale.Saturate10.png,Costco Wholesale,Costco,False
+gemini,DHL.Noise10.png,DHL,DHL,True
+gemini,DHL.Saturate10.png,DHL,DHL,True
+gemini,Discover.Noise10.png,Discover,DISCOVER,True
+gemini,Discover.Saturate10.png,Discover,DISCOVER,True
+gemini,ExxonMobil.Noise10.png,ExxonMobil,ExxonMobil,True
+gemini,ExxonMobil.Saturate10.png,ExxonMobil,ExxonMobil,True
+gemini,Facebook.Noise10.png,Facebook,"Facebook (or Meta)
+",True
+gemini,Facebook.Saturate10.png,Facebook,"Facebook
+",True
+gemini,FedEx.Noise10.png,FedEx,FedEx,True
+gemini,FedEx.Saturate10.png,FedEx,FedEx,True
+gemini,Google.Noise10.png,Google,"Google
+",True
+gemini,Google.Saturate10.png,Google,"Google
+",True
+gemini,HRC elektron.Noise10.png,HRC elektron,HRC elektron,True
+gemini,HRC elektron.Saturate10.png,HRC elektron,HRC elektron,True
+gemini,JPMorganChase.Noise10.png,JPMorganChase,JPMORGAN CHASE & CO.,False
+gemini,JPMorganChase.Saturate10.png,JPMorganChase,JPMorgan Chase & Co.,False
+gemini,Kroger.Noise10.png,Kroger,Kroger,True
+gemini,Kroger.Saturate10.png,Kroger,Kroger,True
+gemini,Mastercard.Noise10.png,Mastercard,Venn diagram,False
+gemini,Mastercard.Saturate10.png,Mastercard,"Mastercard
+",True
+gemini,McDonalds.Noise10.png,McDonalds,McDonald's,False
+gemini,McDonalds.Saturate10.png,McDonalds,McDonald's,False
+gemini,McKesson.Noise10.png,McKesson,McKesson,True
+gemini,McKesson.Saturate10.png,McKesson,McKesson,True
+gemini,Microsoft.Noise10.png,Microsoft,Microsoft,True
+gemini,Microsoft.Saturate10.png,Microsoft,Microsoft,True
+gemini,Nike.Noise10.png,Nike,NIKE,True
+gemini,Nike.Saturate10.png,Nike,"NIKE
+",True
+gemini,Nurel Group.Noise10.png,Nurel Group,Nurel Group,True
+gemini,Nurel Group.Saturate10.png,Nurel Group,Nurel Group,True
+gemini,PAGO.Noise10.png,PAGO,PAGO,True
+gemini,PAGO.Saturate10.png,PAGO,PAGO,True
+gemini,Regions.Noise10.png,Regions,REGIONS,True
+gemini,Regions.Saturate10.png,Regions,REGIONS,True
+gemini,SunTrust.Noise10.png,SunTrust,SunTrust,True
+gemini,SunTrust.Saturate10.png,SunTrust,SunTrust,True
+gemini,Target.Noise10.png,Target,TARGET,True
+gemini,Target.Saturate10.png,Target,"TARGET
+",True
+gemini,UPS.Noise10.png,UPS,UPS,True
+gemini,UPS.Saturate10.png,UPS,UPS,True
+gemini,VISA.Noise10.png,VISA,"VISA Debit
+",True
+gemini,VISA.Saturate10.png,VISA,"VISA Debit
+",True
+gemini,WeChat.Noise10.png,WeChat,WeChat,True
+gemini,WeChat.Saturate10.png,WeChat,WeChat,True
+gemini,AT&T.Noise10.png,AT&T,AT&T,True
+gemini,AT&T.Saturate10.png,AT&T,AT&T,True
+gemini,Amazon.Noise10.png,Amazon,Amazon,True
+gemini,Amazon.Saturate10.png,Amazon,amazon,True
+gemma,P&G.png,P&G,P&G,True
+gemma,PayPal.png,PayPal,"Sorry, as a base",False
+gemma,State Farm.png,State Farm,State Farm,True
+gemma,The Home Depot.png,The Home Depot,"Sorry, as a base",False
+gemma,United Healthcare.png,United Healthcare,United Healthcare,True
+gemma,Wells Fargo.png,Wells Fargo,Well Fargo,False
+gemma,American Express.png,American Express,American Express,True
+gemma,Apple.png,Apple,apple,True
+gemma,Bank of America.png,Bank of America,Bank of America,True
+gemma,Bitcoin.png,Bitcoin,bitcoin,True
+gemma,Blue Style.png,Blue Style,blue style,True
+gemma,Capital One.png,Capital One,Capital One Bank,True
+gemma,Chase.png,Chase,Chase,True
+gemma,Costco Wholesale.png,Costco Wholesale,Costco,False
+gemma,DHL.png,DHL, DHL,True
+gemma,Discover.png,Discover,Discover,True
+gemma,ExxonMobil.png,ExxonMobil,Exon mobil,False
+gemma,Facebook.png,Facebook,facebook,True
+gemma,FedEx.png,FedEx,FedEx,True
+gemma,Google.png,Google,google,True
+gemma,HRC elektron.png,HRC elektron,"Sorry, as a base",False
+gemma,JPMorganChase.png,JPMorganChase,JP Morgan,False
+gemma,Kroger.png,Kroger,Kroger,True
+gemma,Mastercard.png,Mastercard,MasterCard,True
+gemma,McDonalds.png,McDonalds,mcdonalds,True
+gemma,McKesson.png,McKesson,McKesson,True
+gemma,Microsoft.png,Microsoft,Microsoft,True
+gemma,Nike.png,Nike,nike,True
+gemma,Nurel Group.png,Nurel Group,"Sorry, as a base",False
+gemma,PAGO.png,PAGO,pag,False
+gemma,Regions.png,Regions,regions,True
+gemma,SunTrust.png,SunTrust,SunTrust,True
+gemma,Target.png,Target,Target,True
+gemma,UPS.png,UPS,ups,True
+gemma,VISA.png,VISA,visa,True
+gemma,WeChat.png,WeChat,emoji,False
+gemma,AT&T.png,AT&T,at&t,True
+gemma,Amazon.png,Amazon,amazon,True
+gemma,AT&T.Noise1.png,AT&T,at&t,True
+gemma,AT&T.Noise2.png,AT&T,at&t,True
+gemma,AT&T.Noise3.png,AT&T,at&t,True
+gemma,AT&T.Noise4.png,AT&T,at&t,True
+gemma,Amazon.Noise1.png,Amazon,amazon,True
+gemma,Amazon.Noise2.png,Amazon,amazon,True
+gemma,Amazon.Noise3.png,Amazon,amazon,True
+gemma,Amazon.Noise4.png,Amazon,amazon,True
+gemma,American Express.Noise1.png,American Express,American Express,True
+gemma,American Express.Noise2.png,American Express,American Express,True
+gemma,American Express.Noise3.png,American Express,American Express,True
+gemma,American Express.Noise4.png,American Express,American Express,True
+gemma,Apple.Noise1.png,Apple,apple,True
+gemma,Apple.Noise2.png,Apple,apple,True
+gemma,Apple.Noise3.png,Apple,apple,True
+gemma,Apple.Noise4.png,Apple,apple,True
+gemma,Bank of America.Noise1.png,Bank of America,Bank of America,True
+gemma,Bank of America.Noise2.png,Bank of America,Bank of America,True
+gemma,Bank of America.Noise3.png,Bank of America,Bank of America,True
+gemma,Bank of America.Noise4.png,Bank of America,Bank of America,True
+gemma,Bitcoin.Noise1.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Noise2.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Noise3.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Noise4.png,Bitcoin,bitcoin,True
+gemma,Blue Style.Noise1.png,Blue Style,blue style,True
+gemma,Blue Style.Noise2.png,Blue Style,blue style,True
+gemma,Blue Style.Noise3.png,Blue Style,blue style,True
+gemma,Blue Style.Noise4.png,Blue Style,blue style,True
+gemma,Capital One.Noise1.png,Capital One,Capital One Bank,True
+gemma,Capital One.Noise2.png,Capital One,Capital One Bank,True
+gemma,Capital One.Noise3.png,Capital One,Capital One Bank,True
+gemma,Capital One.Noise4.png,Capital One,Capital One Bank,True
+gemma,Chase.Noise1.png,Chase,Chase,True
+gemma,Chase.Noise2.png,Chase,Chase,True
+gemma,Chase.Noise3.png,Chase,Chase,True
+gemma,Chase.Noise4.png,Chase,Chase,True
+gemma,Costco Wholesale.Noise1.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Noise2.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Noise3.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Noise4.png,Costco Wholesale,Costco,False
+gemma,DHL.Noise1.png,DHL, DHL,True
+gemma,DHL.Noise2.png,DHL, DHL,True
+gemma,DHL.Noise3.png,DHL, DHL,True
+gemma,DHL.Noise4.png,DHL, DHL,True
+gemma,Discover.Noise1.png,Discover,discover,True
+gemma,Discover.Noise2.png,Discover,discover,True
+gemma,Discover.Noise3.png,Discover,discover,True
+gemma,Discover.Noise4.png,Discover,Discover,True
+gemma,ExxonMobil.Noise1.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Noise2.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Noise3.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Noise4.png,ExxonMobil,ExonMobil,False
+gemma,Facebook.Noise1.png,Facebook,facebook,True
+gemma,Facebook.Noise2.png,Facebook,facebook logo,True
+gemma,Facebook.Noise3.png,Facebook,facebook logo,True
+gemma,Facebook.Noise4.png,Facebook,facebook logo,True
+gemma,FedEx.Noise1.png,FedEx,FedEx,True
+gemma,FedEx.Noise2.png,FedEx,FedEx,True
+gemma,FedEx.Noise3.png,FedEx,FedEx,True
+gemma,FedEx.Noise4.png,FedEx,FedEx,True
+gemma,Google.Noise1.png,Google,google,True
+gemma,Google.Noise2.png,Google,google,True
+gemma,Google.Noise3.png,Google,google,True
+gemma,Google.Noise4.png,Google,google,True
+gemma,HRC elektron.Noise1.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Noise2.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Noise3.png,HRC elektron,HRC,False
+gemma,HRC elektron.Noise4.png,HRC elektron,hrc,False
+gemma,JPMorganChase.Noise1.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Noise2.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Noise3.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Noise4.png,JPMorganChase,JP Morgan,False
+gemma,Kroger.Noise1.png,Kroger,Kroger,True
+gemma,Kroger.Noise2.png,Kroger,Kroger,True
+gemma,Kroger.Noise3.png,Kroger,Kroger,True
+gemma,Kroger.Noise4.png,Kroger,Kroger,True
+gemma,Mastercard.Noise1.png,Mastercard,MasterCard,True
+gemma,Mastercard.Noise2.png,Mastercard,MasterCard,True
+gemma,Mastercard.Noise3.png,Mastercard,MasterCard,True
+gemma,Mastercard.Noise4.png,Mastercard,MasterCard,True
+gemma,McDonalds.Noise1.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Noise2.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Noise3.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Noise4.png,McDonalds,mcdonalds,True
+gemma,McKesson.Noise1.png,McKesson,McKesson,True
+gemma,McKesson.Noise2.png,McKesson,McKesson,True
+gemma,McKesson.Noise3.png,McKesson,McKesson,True
+gemma,McKesson.Noise4.png,McKesson,McKesson,True
+gemma,Microsoft.Noise1.png,Microsoft,Microsoft,True
+gemma,Microsoft.Noise2.png,Microsoft,microsoft,True
+gemma,Microsoft.Noise3.png,Microsoft,microsoft,True
+gemma,Microsoft.Noise4.png,Microsoft,microsoft,True
+gemma,Nike.Noise1.png,Nike,nike,True
+gemma,Nike.Noise2.png,Nike,nike,True
+gemma,Nike.Noise3.png,Nike,nike,True
+gemma,Nike.Noise4.png,Nike,nike,True
+gemma,Nurel Group.Noise1.png,Nurel Group,Nure1 Group,False
+gemma,Nurel Group.Noise2.png,Nurel Group,Nure1 Group,False
+gemma,Nurel Group.Noise3.png,Nurel Group,Nure1 Group,False
+gemma,Nurel Group.Noise4.png,Nurel Group,Nurel Group,True
+gemma,P&G.Noise1.png,P&G,P&G,True
+gemma,P&G.Noise2.png,P&G,P&G,True
+gemma,P&G.Noise3.png,P&G,P&G,True
+gemma,P&G.Noise4.png,P&G,P&G,True
+gemma,PAGO.Noise1.png,PAGO,Pago,True
+gemma,PAGO.Noise2.png,PAGO,Pago,True
+gemma,PAGO.Noise3.png,PAGO,Pago,True
+gemma,PAGO.Noise4.png,PAGO,Pago,True
+gemma,PayPal.Noise1.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Noise2.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Noise3.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Noise4.png,PayPal,PayPal,True
+gemma,Regions.Noise1.png,Regions,regions,True
+gemma,Regions.Noise2.png,Regions,regions,True
+gemma,Regions.Noise3.png,Regions,regions,True
+gemma,Regions.Noise4.png,Regions,regions,True
+gemma,State Farm.Noise1.png,State Farm,State Farm,True
+gemma,State Farm.Noise2.png,State Farm,State Farm,True
+gemma,State Farm.Noise3.png,State Farm,State Farm,True
+gemma,State Farm.Noise4.png,State Farm,State Farm,True
+gemma,SunTrust.Noise1.png,SunTrust,SunTrust,True
+gemma,SunTrust.Noise2.png,SunTrust,SunTrust,True
+gemma,SunTrust.Noise3.png,SunTrust,SunTrust,True
+gemma,SunTrust.Noise4.png,SunTrust,SunTrust,True
+gemma,Target.Noise1.png,Target,Target,True
+gemma,Target.Noise2.png,Target,Target,True
+gemma,Target.Noise3.png,Target,target,True
+gemma,Target.Noise4.png,Target,Target,True
+gemma,The Home Depot.Noise1.png,The Home Depot,"Sorry, as a base",False
+gemma,The Home Depot.Noise2.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Noise3.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Noise4.png,The Home Depot,The Home Depot,True
+gemma,UPS.Noise1.png,UPS,ups,True
+gemma,UPS.Noise2.png,UPS,ups,True
+gemma,UPS.Noise3.png,UPS,ups,True
+gemma,UPS.Noise4.png,UPS,ups,True
+gemma,United Healthcare.Noise1.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Noise2.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Noise3.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Noise4.png,United Healthcare,United Healthcare,True
+gemma,VISA.Noise1.png,VISA,visa,True
+gemma,VISA.Noise2.png,VISA,visa,True
+gemma,VISA.Noise3.png,VISA,visa,True
+gemma,VISA.Noise4.png,VISA,visa,True
+gemma,WeChat.Noise1.png,WeChat,emoji,False
+gemma,WeChat.Noise2.png,WeChat,emoji,False
+gemma,WeChat.Noise3.png,WeChat,emoji,False
+gemma,WeChat.Noise4.png,WeChat,emoji,False
+gemma,Wells Fargo.Noise1.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Noise2.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Noise3.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Noise4.png,Wells Fargo,wells fargo,True
+gemma,AT&T.Saturate1.png,AT&T,at&t,True
+gemma,AT&T.Saturate2.png,AT&T,at&t,True
+gemma,AT&T.Saturate3.png,AT&T,at&t,True
+gemma,AT&T.Saturate4.png,AT&T,at&t,True
+gemma,Amazon.Saturate1.png,Amazon,amazon,True
+gemma,Amazon.Saturate2.png,Amazon,amazon,True
+gemma,Amazon.Saturate3.png,Amazon,amazon,True
+gemma,Amazon.Saturate4.png,Amazon,amazon,True
+gemma,American Express.Saturate1.png,American Express,American Express,True
+gemma,American Express.Saturate2.png,American Express,American Express,True
+gemma,American Express.Saturate3.png,American Express,American Express,True
+gemma,American Express.Saturate4.png,American Express,American Express,True
+gemma,Apple.Saturate1.png,Apple,apple,True
+gemma,Apple.Saturate2.png,Apple,apple,True
+gemma,Apple.Saturate3.png,Apple,apple,True
+gemma,Apple.Saturate4.png,Apple,apple,True
+gemma,Bank of America.Saturate1.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate2.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate3.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate4.png,Bank of America,Bank of America,True
+gemma,Bitcoin.Saturate1.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate2.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate3.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate4.png,Bitcoin,bitcoin,True
+gemma,Blue Style.Saturate1.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate2.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate3.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate4.png,Blue Style,blue style,True
+gemma,Capital One.Saturate1.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate2.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate3.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate4.png,Capital One,Capital One Bank,True
+gemma,Chase.Saturate1.png,Chase,Chase,True
+gemma,Chase.Saturate2.png,Chase,Chase,True
+gemma,Chase.Saturate3.png,Chase,Chase,True
+gemma,Chase.Saturate4.png,Chase,Chase,True
+gemma,Costco Wholesale.Saturate1.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate2.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate3.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate4.png,Costco Wholesale,Costco,False
+gemma,DHL.Saturate1.png,DHL,Dhl,True
+gemma,DHL.Saturate2.png,DHL,Dhl,True
+gemma,DHL.Saturate3.png,DHL,Dhl,True
+gemma,DHL.Saturate4.png,DHL,Dhl,True
+gemma,Discover.Saturate1.png,Discover,discover,True
+gemma,Discover.Saturate2.png,Discover,discover,True
+gemma,Discover.Saturate3.png,Discover,discover,True
+gemma,Discover.Saturate4.png,Discover,discover,True
+gemma,ExxonMobil.Saturate1.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate2.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate3.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate4.png,ExxonMobil,ExonMobil,False
+gemma,Facebook.Saturate1.png,Facebook,facebook,True
+gemma,Facebook.Saturate2.png,Facebook,facebook,True
+gemma,Facebook.Saturate3.png,Facebook,facebook,True
+gemma,Facebook.Saturate4.png,Facebook,facebook,True
+gemma,FedEx.Saturate1.png,FedEx,FedEx,True
+gemma,FedEx.Saturate2.png,FedEx,FedEx,True
+gemma,FedEx.Saturate3.png,FedEx,FedEx,True
+gemma,FedEx.Saturate4.png,FedEx,FedEx,True
+gemma,Google.Saturate1.png,Google,google,True
+gemma,Google.Saturate2.png,Google,google,True
+gemma,Google.Saturate3.png,Google,google,True
+gemma,Google.Saturate4.png,Google,google,True
+gemma,HRC elektron.Saturate1.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Saturate2.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Saturate3.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Saturate4.png,HRC elektron,"Sorry, as a base",False
+gemma,JPMorganChase.Saturate1.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate2.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate3.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate4.png,JPMorganChase,JP Morgan,False
+gemma,Kroger.Saturate1.png,Kroger,"Sorry, as a base",False
+gemma,Kroger.Saturate2.png,Kroger,"Sorry, as a base",False
+gemma,Kroger.Saturate3.png,Kroger,Kroger,True
+gemma,Kroger.Saturate4.png,Kroger,Kroger,True
+gemma,Mastercard.Saturate1.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate2.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate3.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate4.png,Mastercard,"Sorry, as a base",False
+gemma,McDonalds.Saturate1.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate2.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate3.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate4.png,McDonalds,mcdonalds,True
+gemma,McKesson.Saturate1.png,McKesson,McKesson,True
+gemma,McKesson.Saturate2.png,McKesson,McKesson,True
+gemma,McKesson.Saturate3.png,McKesson,McKesson,True
+gemma,McKesson.Saturate4.png,McKesson,McKesson,True
+gemma,Microsoft.Saturate1.png,Microsoft,microsoft,True
+gemma,Microsoft.Saturate2.png,Microsoft,Microsoft,True
+gemma,Microsoft.Saturate3.png,Microsoft,Microsoft,True
+gemma,Microsoft.Saturate4.png,Microsoft,Microsoft,True
+gemma,Nike.Saturate1.png,Nike,nike,True
+gemma,Nike.Saturate2.png,Nike,nike,True
+gemma,Nike.Saturate3.png,Nike,nike,True
+gemma,Nike.Saturate4.png,Nike,nike,True
+gemma,Nurel Group.Saturate1.png,Nurel Group,"Sorry, as a base",False
+gemma,Nurel Group.Saturate2.png,Nurel Group,"Sorry, as a base",False
+gemma,Nurel Group.Saturate3.png,Nurel Group,"Sorry, as a base",False
+gemma,Nurel Group.Saturate4.png,Nurel Group,"Sorry, as a base",False
+gemma,P&G.Saturate1.png,P&G,P&G,True
+gemma,P&G.Saturate2.png,P&G,P&G,True
+gemma,P&G.Saturate3.png,P&G,P&G,True
+gemma,P&G.Saturate4.png,P&G,P&G,True
+gemma,PAGO.Saturate1.png,PAGO,pag,False
+gemma,PAGO.Saturate2.png,PAGO,pag,False
+gemma,PAGO.Saturate3.png,PAGO,pag,False
+gemma,PAGO.Saturate4.png,PAGO,pag,False
+gemma,PayPal.Saturate1.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Saturate2.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Saturate3.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Saturate4.png,PayPal,"Sorry, as a base",False
+gemma,Regions.Saturate1.png,Regions,regions,True
+gemma,Regions.Saturate2.png,Regions,regions,True
+gemma,Regions.Saturate3.png,Regions,regions,True
+gemma,Regions.Saturate4.png,Regions,regions,True
+gemma,State Farm.Saturate1.png,State Farm,State Farm,True
+gemma,State Farm.Saturate2.png,State Farm,State Farm,True
+gemma,State Farm.Saturate3.png,State Farm,State Farm,True
+gemma,State Farm.Saturate4.png,State Farm,State Farm,True
+gemma,SunTrust.Saturate1.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate2.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate3.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate4.png,SunTrust,SunTrust,True
+gemma,Target.Saturate1.png,Target,Target,True
+gemma,Target.Saturate2.png,Target,Target,True
+gemma,Target.Saturate3.png,Target,Target,True
+gemma,Target.Saturate4.png,Target,Target,True
+gemma,The Home Depot.Saturate1.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate2.png,The Home Depot,"Sorry, as a base",False
+gemma,The Home Depot.Saturate3.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate4.png,The Home Depot,"Sorry, as a base",False
+gemma,UPS.Saturate1.png,UPS,ups,True
+gemma,UPS.Saturate2.png,UPS,ups,True
+gemma,UPS.Saturate3.png,UPS,ups,True
+gemma,UPS.Saturate4.png,UPS,ups,True
+gemma,United Healthcare.Saturate1.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate2.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate3.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate4.png,United Healthcare,United Healthcare,True
+gemma,VISA.Saturate1.png,VISA,visa,True
+gemma,VISA.Saturate2.png,VISA,visa,True
+gemma,VISA.Saturate3.png,VISA,visa,True
+gemma,VISA.Saturate4.png,VISA,visa,True
+gemma,WeChat.Saturate1.png,WeChat,emoji,False
+gemma,WeChat.Saturate2.png,WeChat,emoji,False
+gemma,WeChat.Saturate3.png,WeChat,emoji,False
+gemma,WeChat.Saturate4.png,WeChat,emoji,False
+gemma,Wells Fargo.Saturate1.png,Wells Fargo,wells fargo,True
+gemma,Wells Fargo.Saturate2.png,Wells Fargo,wells fargo,True
+gemma,Wells Fargo.Saturate3.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Saturate4.png,Wells Fargo,Well Fargo,False
+gemma,P&G.Noise5.png,P&G,P&G,True
+gemma,P&G.Saturate5.png,P&G,P&G,True
+gemma,P&G.Noise6.png,P&G,P&G,True
+gemma,P&G.Saturate6.png,P&G,P&G,True
+gemma,P&G.Noise7.png,P&G,P&G,True
+gemma,P&G.Saturate7.png,P&G,P&G,True
+gemma,P&G.Noise8.png,P&G,P&G,True
+gemma,P&G.Saturate8.png,P&G,P&G,True
+gemma,P&G.Noise9.png,P&G,P&G,True
+gemma,P&G.Saturate9.png,P&G,P&G,True
+gemma,PayPal.Noise5.png,PayPal,PayPal,True
+gemma,PayPal.Saturate5.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Noise6.png,PayPal,PayPal,True
+gemma,PayPal.Saturate6.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Noise7.png,PayPal,PayPal,True
+gemma,PayPal.Saturate7.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Noise8.png,PayPal,PayPal,True
+gemma,PayPal.Saturate8.png,PayPal,"Sorry, as a base",False
+gemma,PayPal.Noise9.png,PayPal,PayPal,True
+gemma,PayPal.Saturate9.png,PayPal,"Sorry, as a base",False
+gemma,State Farm.Noise5.png,State Farm,State Farm,True
+gemma,State Farm.Saturate5.png,State Farm,State Farm,True
+gemma,State Farm.Noise6.png,State Farm,State Farm,True
+gemma,State Farm.Saturate6.png,State Farm,State Farm,True
+gemma,State Farm.Noise7.png,State Farm,State Farm,True
+gemma,State Farm.Saturate7.png,State Farm,State Farm,True
+gemma,State Farm.Noise8.png,State Farm,State Farm,True
+gemma,State Farm.Saturate8.png,State Farm,State Farm,True
+gemma,State Farm.Noise9.png,State Farm,State Farm,True
+gemma,State Farm.Saturate9.png,State Farm,State Farm,True
+gemma,The Home Depot.Noise5.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate5.png,The Home Depot,"Sorry, as a base",False
+gemma,The Home Depot.Noise6.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate6.png,The Home Depot,"Sorry, as a base",False
+gemma,The Home Depot.Noise7.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate7.png,The Home Depot,"Sorry, as a base",False
+gemma,The Home Depot.Noise8.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate8.png,The Home Depot,"Sorry, as a base",False
+gemma,The Home Depot.Noise9.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate9.png,The Home Depot,"Sorry, as a base",False
+gemma,United Healthcare.Noise5.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate5.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Noise6.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate6.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Noise7.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate7.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Noise8.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate8.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Noise9.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate9.png,United Healthcare,United Healthcare,True
+gemma,Wells Fargo.Noise5.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Saturate5.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Noise6.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Saturate6.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Noise7.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Saturate7.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Noise8.png,Wells Fargo,wells fargo,True
+gemma,Wells Fargo.Saturate8.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Noise9.png,Wells Fargo,Well Fargo,False
+gemma,Wells Fargo.Saturate9.png,Wells Fargo,Well Fargo,False
+gemma,American Express.Noise5.png,American Express,American Express,True
+gemma,American Express.Saturate5.png,American Express,American Express,True
+gemma,American Express.Noise6.png,American Express,American Express,True
+gemma,American Express.Saturate6.png,American Express,American Express,True
+gemma,American Express.Noise7.png,American Express,American Express,True
+gemma,American Express.Saturate7.png,American Express,American Express,True
+gemma,American Express.Noise8.png,American Express,American Express,True
+gemma,American Express.Saturate8.png,American Express,American Express,True
+gemma,American Express.Noise9.png,American Express,American Express,True
+gemma,American Express.Saturate9.png,American Express,American Express,True
+gemma,Apple.Noise5.png,Apple,apple,True
+gemma,Apple.Saturate5.png,Apple,apple,True
+gemma,Apple.Noise6.png,Apple,apple,True
+gemma,Apple.Saturate6.png,Apple,apple,True
+gemma,Apple.Noise7.png,Apple,apple,True
+gemma,Apple.Saturate7.png,Apple,apple,True
+gemma,Apple.Noise8.png,Apple,apple,True
+gemma,Apple.Saturate8.png,Apple,apple,True
+gemma,Apple.Noise9.png,Apple,Apple logo,True
+gemma,Apple.Saturate9.png,Apple,apple,True
+gemma,Bank of America.Noise5.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate5.png,Bank of America,Bank of America,True
+gemma,Bank of America.Noise6.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate6.png,Bank of America,Bank of America,True
+gemma,Bank of America.Noise7.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate7.png,Bank of America,Bank of America,True
+gemma,Bank of America.Noise8.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate8.png,Bank of America,Bank of America,True
+gemma,Bank of America.Noise9.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate9.png,Bank of America,Bank of America,True
+gemma,Bitcoin.Noise5.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate5.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Noise6.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate6.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Noise7.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate7.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Noise8.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate8.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Noise9.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate9.png,Bitcoin,bitcoin,True
+gemma,Blue Style.Noise5.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate5.png,Blue Style,blue style,True
+gemma,Blue Style.Noise6.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate6.png,Blue Style,blue style,True
+gemma,Blue Style.Noise7.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate7.png,Blue Style,blue style,True
+gemma,Blue Style.Noise8.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate8.png,Blue Style,blue style,True
+gemma,Blue Style.Noise9.png,Blue Style,blue style,True
+gemma,Blue Style.Saturate9.png,Blue Style,blue style,True
+gemma,Capital One.Noise5.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate5.png,Capital One,Capital One Bank,True
+gemma,Capital One.Noise6.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate6.png,Capital One,Capital One Bank,True
+gemma,Capital One.Noise7.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate7.png,Capital One,Capital One Bank,True
+gemma,Capital One.Noise8.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate8.png,Capital One,Capital One Bank,True
+gemma,Capital One.Noise9.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate9.png,Capital One,Capital One Bank,True
+gemma,Chase.Noise5.png,Chase,Chase,True
+gemma,Chase.Saturate5.png,Chase,Chase,True
+gemma,Chase.Noise6.png,Chase,Chase,True
+gemma,Chase.Saturate6.png,Chase,chase,True
+gemma,Chase.Noise7.png,Chase,Chase,True
+gemma,Chase.Saturate7.png,Chase,Chase,True
+gemma,Chase.Noise8.png,Chase,Chase,True
+gemma,Chase.Saturate8.png,Chase,Chase,True
+gemma,Chase.Noise9.png,Chase,Chase,True
+gemma,Chase.Saturate9.png,Chase,Chase,True
+gemma,Costco Wholesale.Noise5.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate5.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Noise6.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate6.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Noise7.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate7.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Noise8.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate8.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Noise9.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate9.png,Costco Wholesale,Costco,False
+gemma,DHL.Noise5.png,DHL, DHL,True
+gemma,DHL.Saturate5.png,DHL,Dhl,True
+gemma,DHL.Noise6.png,DHL,dhl,True
+gemma,DHL.Saturate6.png,DHL, DHL,True
+gemma,DHL.Noise7.png,DHL, DHL,True
+gemma,DHL.Saturate7.png,DHL, DHL,True
+gemma,DHL.Noise8.png,DHL,Dhl,True
+gemma,DHL.Saturate8.png,DHL, DHL,True
+gemma,DHL.Noise9.png,DHL,dhl,True
+gemma,DHL.Saturate9.png,DHL, DHL,True
+gemma,Discover.Noise5.png,Discover,Discover,True
+gemma,Discover.Saturate5.png,Discover,Discover,True
+gemma,Discover.Noise6.png,Discover,Discover,True
+gemma,Discover.Saturate6.png,Discover,Discover,True
+gemma,Discover.Noise7.png,Discover,Discover,True
+gemma,Discover.Saturate7.png,Discover,Discover,True
+gemma,Discover.Noise8.png,Discover,Discover,True
+gemma,Discover.Saturate8.png,Discover,Discover,True
+gemma,Discover.Noise9.png,Discover,Discover,True
+gemma,Discover.Saturate9.png,Discover,discover,True
+gemma,ExxonMobil.Noise5.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate5.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Noise6.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate6.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Noise7.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate7.png,ExxonMobil,Exon mobil,False
+gemma,ExxonMobil.Noise8.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate8.png,ExxonMobil,Exon mobil,False
+gemma,ExxonMobil.Noise9.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate9.png,ExxonMobil,Exon mobil,False
+gemma,Facebook.Noise5.png,Facebook,facebook logo,True
+gemma,Facebook.Saturate5.png,Facebook,facebook,True
+gemma,Facebook.Noise6.png,Facebook,facebook logo,True
+gemma,Facebook.Saturate6.png,Facebook,facebook,True
+gemma,Facebook.Noise7.png,Facebook,facebook logo,True
+gemma,Facebook.Saturate7.png,Facebook,facebook,True
+gemma,Facebook.Noise8.png,Facebook,facebook,True
+gemma,Facebook.Saturate8.png,Facebook,facebook,True
+gemma,Facebook.Noise9.png,Facebook,facebook,True
+gemma,Facebook.Saturate9.png,Facebook,facebook,True
+gemma,FedEx.Noise5.png,FedEx,FedEx,True
+gemma,FedEx.Saturate5.png,FedEx,FedEx,True
+gemma,FedEx.Noise6.png,FedEx,FedEx,True
+gemma,FedEx.Saturate6.png,FedEx,FedEx,True
+gemma,FedEx.Noise7.png,FedEx,FedEx,True
+gemma,FedEx.Saturate7.png,FedEx,FedEx,True
+gemma,FedEx.Noise8.png,FedEx,FedEx,True
+gemma,FedEx.Saturate8.png,FedEx,FedEx,True
+gemma,FedEx.Noise9.png,FedEx,FedEx,True
+gemma,FedEx.Saturate9.png,FedEx,FedEx,True
+gemma,Google.Noise5.png,Google,Google,True
+gemma,Google.Saturate5.png,Google,google,True
+gemma,Google.Noise6.png,Google,Google,True
+gemma,Google.Saturate6.png,Google,google,True
+gemma,Google.Noise7.png,Google,Google,True
+gemma,Google.Saturate7.png,Google,google,True
+gemma,Google.Noise8.png,Google,google,True
+gemma,Google.Saturate8.png,Google,google,True
+gemma,Google.Noise9.png,Google,Google,True
+gemma,Google.Saturate9.png,Google,google,True
+gemma,HRC elektron.Noise5.png,HRC elektron,hrc,False
+gemma,HRC elektron.Saturate5.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Noise6.png,HRC elektron,hrc,False
+gemma,HRC elektron.Saturate6.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Noise7.png,HRC elektron,HRC,False
+gemma,HRC elektron.Saturate7.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Noise8.png,HRC elektron,hrc,False
+gemma,HRC elektron.Saturate8.png,HRC elektron,"Sorry, as a base",False
+gemma,HRC elektron.Noise9.png,HRC elektron,HRC,False
+gemma,HRC elektron.Saturate9.png,HRC elektron,"Sorry, as a base",False
+gemma,JPMorganChase.Noise5.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate5.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Noise6.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate6.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Noise7.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate7.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Noise8.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate8.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Noise9.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate9.png,JPMorganChase,JP Morgan,False
+gemma,Kroger.Noise5.png,Kroger,Kroger,True
+gemma,Kroger.Saturate5.png,Kroger,Kroger,True
+gemma,Kroger.Noise6.png,Kroger,Kroger,True
+gemma,Kroger.Saturate6.png,Kroger,Kroger,True
+gemma,Kroger.Noise7.png,Kroger,Kroger,True
+gemma,Kroger.Saturate7.png,Kroger,Kroger,True
+gemma,Kroger.Noise8.png,Kroger,Kroger,True
+gemma,Kroger.Saturate8.png,Kroger,Kroger,True
+gemma,Kroger.Noise9.png,Kroger,Kroger,True
+gemma,Kroger.Saturate9.png,Kroger,Kroger,True
+gemma,Mastercard.Noise5.png,Mastercard,MasterCard,True
+gemma,Mastercard.Saturate5.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Noise6.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate6.png,Mastercard,MasterCard,True
+gemma,Mastercard.Noise7.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate7.png,Mastercard,MasterCard,True
+gemma,Mastercard.Noise8.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate8.png,Mastercard,MasterCard,True
+gemma,Mastercard.Noise9.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate9.png,Mastercard,MasterCard,True
+gemma,McDonalds.Noise5.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate5.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Noise6.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate6.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Noise7.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate7.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Noise8.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate8.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Noise9.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate9.png,McDonalds,mcdonalds,True
+gemma,McKesson.Noise5.png,McKesson,McKesson,True
+gemma,McKesson.Saturate5.png,McKesson,McKesson,True
+gemma,McKesson.Noise6.png,McKesson,McKesson,True
+gemma,McKesson.Saturate6.png,McKesson,McKesson,True
+gemma,McKesson.Noise7.png,McKesson,McKesson,True
+gemma,McKesson.Saturate7.png,McKesson,McKesson,True
+gemma,McKesson.Noise8.png,McKesson,McKesson,True
+gemma,McKesson.Saturate8.png,McKesson,McKesson,True
+gemma,McKesson.Noise9.png,McKesson,"Sorry, as a base",False
+gemma,McKesson.Saturate9.png,McKesson,McKesson,True
+gemma,Microsoft.Noise5.png,Microsoft,Microsoft,True
+gemma,Microsoft.Saturate5.png,Microsoft,Microsoft,True
+gemma,Microsoft.Noise6.png,Microsoft,Microsoft,True
+gemma,Microsoft.Saturate6.png,Microsoft,Microsoft,True
+gemma,Microsoft.Noise7.png,Microsoft,Microsoft,True
+gemma,Microsoft.Saturate7.png,Microsoft,Microsoft,True
+gemma,Microsoft.Noise8.png,Microsoft,microsoft,True
+gemma,Microsoft.Saturate8.png,Microsoft,Microsoft,True
+gemma,Microsoft.Noise9.png,Microsoft,Microsoft,True
+gemma,Microsoft.Saturate9.png,Microsoft,Microsoft,True
+gemma,Nike.Noise5.png,Nike,nike,True
+gemma,Nike.Saturate5.png,Nike,nike,True
+gemma,Nike.Noise6.png,Nike,nike,True
+gemma,Nike.Saturate6.png,Nike,nike,True
+gemma,Nike.Noise7.png,Nike,nike,True
+gemma,Nike.Saturate7.png,Nike,nike,True
+gemma,Nike.Noise8.png,Nike,nike,True
+gemma,Nike.Saturate8.png,Nike,nike,True
+gemma,Nike.Noise9.png,Nike,nike,True
+gemma,Nike.Saturate9.png,Nike,nike,True
+gemma,Nurel Group.Noise5.png,Nurel Group,Nurel Group,True
+gemma,Nurel Group.Saturate5.png,Nurel Group,"Sorry, as a base",False
+gemma,Nurel Group.Noise6.png,Nurel Group,Nurel Group,True
+gemma,Nurel Group.Saturate6.png,Nurel Group,"Sorry, as a base",False
+gemma,Nurel Group.Noise7.png,Nurel Group,Nure1,False
+gemma,Nurel Group.Saturate7.png,Nurel Group,"Sorry, as a base",False
+gemma,Nurel Group.Noise8.png,Nurel Group,Nurel Group,True
+gemma,Nurel Group.Saturate8.png,Nurel Group,"Sorry, as a base",False
+gemma,Nurel Group.Noise9.png,Nurel Group,Nurel Group,True
+gemma,Nurel Group.Saturate9.png,Nurel Group,"Sorry, as a base",False
+gemma,PAGO.Noise5.png,PAGO,pago,True
+gemma,PAGO.Saturate5.png,PAGO,pag,False
+gemma,PAGO.Noise6.png,PAGO,pago,True
+gemma,PAGO.Saturate6.png,PAGO,pag,False
+gemma,PAGO.Noise7.png,PAGO,pago,True
+gemma,PAGO.Saturate7.png,PAGO,pag,False
+gemma,PAGO.Noise8.png,PAGO,pago,True
+gemma,PAGO.Saturate8.png,PAGO,pag,False
+gemma,PAGO.Noise9.png,PAGO,pago,True
+gemma,PAGO.Saturate9.png,PAGO,pag,False
+gemma,Regions.Noise5.png,Regions,regions,True
+gemma,Regions.Saturate5.png,Regions,regions,True
+gemma,Regions.Noise6.png,Regions,regions,True
+gemma,Regions.Saturate6.png,Regions,regions,True
+gemma,Regions.Noise7.png,Regions,regions,True
+gemma,Regions.Saturate7.png,Regions,regions,True
+gemma,Regions.Noise8.png,Regions,regions,True
+gemma,Regions.Saturate8.png,Regions,regions,True
+gemma,Regions.Noise9.png,Regions,regions,True
+gemma,Regions.Saturate9.png,Regions,regions,True
+gemma,SunTrust.Noise5.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate5.png,SunTrust,SunTrust,True
+gemma,SunTrust.Noise6.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate6.png,SunTrust,SunTrust,True
+gemma,SunTrust.Noise7.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate7.png,SunTrust,SunTrust,True
+gemma,SunTrust.Noise8.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate8.png,SunTrust,SunTrust,True
+gemma,SunTrust.Noise9.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate9.png,SunTrust,SunTrust,True
+gemma,Target.Noise5.png,Target,Target,True
+gemma,Target.Saturate5.png,Target,Target,True
+gemma,Target.Noise6.png,Target,Target,True
+gemma,Target.Saturate6.png,Target,Target,True
+gemma,Target.Noise7.png,Target,Target,True
+gemma,Target.Saturate7.png,Target,Target,True
+gemma,Target.Noise8.png,Target,Target,True
+gemma,Target.Saturate8.png,Target,Target,True
+gemma,Target.Noise9.png,Target,Target,True
+gemma,Target.Saturate9.png,Target,Target,True
+gemma,UPS.Noise5.png,UPS,ups,True
+gemma,UPS.Saturate5.png,UPS,ups,True
+gemma,UPS.Noise6.png,UPS,ups,True
+gemma,UPS.Saturate6.png,UPS,ups,True
+gemma,UPS.Noise7.png,UPS,ups,True
+gemma,UPS.Saturate7.png,UPS,ups,True
+gemma,UPS.Noise8.png,UPS,ups,True
+gemma,UPS.Saturate8.png,UPS,ups,True
+gemma,UPS.Noise9.png,UPS,ups,True
+gemma,UPS.Saturate9.png,UPS,ups,True
+gemma,VISA.Noise5.png,VISA,visa,True
+gemma,VISA.Saturate5.png,VISA,visa,True
+gemma,VISA.Noise6.png,VISA,visa,True
+gemma,VISA.Saturate6.png,VISA,visa,True
+gemma,VISA.Noise7.png,VISA,visa,True
+gemma,VISA.Saturate7.png,VISA,visa,True
+gemma,VISA.Noise8.png,VISA,visa,True
+gemma,VISA.Saturate8.png,VISA,visa,True
+gemma,VISA.Noise9.png,VISA,visa,True
+gemma,VISA.Saturate9.png,VISA,visa,True
+gemma,WeChat.Noise5.png,WeChat,emoji,False
+gemma,WeChat.Saturate5.png,WeChat,emoji,False
+gemma,WeChat.Noise6.png,WeChat,emoji,False
+gemma,WeChat.Saturate6.png,WeChat,Chat,False
+gemma,WeChat.Noise7.png,WeChat,emoji,False
+gemma,WeChat.Saturate7.png,WeChat,Chat,False
+gemma,WeChat.Noise8.png,WeChat,emoji,False
+gemma,WeChat.Saturate8.png,WeChat,Chat,False
+gemma,WeChat.Noise9.png,WeChat,emoji,False
+gemma,WeChat.Saturate9.png,WeChat,emoji,False
+gemma,AT&T.Noise5.png,AT&T,at&t,True
+gemma,AT&T.Saturate5.png,AT&T,at&t,True
+gemma,AT&T.Noise6.png,AT&T,at&t,True
+gemma,AT&T.Saturate6.png,AT&T,at&t,True
+gemma,AT&T.Noise7.png,AT&T,at&t,True
+gemma,AT&T.Saturate7.png,AT&T,at&t,True
+gemma,AT&T.Noise8.png,AT&T,at&t,True
+gemma,AT&T.Saturate8.png,AT&T,at&t,True
+gemma,AT&T.Noise9.png,AT&T,at&t,True
+gemma,AT&T.Saturate9.png,AT&T,at&t,True
+gemma,Amazon.Noise5.png,Amazon,amazon,True
+gemma,Amazon.Saturate5.png,Amazon,amazon,True
+gemma,Amazon.Noise6.png,Amazon,amazon,True
+gemma,Amazon.Saturate6.png,Amazon,amazon,True
+gemma,Amazon.Noise7.png,Amazon,amazon,True
+gemma,Amazon.Saturate7.png,Amazon,amazon,True
+gemma,Amazon.Noise8.png,Amazon,amazon,True
+gemma,Amazon.Saturate8.png,Amazon,amazon,True
+gemma,Amazon.Noise9.png,Amazon,amazon,True
+gemma,Amazon.Saturate9.png,Amazon,amazon,True
+gemma,P&G.Noise10.png,P&G,P&G,True
+gemma,P&G.Saturate10.png,P&G,P&G,True
+gemma,PayPal.Noise10.png,PayPal,PayPal,True
+gemma,PayPal.Saturate10.png,PayPal,"Sorry, as a base",False
+gemma,State Farm.Noise10.png,State Farm,State Farm,True
+gemma,State Farm.Saturate10.png,State Farm,State Farm,True
+gemma,The Home Depot.Noise10.png,The Home Depot,The Home Depot,True
+gemma,The Home Depot.Saturate10.png,The Home Depot,"Sorry, as a base",False
+gemma,United Healthcare.Noise10.png,United Healthcare,United Healthcare,True
+gemma,United Healthcare.Saturate10.png,United Healthcare,United Healthcare,True
+gemma,Wells Fargo.Noise10.png,Wells Fargo,wells fargo,True
+gemma,Wells Fargo.Saturate10.png,Wells Fargo,Well Fargo,False
+gemma,American Express.Noise10.png,American Express,American Express,True
+gemma,American Express.Saturate10.png,American Express,American Express,True
+gemma,Apple.Noise10.png,Apple,apple logo,True
+gemma,Apple.Saturate10.png,Apple,apple,True
+gemma,Bank of America.Noise10.png,Bank of America,Bank of America,True
+gemma,Bank of America.Saturate10.png,Bank of America,Bank of America,True
+gemma,Bitcoin.Noise10.png,Bitcoin,bitcoin,True
+gemma,Bitcoin.Saturate10.png,Bitcoin,bitcoin,True
+gemma,Blue Style.Noise10.png,Blue Style,Selina Style,False
+gemma,Blue Style.Saturate10.png,Blue Style,blue style,True
+gemma,Capital One.Noise10.png,Capital One,Capital One Bank,True
+gemma,Capital One.Saturate10.png,Capital One,Capital One Bank,True
+gemma,Chase.Noise10.png,Chase,Chase,True
+gemma,Chase.Saturate10.png,Chase,Chase,True
+gemma,Costco Wholesale.Noise10.png,Costco Wholesale,Costco,False
+gemma,Costco Wholesale.Saturate10.png,Costco Wholesale,Costco,False
+gemma,DHL.Noise10.png,DHL,dhl,True
+gemma,DHL.Saturate10.png,DHL, DHL,True
+gemma,Discover.Noise10.png,Discover,Discover,True
+gemma,Discover.Saturate10.png,Discover,Discover,True
+gemma,ExxonMobil.Noise10.png,ExxonMobil,ExonMobil,False
+gemma,ExxonMobil.Saturate10.png,ExxonMobil,Exon mobil,False
+gemma,Facebook.Noise10.png,Facebook,facebook,True
+gemma,Facebook.Saturate10.png,Facebook,facebook,True
+gemma,FedEx.Noise10.png,FedEx,FedEx,True
+gemma,FedEx.Saturate10.png,FedEx,FedEx,True
+gemma,Google.Noise10.png,Google,Google,True
+gemma,Google.Saturate10.png,Google,google,True
+gemma,HRC elektron.Noise10.png,HRC elektron,HRC,False
+gemma,HRC elektron.Saturate10.png,HRC elektron,"Sorry, as a base",False
+gemma,JPMorganChase.Noise10.png,JPMorganChase,JP Morgan,False
+gemma,JPMorganChase.Saturate10.png,JPMorganChase,JP Morgan,False
+gemma,Kroger.Noise10.png,Kroger,Kroger,True
+gemma,Kroger.Saturate10.png,Kroger,Kroger,True
+gemma,Mastercard.Noise10.png,Mastercard,"Sorry, as a base",False
+gemma,Mastercard.Saturate10.png,Mastercard,MasterCard,True
+gemma,McDonalds.Noise10.png,McDonalds,mcdonalds,True
+gemma,McDonalds.Saturate10.png,McDonalds,mcdonalds,True
+gemma,McKesson.Noise10.png,McKesson,"Sorry, as a base",False
+gemma,McKesson.Saturate10.png,McKesson,McKesson,True
+gemma,Microsoft.Noise10.png,Microsoft,Microsoft,True
+gemma,Microsoft.Saturate10.png,Microsoft,Microsoft,True
+gemma,Nike.Noise10.png,Nike,nike,True
+gemma,Nike.Saturate10.png,Nike,nike,True
+gemma,Nurel Group.Noise10.png,Nurel Group,Nurel Group,True
+gemma,Nurel Group.Saturate10.png,Nurel Group,"Sorry, as a base",False
+gemma,PAGO.Noise10.png,PAGO,"Sorry, as a base",False
+gemma,PAGO.Saturate10.png,PAGO,pag,False
+gemma,Regions.Noise10.png,Regions,regions,True
+gemma,Regions.Saturate10.png,Regions,regions,True
+gemma,SunTrust.Noise10.png,SunTrust,SunTrust,True
+gemma,SunTrust.Saturate10.png,SunTrust,SunTrust,True
+gemma,Target.Noise10.png,Target,Target,True
+gemma,Target.Saturate10.png,Target,Target,True
+gemma,UPS.Noise10.png,UPS,ups,True
+gemma,UPS.Saturate10.png,UPS,ups,True
+gemma,VISA.Noise10.png,VISA,visa,True
+gemma,VISA.Saturate10.png,VISA,visa,True
+gemma,WeChat.Noise10.png,WeChat,emoji,False
+gemma,WeChat.Saturate10.png,WeChat,emoji,False
+gemma,AT&T.Noise10.png,AT&T,at&t,True
+gemma,AT&T.Saturate10.png,AT&T,at&t,True
+gemma,Amazon.Noise10.png,Amazon,amazon,True
+gemma,Amazon.Saturate10.png,Amazon,amazon,True
+gemma,Amazon.Adversarial1.png,Amazon,amazon,True
+gemma,American Express.Adversarial1.png,American Express,cat,False
+gemma,Apple.Adversarial1.png,Apple,cat,False
+gemma,AT&T.Adversarial1.png,AT&T,at&t,True
+gemma,Bank of America.Adversarial1.png,Bank of America,bank of america,True
+gemma,Bitcoin.Adversarial1.png,Bitcoin,cat,False
+gemma,Blue Style.Adversarial1.png,Blue Style,cat,False
+gemma,Capital One.Adversarial1.png,Capital One,a hate symbol,False
+gemma,Chase.Adversarial1.png,Chase,cat,False
+gemma,Costco Wholesale.Adversarial1.png,Costco Wholesale,costco,False
+gemma,DHL.Adversarial1.png,DHL,cat,False
+gemma,Discover.Adversarial1.png,Discover,unanswerable,False
+gemma,ExxonMobil.Adversarial1.png,ExxonMobil,cat,False
+gemma,Facebook.Adversarial1.png,Facebook,cat,False
+gemma,FedEx.Adversarial1.png,FedEx,cat,False
+gemma,Google.Adversarial1.png,Google,google,True
+gemma,HRC elektron.Adversarial1.png,HRC elektron,cat,False
+gemma,JPMorganChase.Adversarial1.png,JPMorganChase,advertisement,False
+gemma,Kroger.Adversarial1.png,Kroger,cat,False
+gemma,Mastercard.Adversarial1.png,Mastercard,cat,False
+gemma,McDonalds.Adversarial1.png,McDonalds,cat,False
+gemma,McKesson.Adversarial1.png,McKesson,m9,False
+gemma,Microsoft.Adversarial1.png,Microsoft,cat,False
+gemma,Nike.Adversarial1.png,Nike,cat,False
+gemma,Nurel Group.Adversarial1.png,Nurel Group,cat,False
+gemma,PAGO.Adversarial1.png,PAGO,cat,False
+gemma,PayPal.Adversarial1.png,PayPal,cat,False
+gemma,P&G.Adversarial1.png,P&G,cat,False
+gemma,Regions.Adversarial1.png,Regions,cat,False
+gemma,State Farm.Adversarial1.png,State Farm,cat,False
+gemma,SunTrust.Adversarial1.png,SunTrust,cat,False
+gemma,Target.Adversarial1.png,Target,cat,False
+gemma,The Home Depot.Adversarial1.png,The Home Depot,the home depot,True
+gemma,United Healthcare.Adversarial1.png,United Healthcare,cat,False
+gemma,UPS.Adversarial1.png,UPS,cat,False
+gemma,VISA.Adversarial1.png,VISA,visa,True
+gemma,WeChat.Adversarial1.png,WeChat,cat,False
+gemma,Wells Fargo.Adversarial1.png,Wells Fargo,cat,False
+gemma,Amazon.Adversarial2.png,Amazon,cat,False
+gemma,American Express.Adversarial2.png,American Express,american express,True
+gemma,Apple.Adversarial2.png,Apple,apple,True
+gemma,AT&T.Adversarial2.png,AT&T,cat,False
+gemma,Bank of America.Adversarial2.png,Bank of America,cat,False
+gemma,Bitcoin.Adversarial2.png,Bitcoin,cat,False
+gemma,Blue Style.Adversarial2.png,Blue Style,cat,False
+gemma,Capital One.Adversarial2.png,Capital One,capital one bank,True
+gemma,Chase.Adversarial2.png,Chase,chase,True
+gemma,Costco Wholesale.Adversarial2.png,Costco Wholesale,cat,False
+gemma,DHL.Adversarial2.png,DHL,cat,False
+gemma,Discover.Adversarial2.png,Discover,cat,False
+gemma,ExxonMobil.Adversarial2.png,ExxonMobil,cat,False
+gemma,Facebook.Adversarial2.png,Facebook,cat,False
+gemma,FedEx.Adversarial2.png,FedEx,cat,False
+gemma,Google.Adversarial2.png,Google,google,True
+gemma,HRC elektron.Adversarial2.png,HRC elektron,cat,False
+gemma,JPMorganChase.Adversarial2.png,JPMorganChase,advertisement,False
+gemma,Kroger.Adversarial2.png,Kroger,cat,False
+gemma,Mastercard.Adversarial2.png,Mastercard,cat,False
+gemma,McDonalds.Adversarial2.png,McDonalds,cat,False
+gemma,McKesson.Adversarial2.png,McKesson,cat,False
+gemma,Microsoft.Adversarial2.png,Microsoft,cat,False
+gemma,Nike.Adversarial2.png,Nike,cat,False
+gemma,Nurel Group.Adversarial2.png,Nurel Group,cat,False
+gemma,PAGO.Adversarial2.png,PAGO,cat,False
+gemma,PayPal.Adversarial2.png,PayPal,cat,False
+gemma,P&G.Adversarial2.png,P&G,cat,False
+gemma,Regions.Adversarial2.png,Regions,cat,False
+gemma,State Farm.Adversarial2.png,State Farm,State Farm,True
+gemma,SunTrust.Adversarial2.png,SunTrust,SunTrust,True
+gemma,Target.Adversarial2.png,Target,cat,False
+gemma,The Home Depot.Adversarial2.png,The Home Depot,the home depot,True
+gemma,United Healthcare.Adversarial2.png,United Healthcare,cat,False
+gemma,UPS.Adversarial2.png,UPS,cat,False
+gemma,VISA.Adversarial2.png,VISA,cat,False
+gemma,WeChat.Adversarial2.png,WeChat,cat,False
+gemma,Wells Fargo.Adversarial2.png,Wells Fargo,cat,False
