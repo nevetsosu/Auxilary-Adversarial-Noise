@@ -77,7 +77,7 @@ def main():
         if "Noise" in entry.stem or "Saturate" in entry.stem:
             continue
 
-        for noise_level in range(1, 5):
+        for noise_level in range(1, 11):
             # create noise files
             new_path = ALTERED_DIR / Path(entry.stem + f".Noise{noise_level}" + entry.suffix)
             if not os.path.exists(new_path):
