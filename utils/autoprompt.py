@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import time
 import sys
-from model_wrappers import gemini, llama, gpt
+from model_wrappers import gemini, llama, gpt, paligemma
 
 # sleeps for a bit and prints while it does
 def snooze(s):
@@ -27,8 +27,11 @@ class autoprompt:
           elif model_name == 'llama':
                self.model = llama()
                self.model_name = 'llama'
+          elif model_name == 'gemma':
+               self.model = paligemma()
+               self.model_name = 'gemma'
           else:
-               raise ValueError('model_name can only be \'gemini\', \'gpt\', or \'llama\'')
+               raise ValueError('model_name can only be \'gemini\', \'gpt\', \'llama\', \'gemma\'')
 
      # save to database (csv)
      def save_data(self, new_data):
@@ -116,7 +119,7 @@ def main():
      load_dotenv()
      model_name = sys.argv[1]
      if (model_name == "all"):
-          for name in ["gemini", "gpt", "llama"]:
+          for name in ["gemini", "gpt", "llama", "gemma"]:
                auto_prompt = autoprompt(name) 
                auto_prompt.start()
      else:

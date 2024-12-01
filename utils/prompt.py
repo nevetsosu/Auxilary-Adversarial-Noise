@@ -1,4 +1,4 @@
-from model_wrappers import gpt, llama, gemini
+from model_wrappers import gpt, llama, gemini, paligemma
 from autoprompt import autoprompt
 import sys
 from pathlib import Path
@@ -21,8 +21,10 @@ elif model_name == 'llama':
     model = llama()
 elif model_name == 'gpt':
     model = gpt()
+elif model_name == 'gemma':
+    model = paligemma()
 else:
-    print("MODEL should be 'gpt', 'llama', or 'gemini'")
+    print("MODEL should be 'gpt', 'llama', 'gemini', 'gemma'")
     exit()
 
 if not path.exists():

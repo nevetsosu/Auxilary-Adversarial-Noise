@@ -203,7 +203,7 @@ class gemma:
 
     def prompt(self, in_path):
         image = Image.open(in_path)
-        image_rgb = image
+        image_rgb = image.convert('RGB')
 
         # preprocess image
         prompt = "<image>What is this"
@@ -220,8 +220,9 @@ class gemma:
         input_len = model_inputs["input_ids"].shape[-1]
         sequence = generation.sequences[0][input_len:]
 
-        decoded = self.processor.decode(sequence, skip_special_tokens=False)
+        decoded = self.processor.decode(sequence, skip_special_tokens=True)
         print(f'Prediction: {decoded}')
+        return decoded
 
 def main():
     if len(sys.argv) != 9:
