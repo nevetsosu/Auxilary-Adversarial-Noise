@@ -441,8 +441,8 @@ llama,AT&T.Noise2.png,AT&T,AT&T Globe.,TRUE
 llama,AT&T.Noise3.png,AT&T,AT&T,TRUE
 llama,AT&T.Noise4.png,AT&T,AT&T Globe.,TRUE
 llama,Amazon.Noise1.png,Amazon,Amazon.,TRUE
-llama,Amazon.Noise2.png,Amazon,Smile Logo.,FALSE
-llama,Amazon.Noise3.png,Amazon,Smile Logo.,FALSE
+llama,Amazon.Noise2.png,Amazon,Smile Logo.,TRUE
+llama,Amazon.Noise3.png,Amazon,Smile Logo.,TRUE
 llama,Amazon.Noise4.png,Amazon,Amazon.,TRUE
 llama,American Express.Noise1.png,American Express,American Express.,TRUE
 llama,American Express.Noise2.png,American Express,American Express.,TRUE
@@ -1712,11 +1712,11 @@ llama,Wells Fargo.Saturate1.png,Wells Fargo,Wells Fargo.,TRUE
 llama,Wells Fargo.Saturate2.png,Wells Fargo,Wells Fargo.,TRUE
 llama,Wells Fargo.Saturate3.png,Wells Fargo,Wells Fargo.,TRUE
 llama,Wells Fargo.Saturate4.png,Wells Fargo,Wells Fargo.,TRUE
-llama,P&G.Noise5.png,P&G,Procter & Gamble.,TRUE 
+llama,P&G.Noise5.png,P&G,Procter & Gamble.,TRUE
 llama,P&G.Saturate5.png,P&G,P&G.,TRUE
 llama,State Farm.Noise5.png,State Farm,State Farm.,TRUE
 llama,State Farm.Saturate5.png,State Farm,State Farm.,TRUE
-llama,United Healthcare.Noise5.png,United Healthcare,UnitedHealthcare.,TRUE 
+llama,United Healthcare.Noise5.png,United Healthcare,UnitedHealthcare.,TRUE
 llama,United Healthcare.Saturate5.png,United Healthcare,UnitedHealthcare.,TRUE 
 llama,Wells Fargo.Noise5.png,Wells Fargo,Wells Fargo.,TRUE
 llama,Wells Fargo.Saturate5.png,Wells Fargo,Wells Fargo.,TRUE
@@ -1734,7 +1734,7 @@ llama,Capital One.Noise5.png,Capital One,Capital One Bank.,TRUE
 llama,Capital One.Saturate5.png,Capital One,Capital One.,TRUE
 llama,Chase.Noise5.png,Chase,Chase.,TRUE
 llama,Chase.Saturate5.png,Chase,Chase.,TRUE
-llama,Costco Wholesale.Noise5.png,Costco Wholesale,Costco.,TRUE 
+llama,Costco Wholesale.Noise5.png,Costco Wholesale,Costco.,TRUE
 llama,Costco Wholesale.Saturate5.png,Costco Wholesale,Costco.,TRUE 
 llama,DHL.Noise5.png,DHL,DHL.,TRUE
 llama,DHL.Saturate5.png,DHL,DHL.,TRUE
@@ -1748,7 +1748,7 @@ llama,FedEx.Noise5.png,FedEx,FedEx.,TRUE
 llama,FedEx.Saturate5.png,FedEx,FedEx.,TRUE
 llama,Google.Noise5.png,Google,Google.,TRUE
 llama,Google.Saturate5.png,Google,Google.,TRUE
-llama,JPMorganChase.Noise5.png,JPMorganChase,JPMorgan Chase & Co.,TRUE 
+llama,JPMorganChase.Noise5.png,JPMorganChase,JPMorgan Chase & Co.,TRUE
 llama,JPMorganChase.Saturate5.png,JPMorganChase,JPMorgan Chase & Co.,TRUE 
 llama,Kroger.Noise5.png,Kroger,Kroger.,TRUE
 llama,Kroger.Saturate5.png,Kroger,Kroger.,TRUE
@@ -1776,9 +1776,9 @@ llama,VISA.Noise5.png,VISA,Visa.,TRUE
 llama,VISA.Saturate5.png,VISA,Visa.,TRUE
 llama,AT&T.Noise5.png,AT&T,AT&T Globe.,TRUE
 llama,AT&T.Saturate5.png,AT&T,AT&T Globe.,TRUE
-llama,Amazon.Noise5.png,Amazon,Smile Logo.,FALSE
-llama,Amazon.Saturate5.png,Amazon,Smile Logo.,FALSE
-llama,Amazon.Adversarial1.png,Amazon,Smile Logo.,FALSE
+llama,Amazon.Noise5.png,Amazon,Smile Logo.,TRUE
+llama,Amazon.Saturate5.png,Amazon,Smile Logo.,TRUE
+llama,Amazon.Adversarial1.png,Amazon,Smile Logo.,TRUE
 llama,American Express.Adversarial1.png,American Express,American Express.,TRUE
 llama,Apple.Adversarial1.png,Apple,Apple.,TRUE
 llama,AT&T.Adversarial1.png,AT&T,Death Star.,FALSE
@@ -1811,7 +1811,7 @@ llama,United Healthcare.Adversarial1.png,United Healthcare,UnitedHealthcare.,TRU
 llama,UPS.Adversarial1.png,UPS,UPS.,TRUE
 llama,VISA.Adversarial1.png,VISA,Visa.,TRUE
 llama,Wells Fargo.Adversarial1.png,Wells Fargo,Wells Fargo.,TRUE
-llama,Amazon.Adversarial2.png,Amazon,Smile Logo.,FALSE
+llama,Amazon.Adversarial2.png,Amazon,Smile Logo.,TRUE
 llama,American Express.Adversarial2.png,American Express,American Express.,TRUE
 llama,Apple.Adversarial2.png,Apple,Apple.,TRUE
 llama,AT&T.Adversarial2.png,AT&T,Death Star.,FALSE

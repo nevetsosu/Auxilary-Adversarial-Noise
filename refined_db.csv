@@ -22,10 +22,6 @@ gemini,Microsoft,Noise,1,True
 gemini,Microsoft,Noise,2,True
 gemini,Microsoft,Noise,3,True
 gemini,Microsoft,Noise,4,True
-gemini,Nurel Group,Noise,1,True
-gemini,Nurel Group,Noise,2,True
-gemini,Nurel Group,Noise,3,True
-gemini,Nurel Group,Noise,4,True
 gemini,P&G,Noise,1,True
 gemini,P&G,Noise,2,True
 gemini,P&G,Noise,3,True
@@ -34,18 +30,10 @@ gemini,PAGO,Noise,1,True
 gemini,PAGO,Noise,2,True
 gemini,PAGO,Noise,3,True
 gemini,PAGO,Noise,4,True
-gemini,PayPal,Noise,1,True
-gemini,PayPal,Noise,2,True
-gemini,PayPal,Noise,3,True
-gemini,PayPal,Noise,4,True
 gemini,State Farm,Noise,1,True
 gemini,State Farm,Noise,2,True
 gemini,State Farm,Noise,3,True
 gemini,State Farm,Noise,4,True
-gemini,The Home Depot,Noise,1,True
-gemini,The Home Depot,Noise,2,True
-gemini,The Home Depot,Noise,3,True
-gemini,The Home Depot,Noise,4,True
 gemini,Costco,Noise,3,True
 gemini,DHL,Noise,1,True
 gemini,DHL,Noise,3,True
@@ -143,10 +131,6 @@ gemini,VISA,Noise,1,True
 gemini,VISA,Noise,2,True
 gemini,VISA,Noise,3,True
 gemini,VISA,Noise,4,True
-gemini,WeChat,Noise,1,True
-gemini,WeChat,Noise,2,True
-gemini,WeChat,Noise,3,True
-gemini,WeChat,Noise,4,True
 gpt,ExxonMobil,Noise,2,True
 gpt,ExxonMobil,Noise,3,True
 gpt,ExxonMobil,Noise,4,True
@@ -170,10 +154,6 @@ gpt,Microsoft,Noise,1,True
 gpt,Microsoft,Noise,2,True
 gpt,Microsoft,Noise,3,True
 gpt,Microsoft,Noise,4,True
-gpt,Nurel Group,Noise,1,True
-gpt,Nurel Group,Noise,2,True
-gpt,Nurel Group,Noise,3,True
-gpt,Nurel Group,Noise,4,True
 gpt,P&G,Noise,1,True
 gpt,P&G,Noise,2,True
 gpt,P&G,Noise,3,True
@@ -182,18 +162,10 @@ gpt,PAGO,Noise,1,True
 gpt,PAGO,Noise,2,True
 gpt,PAGO,Noise,3,True
 gpt,PAGO,Noise,4,True
-gpt,PayPal,Noise,1,True
-gpt,PayPal,Noise,2,True
-gpt,PayPal,Noise,3,True
-gpt,PayPal,Noise,4,True
 gpt,State Farm,Noise,1,True
 gpt,State Farm,Noise,2,True
 gpt,State Farm,Noise,3,True
 gpt,State Farm,Noise,4,True
-gpt,The Home Depot,Noise,1,True
-gpt,The Home Depot,Noise,2,True
-gpt,The Home Depot,Noise,3,True
-gpt,The Home Depot,Noise,4,True
 gpt,Costco,Noise,3,True
 gpt,DHL,Noise,1,True
 gpt,DHL,Noise,3,True
@@ -291,10 +263,6 @@ gpt,VISA,Noise,1,True
 gpt,VISA,Noise,2,True
 gpt,VISA,Noise,3,True
 gpt,VISA,Noise,4,True
-gpt,WeChat,Noise,1,True
-gpt,WeChat,Noise,2,True
-gpt,WeChat,Noise,3,True
-gpt,WeChat,Noise,4,True
 llama,ExxonMobil,Noise,2,True
 llama,ExxonMobil,Noise,3,True
 llama,ExxonMobil,Noise,4,True
@@ -318,10 +286,6 @@ llama,Microsoft,Noise,1,True
 llama,Microsoft,Noise,2,True
 llama,Microsoft,Noise,3,True
 llama,Microsoft,Noise,4,True
-llama,Nurel Group,Noise,1,True
-llama,Nurel Group,Noise,2,True
-llama,Nurel Group,Noise,3,True
-llama,Nurel Group,Noise,4,True
 llama,P&G,Noise,1,True
 llama,P&G,Noise,2,True
 llama,P&G,Noise,3,True
@@ -330,18 +294,10 @@ llama,PAGO,Noise,1,True
 llama,PAGO,Noise,2,True
 llama,PAGO,Noise,3,True
 llama,PAGO,Noise,4,True
-llama,PayPal,Noise,1,True
-llama,PayPal,Noise,2,True
-llama,PayPal,Noise,3,True
-llama,PayPal,Noise,4,True
 llama,State Farm,Noise,1,True
 llama,State Farm,Noise,2,True
 llama,State Farm,Noise,3,True
 llama,State Farm,Noise,4,True
-llama,The Home Depot,Noise,1,True
-llama,The Home Depot,Noise,2,True
-llama,The Home Depot,Noise,3,True
-llama,The Home Depot,Noise,4,True
 llama,Costco,Noise,3,True
 llama,DHL,Noise,1,True
 llama,DHL,Noise,3,True
@@ -361,8 +317,8 @@ llama,AT&T,Noise,2,True
 llama,AT&T,Noise,3,True
 llama,AT&T,Noise,4,True
 llama,Amazon,Noise,1,True
-llama,Amazon,Noise,2,False
-llama,Amazon,Noise,3,False
+llama,Amazon,Noise,2,True
+llama,Amazon,Noise,3,True
 llama,Amazon,Noise,4,True
 llama,American Express,Noise,1,True
 llama,American Express,Noise,2,True
@@ -439,10 +395,6 @@ llama,VISA,Noise,1,True
 llama,VISA,Noise,2,True
 llama,VISA,Noise,3,True
 llama,VISA,Noise,4,True
-llama,WeChat,Noise,1,True
-llama,WeChat,Noise,2,True
-llama,WeChat,Noise,3,True
-llama,WeChat,Noise,4,True
 gemini,AT&T,Saturate,1,True
 gemini,AT&T,Saturate,2,True
 gemini,AT&T,Saturate,3,True
@@ -535,10 +487,6 @@ gemini,Nike,Saturate,1,True
 gemini,Nike,Saturate,2,True
 gemini,Nike,Saturate,3,True
 gemini,Nike,Saturate,4,True
-gemini,Nurel Group,Saturate,1,True
-gemini,Nurel Group,Saturate,2,True
-gemini,Nurel Group,Saturate,3,True
-gemini,Nurel Group,Saturate,4,True
 gemini,P&G,Saturate,1,True
 gemini,P&G,Saturate,2,True
 gemini,P&G,Saturate,3,True
@@ -547,10 +495,6 @@ gemini,PAGO,Saturate,1,True
 gemini,PAGO,Saturate,2,True
 gemini,PAGO,Saturate,3,True
 gemini,PAGO,Saturate,4,True
-gemini,PayPal,Saturate,1,True
-gemini,PayPal,Saturate,2,True
-gemini,PayPal,Saturate,3,True
-gemini,PayPal,Saturate,4,True
 gemini,Regions,Saturate,1,True
 gemini,Regions,Saturate,2,True
 gemini,Regions,Saturate,3,True
@@ -567,10 +511,6 @@ gemini,Target,Saturate,1,True
 gemini,Target,Saturate,2,True
 gemini,Target,Saturate,3,True
 gemini,Target,Saturate,4,True
-gemini,The Home Depot,Saturate,1,True
-gemini,The Home Depot,Saturate,2,True
-gemini,The Home Depot,Saturate,3,True
-gemini,The Home Depot,Saturate,4,True
 gemini,UPS,Saturate,1,True
 gemini,UPS,Saturate,2,True
 gemini,UPS,Saturate,3,True
@@ -583,22 +523,14 @@ gemini,VISA,Saturate,1,True
 gemini,VISA,Saturate,2,True
 gemini,VISA,Saturate,3,True
 gemini,VISA,Saturate,4,True
-gemini,WeChat,Saturate,1,True
-gemini,WeChat,Saturate,2,True
-gemini,WeChat,Saturate,3,True
-gemini,WeChat,Saturate,4,True
 gemini,Wells Fargo,Saturate,1,True
 gemini,Wells Fargo,Saturate,2,True
 gemini,Wells Fargo,Saturate,3,True
 gemini,Wells Fargo,Saturate,4,True
 gemini,P&G,Noise,5,True
 gemini,P&G,Saturate,5,True
-gemini,PayPal,Noise,5,True
-gemini,PayPal,Saturate,5,True
 gemini,State Farm,Noise,5,True
 gemini,State Farm,Saturate,5,True
-gemini,The Home Depot,Noise,5,True
-gemini,The Home Depot,Saturate,5,True
 gemini,United Healthcare,Noise,5,True
 gemini,United Healthcare,Saturate,5,True
 gemini,Wells Fargo,Noise,5,True
@@ -645,8 +577,6 @@ gemini,Microsoft,Noise,5,True
 gemini,Microsoft,Saturate,5,True
 gemini,Nike,Noise,5,True
 gemini,Nike,Saturate,5,True
-gemini,Nurel Group,Noise,5,True
-gemini,Nurel Group,Saturate,5,True
 gemini,PAGO,Noise,5,True
 gemini,PAGO,Saturate,5,True
 gemini,Regions,Noise,5,True
@@ -659,8 +589,6 @@ gemini,UPS,Noise,5,True
 gemini,UPS,Saturate,5,True
 gemini,VISA,Noise,5,True
 gemini,VISA,Saturate,5,True
-gemini,WeChat,Noise,5,True
-gemini,WeChat,Saturate,5,True
 gemini,AT&T,Noise,5,True
 gemini,AT&T,Saturate,5,True
 gemini,Amazon,Noise,5,True
@@ -757,10 +685,6 @@ gemma,Nike,Noise,1,True
 gemma,Nike,Noise,2,True
 gemma,Nike,Noise,3,True
 gemma,Nike,Noise,4,True
-gemma,Nurel Group,Noise,1,True
-gemma,Nurel Group,Noise,2,True
-gemma,Nurel Group,Noise,3,True
-gemma,Nurel Group,Noise,4,True
 gemma,P&G,Noise,1,True
 gemma,P&G,Noise,2,True
 gemma,P&G,Noise,3,True
@@ -769,10 +693,6 @@ gemma,PAGO,Noise,1,True
 gemma,PAGO,Noise,2,True
 gemma,PAGO,Noise,3,True
 gemma,PAGO,Noise,4,True
-gemma,PayPal,Noise,1,False
-gemma,PayPal,Noise,2,False
-gemma,PayPal,Noise,3,False
-gemma,PayPal,Noise,4,True
 gemma,Regions,Noise,1,True
 gemma,Regions,Noise,2,True
 gemma,Regions,Noise,3,True
@@ -789,10 +709,6 @@ gemma,Target,Noise,1,True
 gemma,Target,Noise,2,True
 gemma,Target,Noise,3,True
 gemma,Target,Noise,4,True
-gemma,The Home Depot,Noise,1,False
-gemma,The Home Depot,Noise,2,True
-gemma,The Home Depot,Noise,3,True
-gemma,The Home Depot,Noise,4,True
 gemma,UPS,Noise,1,True
 gemma,UPS,Noise,2,True
 gemma,UPS,Noise,3,True
@@ -901,10 +817,6 @@ gemma,Nike,Saturate,1,True
 gemma,Nike,Saturate,2,True
 gemma,Nike,Saturate,3,True
 gemma,Nike,Saturate,4,True
-gemma,Nurel Group,Saturate,1,False
-gemma,Nurel Group,Saturate,2,False
-gemma,Nurel Group,Saturate,3,False
-gemma,Nurel Group,Saturate,4,False
 gemma,P&G,Saturate,1,True
 gemma,P&G,Saturate,2,True
 gemma,P&G,Saturate,3,True
@@ -913,10 +825,6 @@ gemma,PAGO,Saturate,1,True
 gemma,PAGO,Saturate,2,True
 gemma,PAGO,Saturate,3,True
 gemma,PAGO,Saturate,4,True
-gemma,PayPal,Saturate,1,False
-gemma,PayPal,Saturate,2,False
-gemma,PayPal,Saturate,3,False
-gemma,PayPal,Saturate,4,False
 gemma,Regions,Saturate,1,True
 gemma,Regions,Saturate,2,True
 gemma,Regions,Saturate,3,True
@@ -933,10 +841,6 @@ gemma,Target,Saturate,1,True
 gemma,Target,Saturate,2,True
 gemma,Target,Saturate,3,True
 gemma,Target,Saturate,4,True
-gemma,The Home Depot,Saturate,1,True
-gemma,The Home Depot,Saturate,2,False
-gemma,The Home Depot,Saturate,3,True
-gemma,The Home Depot,Saturate,4,False
 gemma,UPS,Saturate,1,True
 gemma,UPS,Saturate,2,True
 gemma,UPS,Saturate,3,True
@@ -949,22 +853,14 @@ gemma,VISA,Saturate,1,True
 gemma,VISA,Saturate,2,True
 gemma,VISA,Saturate,3,True
 gemma,VISA,Saturate,4,True
-gemma,WeChat,Saturate,1,False
-gemma,WeChat,Saturate,2,False
-gemma,WeChat,Saturate,3,False
-gemma,WeChat,Saturate,4,False
 gemma,Wells Fargo,Saturate,1,True
 gemma,Wells Fargo,Saturate,2,True
 gemma,Wells Fargo,Saturate,3,True
 gemma,Wells Fargo,Saturate,4,True
 gemma,P&G,Noise,5,True
 gemma,P&G,Saturate,5,True
-gemma,PayPal,Noise,5,True
-gemma,PayPal,Saturate,5,False
 gemma,State Farm,Noise,5,True
 gemma,State Farm,Saturate,5,True
-gemma,The Home Depot,Noise,5,True
-gemma,The Home Depot,Saturate,5,False
 gemma,United Healthcare,Noise,5,True
 gemma,United Healthcare,Saturate,5,True
 gemma,Wells Fargo,Noise,5,True
@@ -1011,8 +907,6 @@ gemma,Microsoft,Noise,5,True
 gemma,Microsoft,Saturate,5,True
 gemma,Nike,Noise,5,True
 gemma,Nike,Saturate,5,True
-gemma,Nurel Group,Noise,5,True
-gemma,Nurel Group,Saturate,5,False
 gemma,PAGO,Noise,5,True
 gemma,PAGO,Saturate,5,True
 gemma,Regions,Noise,5,True
@@ -1025,8 +919,6 @@ gemma,UPS,Noise,5,True
 gemma,UPS,Saturate,5,True
 gemma,VISA,Noise,5,True
 gemma,VISA,Saturate,5,True
-gemma,WeChat,Noise,5,False
-gemma,WeChat,Saturate,5,False
 gemma,AT&T,Noise,5,True
 gemma,AT&T,Saturate,5,True
 gemma,Amazon,Noise,5,True
@@ -1054,19 +946,15 @@ gemma,McDonalds,Adversarial,1,False
 gemma,McKesson,Adversarial,1,False
 gemma,Microsoft,Adversarial,1,False
 gemma,Nike,Adversarial,1,False
-gemma,Nurel Group,Adversarial,1,False
 gemma,PAGO,Adversarial,1,False
-gemma,PayPal,Adversarial,1,False
 gemma,P&G,Adversarial,1,False
 gemma,Regions,Adversarial,1,False
 gemma,State Farm,Adversarial,1,False
 gemma,SunTrust,Adversarial,1,False
 gemma,Target,Adversarial,1,False
-gemma,The Home Depot,Adversarial,1,True
 gemma,United Healthcare,Adversarial,1,False
 gemma,UPS,Adversarial,1,False
 gemma,VISA,Adversarial,1,True
-gemma,WeChat,Adversarial,1,False
 gemma,Wells Fargo,Adversarial,1,False
 gemma,Amazon,Adversarial,2,False
 gemma,American Express,Adversarial,2,True
@@ -1091,17 +979,637 @@ gemma,McDonalds,Adversarial,2,False
 gemma,McKesson,Adversarial,2,False
 gemma,Microsoft,Adversarial,2,False
 gemma,Nike,Adversarial,2,False
-gemma,Nurel Group,Adversarial,2,False
 gemma,PAGO,Adversarial,2,False
-gemma,PayPal,Adversarial,2,False
 gemma,P&G,Adversarial,2,False
 gemma,Regions,Adversarial,2,False
 gemma,State Farm,Adversarial,2,True
 gemma,SunTrust,Adversarial,2,True
 gemma,Target,Adversarial,2,False
-gemma,The Home Depot,Adversarial,2,True
 gemma,United Healthcare,Adversarial,2,False
 gemma,UPS,Adversarial,2,False
 gemma,VISA,Adversarial,2,False
-gemma,WeChat,Adversarial,2,False
 gemma,Wells Fargo,Adversarial,2,False
+gemini,Costco Wholesale,Noise,1,True
+gemini,Costco Wholesale,Noise,2,True
+gemini,Costco Wholesale,Noise,3,True
+gemini,Costco Wholesale,Noise,4,True
+gemini,Costco Wholesale,Saturate,1,True
+gemini,Costco Wholesale,Saturate,2,True
+gemini,Costco Wholesale,Saturate,3,True
+gemini,Costco Wholesale,Saturate,4,True
+gemini,Costco Wholesale,Noise,5,True
+gemini,Costco Wholesale,Saturate,5,True
+gemini,Amazon,Adversarial,1,True
+gemini,American Express,Adversarial,1,True
+gemini,Apple,Adversarial,1,True
+gemini,AT&T,Adversarial,1,True
+gemini,Bank of America,Adversarial,1,True
+gemini,Bitcoin,Adversarial,1,True
+gemini,Blue Style,Adversarial,1,True
+gemini,Capital One,Adversarial,1,True
+gemini,Chase,Adversarial,1,True
+gemini,Costco Wholesale,Adversarial,1,True
+gemini,DHL,Adversarial,1,True
+gemini,Discover,Adversarial,1,True
+gemini,ExxonMobil,Adversarial,1,True
+gemini,Facebook,Adversarial,1,True
+gemini,FedEx,Adversarial,1,True
+gemini,Google,Adversarial,1,True
+gemini,JPMorganChase,Adversarial,1,True
+gemini,Kroger,Adversarial,1,True
+gemini,Mastercard,Adversarial,1,True
+gemini,McDonalds,Adversarial,1,True
+gemini,McKesson,Adversarial,1,True
+gemini,Microsoft,Adversarial,1,True
+gemini,Nike,Adversarial,1,True
+gemini,PAGO,Adversarial,1,True
+gemini,P&G,Adversarial,1,True
+gemini,Regions,Adversarial,1,True
+gemini,State Farm,Adversarial,1,True
+gemini,SunTrust,Adversarial,1,True
+gemini,Target,Adversarial,1,True
+gemini,United Healthcare,Adversarial,1,True
+gemini,UPS,Adversarial,1,True
+gemini,VISA,Adversarial,1,True
+gemini,Wells Fargo,Adversarial,1,True
+gemini,Amazon,Adversarial,2,True
+gemini,American Express,Adversarial,2,True
+gemini,Apple,Adversarial,2,True
+gemini,AT&T,Adversarial,2,True
+gemini,Bank of America,Adversarial,2,True
+gemini,Bitcoin,Adversarial,2,True
+gemini,Blue Style,Adversarial,2,True
+gemini,Capital One,Adversarial,2,True
+gemini,Chase,Adversarial,2,True
+gemini,Costco Wholesale,Adversarial,2,True
+gemini,DHL,Adversarial,2,True
+gemini,Discover,Adversarial,2,True
+gemini,ExxonMobil,Adversarial,2,True
+gemini,Facebook,Adversarial,2,True
+gemini,FedEx,Adversarial,2,True
+gemini,Google,Adversarial,2,True
+gemini,JPMorganChase,Adversarial,2,True
+gemini,Kroger,Adversarial,2,True
+gemini,Mastercard,Adversarial,2,True
+gemini,McDonalds,Adversarial,2,True
+gemini,McKesson,Adversarial,2,True
+gemini,Microsoft,Adversarial,2,True
+gemini,Nike,Adversarial,2,True
+gemini,PAGO,Adversarial,2,True
+gemini,P&G,Adversarial,2,True
+gemini,Regions,Adversarial,2,True
+gemini,State Farm,Adversarial,2,True
+gemini,SunTrust,Adversarial,2,True
+gemini,Target,Adversarial,2,True
+gemini,United Healthcare,Adversarial,2,True
+gemini,UPS,Adversarial,2,True
+gemini,VISA,Adversarial,2,True
+gemini,Wells Fargo,Adversarial,2,True
+gpt,Costco Wholesale,Noise,1,True
+gpt,Costco Wholesale,Noise,2,True
+gpt,Costco Wholesale,Noise,3,True
+gpt,Costco Wholesale,Noise,4,True
+gpt,AT&T,Saturate,1,True
+gpt,AT&T,Saturate,2,True
+gpt,AT&T,Saturate,3,True
+gpt,AT&T,Saturate,4,True
+gpt,Amazon,Saturate,1,True
+gpt,Amazon,Saturate,2,True
+gpt,Amazon,Saturate,3,True
+gpt,Amazon,Saturate,4,True
+gpt,American Express,Saturate,1,True
+gpt,American Express,Saturate,2,True
+gpt,American Express,Saturate,3,True
+gpt,American Express,Saturate,4,True
+gpt,Apple,Saturate,1,True
+gpt,Apple,Saturate,2,True
+gpt,Apple,Saturate,3,True
+gpt,Apple,Saturate,4,True
+gpt,Bank of America,Saturate,1,True
+gpt,Bank of America,Saturate,2,True
+gpt,Bank of America,Saturate,3,True
+gpt,Bank of America,Saturate,4,True
+gpt,Bitcoin,Saturate,1,True
+gpt,Bitcoin,Saturate,2,True
+gpt,Bitcoin,Saturate,3,True
+gpt,Bitcoin,Saturate,4,True
+gpt,Blue Style,Saturate,1,True
+gpt,Blue Style,Saturate,2,True
+gpt,Blue Style,Saturate,3,True
+gpt,Blue Style,Saturate,4,True
+gpt,Capital One,Saturate,1,True
+gpt,Capital One,Saturate,2,True
+gpt,Capital One,Saturate,3,True
+gpt,Capital One,Saturate,4,True
+gpt,Chase,Saturate,1,True
+gpt,Chase,Saturate,2,True
+gpt,Chase,Saturate,3,True
+gpt,Chase,Saturate,4,True
+gpt,Costco Wholesale,Saturate,1,True
+gpt,Costco Wholesale,Saturate,2,True
+gpt,Costco Wholesale,Saturate,3,True
+gpt,Costco Wholesale,Saturate,4,True
+gpt,DHL,Saturate,1,True
+gpt,DHL,Saturate,2,True
+gpt,DHL,Saturate,3,True
+gpt,DHL,Saturate,4,True
+gpt,Discover,Saturate,1,True
+gpt,Discover,Saturate,2,True
+gpt,Discover,Saturate,3,True
+gpt,Discover,Saturate,4,True
+gpt,ExxonMobil,Saturate,1,True
+gpt,ExxonMobil,Saturate,2,True
+gpt,ExxonMobil,Saturate,3,True
+gpt,ExxonMobil,Saturate,4,True
+gpt,Facebook,Saturate,1,True
+gpt,Facebook,Saturate,2,True
+gpt,Facebook,Saturate,3,True
+gpt,Facebook,Saturate,4,True
+gpt,FedEx,Saturate,1,True
+gpt,FedEx,Saturate,2,True
+gpt,FedEx,Saturate,3,True
+gpt,FedEx,Saturate,4,True
+gpt,Google,Saturate,1,True
+gpt,Google,Saturate,2,True
+gpt,Google,Saturate,3,True
+gpt,Google,Saturate,4,True
+gpt,JPMorganChase,Saturate,1,True
+gpt,JPMorganChase,Saturate,2,True
+gpt,JPMorganChase,Saturate,3,True
+gpt,JPMorganChase,Saturate,4,True
+gpt,Kroger,Saturate,1,True
+gpt,Kroger,Saturate,2,True
+gpt,Kroger,Saturate,3,True
+gpt,Kroger,Saturate,4,True
+gpt,Mastercard,Saturate,1,False
+gpt,Mastercard,Saturate,2,False
+gpt,Mastercard,Saturate,3,False
+gpt,Mastercard,Saturate,4,True
+gpt,McDonalds,Saturate,1,True
+gpt,McDonalds,Saturate,2,True
+gpt,McDonalds,Saturate,3,True
+gpt,McDonalds,Saturate,4,True
+gpt,McKesson,Saturate,1,True
+gpt,McKesson,Saturate,2,True
+gpt,McKesson,Saturate,3,True
+gpt,McKesson,Saturate,4,True
+gpt,Microsoft,Saturate,1,True
+gpt,Microsoft,Saturate,2,True
+gpt,Microsoft,Saturate,3,True
+gpt,Microsoft,Saturate,4,True
+gpt,Nike,Saturate,1,True
+gpt,Nike,Saturate,2,True
+gpt,Nike,Saturate,3,True
+gpt,Nike,Saturate,4,True
+gpt,P&G,Saturate,1,True
+gpt,P&G,Saturate,2,True
+gpt,P&G,Saturate,3,True
+gpt,P&G,Saturate,4,True
+gpt,PAGO,Saturate,1,True
+gpt,PAGO,Saturate,2,True
+gpt,PAGO,Saturate,3,True
+gpt,PAGO,Saturate,4,True
+gpt,Regions,Saturate,1,True
+gpt,Regions,Saturate,2,True
+gpt,Regions,Saturate,3,True
+gpt,Regions,Saturate,4,True
+gpt,State Farm,Saturate,1,True
+gpt,State Farm,Saturate,2,True
+gpt,State Farm,Saturate,3,True
+gpt,State Farm,Saturate,4,True
+gpt,SunTrust,Saturate,1,True
+gpt,SunTrust,Saturate,2,True
+gpt,SunTrust,Saturate,3,True
+gpt,SunTrust,Saturate,4,True
+gpt,Target,Saturate,1,True
+gpt,Target,Saturate,2,True
+gpt,Target,Saturate,3,True
+gpt,Target,Saturate,4,True
+gpt,UPS,Saturate,1,True
+gpt,UPS,Saturate,2,True
+gpt,UPS,Saturate,3,True
+gpt,UPS,Saturate,4,True
+gpt,United Healthcare,Saturate,1,True
+gpt,United Healthcare,Saturate,2,True
+gpt,United Healthcare,Saturate,3,True
+gpt,United Healthcare,Saturate,4,True
+gpt,VISA,Saturate,1,True
+gpt,VISA,Saturate,2,True
+gpt,VISA,Saturate,3,True
+gpt,VISA,Saturate,4,True
+gpt,Wells Fargo,Saturate,1,True
+gpt,Wells Fargo,Saturate,2,True
+gpt,Wells Fargo,Saturate,3,True
+gpt,Wells Fargo,Saturate,4,True
+gpt,P&G,Noise,5,True
+gpt,P&G,Saturate,5,True
+gpt,State Farm,Noise,5,True
+gpt,State Farm,Saturate,5,True
+gpt,United Healthcare,Noise,5,True
+gpt,United Healthcare,Saturate,5,True
+gpt,Wells Fargo,Noise,5,True
+gpt,Wells Fargo,Saturate,5,True
+gpt,American Express,Noise,5,True
+gpt,American Express,Saturate,5,True
+gpt,Apple,Noise,5,True
+gpt,Apple,Saturate,5,True
+gpt,Bank of America,Noise,5,True
+gpt,Bank of America,Saturate,5,True
+gpt,Bitcoin,Noise,5,True
+gpt,Bitcoin,Saturate,5,True
+gpt,Blue Style,Noise,5,True
+gpt,Blue Style,Saturate,5,True
+gpt,Capital One,Noise,5,True
+gpt,Capital One,Saturate,5,True
+gpt,Chase,Noise,5,True
+gpt,Chase,Saturate,5,True
+gpt,Costco Wholesale,Noise,5,True
+gpt,Costco Wholesale,Saturate,5,True
+gpt,DHL,Noise,5,True
+gpt,DHL,Saturate,5,True
+gpt,Discover,Noise,5,True
+gpt,Discover,Saturate,5,True
+gpt,ExxonMobil,Noise,5,True
+gpt,ExxonMobil,Saturate,5,True
+gpt,Facebook,Noise,5,True
+gpt,Facebook,Saturate,5,True
+gpt,FedEx,Noise,5,True
+gpt,FedEx,Saturate,5,True
+gpt,Google,Noise,5,True
+gpt,Google,Saturate,5,True
+gpt,JPMorganChase,Noise,5,True
+gpt,JPMorganChase,Saturate,5,True
+gpt,Kroger,Noise,5,True
+gpt,Kroger,Saturate,5,True
+gpt,Mastercard,Noise,5,True
+gpt,Mastercard,Saturate,5,True
+gpt,McDonalds,Noise,5,True
+gpt,McDonalds,Saturate,5,True
+gpt,McKesson,Noise,5,True
+gpt,McKesson,Saturate,5,True
+gpt,Microsoft,Noise,5,True
+gpt,Microsoft,Saturate,5,True
+gpt,Nike,Noise,5,True
+gpt,Nike,Saturate,5,True
+gpt,PAGO,Noise,5,True
+gpt,PAGO,Saturate,5,True
+gpt,Regions,Noise,5,True
+gpt,Regions,Saturate,5,True
+gpt,SunTrust,Noise,5,True
+gpt,SunTrust,Saturate,5,True
+gpt,Target,Noise,5,True
+gpt,Target,Saturate,5,True
+gpt,UPS,Noise,5,True
+gpt,UPS,Saturate,5,True
+gpt,VISA,Noise,5,True
+gpt,VISA,Saturate,5,True
+gpt,AT&T,Noise,5,True
+gpt,AT&T,Saturate,5,True
+gpt,Amazon,Noise,5,True
+gpt,Amazon,Saturate,5,True
+gpt,Amazon,Adversarial,1,True
+gpt,American Express,Adversarial,1,True
+gpt,Apple,Adversarial,1,True
+gpt,AT&T,Adversarial,1,True
+gpt,Bank of America,Adversarial,1,True
+gpt,Bitcoin,Adversarial,1,True
+gpt,Blue Style,Adversarial,1,True
+gpt,Capital One,Adversarial,1,True
+gpt,Chase,Adversarial,1,True
+gpt,Costco Wholesale,Adversarial,1,True
+gpt,DHL,Adversarial,1,True
+gpt,Discover,Adversarial,1,True
+gpt,ExxonMobil,Adversarial,1,True
+gpt,Facebook,Adversarial,1,True
+gpt,FedEx,Adversarial,1,True
+gpt,Google,Adversarial,1,True
+gpt,JPMorganChase,Adversarial,1,True
+gpt,Kroger,Adversarial,1,True
+gpt,Mastercard,Adversarial,1,True
+gpt,McDonalds,Adversarial,1,True
+gpt,McKesson,Adversarial,1,True
+gpt,Microsoft,Adversarial,1,True
+gpt,Nike,Adversarial,1,True
+gpt,PAGO,Adversarial,1,True
+gpt,P&G,Adversarial,1,True
+gpt,Regions,Adversarial,1,True
+gpt,State Farm,Adversarial,1,True
+gpt,SunTrust,Adversarial,1,True
+gpt,Target,Adversarial,1,True
+gpt,United Healthcare,Adversarial,1,True
+gpt,UPS,Adversarial,1,True
+gpt,VISA,Adversarial,1,True
+gpt,Wells Fargo,Adversarial,1,True
+gpt,Amazon,Adversarial,2,True
+gpt,American Express,Adversarial,2,True
+gpt,Apple,Adversarial,2,True
+gpt,AT&T,Adversarial,2,True
+gpt,Bank of America,Adversarial,2,True
+gpt,Bitcoin,Adversarial,2,True
+gpt,Blue Style,Adversarial,2,True
+gpt,Capital One,Adversarial,2,True
+gpt,Chase,Adversarial,2,True
+gpt,Costco Wholesale,Adversarial,2,True
+gpt,DHL,Adversarial,2,True
+gpt,Discover,Adversarial,2,True
+gpt,ExxonMobil,Adversarial,2,True
+gpt,Facebook,Adversarial,2,True
+gpt,FedEx,Adversarial,2,True
+gpt,Google,Adversarial,2,True
+gpt,JPMorganChase,Adversarial,2,True
+gpt,Kroger,Adversarial,2,True
+gpt,Mastercard,Adversarial,2,True
+gpt,McDonalds,Adversarial,2,True
+gpt,McKesson,Adversarial,2,True
+gpt,Microsoft,Adversarial,2,True
+gpt,Nike,Adversarial,2,True
+gpt,PAGO,Adversarial,2,True
+gpt,P&G,Adversarial,2,True
+gpt,Regions,Adversarial,2,True
+gpt,State Farm,Adversarial,2,True
+gpt,SunTrust,Adversarial,2,True
+gpt,Target,Adversarial,2,True
+gpt,United Healthcare,Adversarial,2,True
+gpt,UPS,Adversarial,2,True
+gpt,VISA,Adversarial,2,True
+gpt,Wells Fargo,Adversarial,2,True
+llama,Costco Wholesale,Noise,1,True
+llama,Costco Wholesale,Noise,2,True
+llama,Costco Wholesale,Noise,3,True
+llama,Costco Wholesale,Noise,4,True
+llama,AT&T,Saturate,1,True
+llama,AT&T,Saturate,2,True
+llama,AT&T,Saturate,3,True
+llama,AT&T,Saturate,4,True
+llama,Amazon,Saturate,1,True
+llama,Amazon,Saturate,2,True
+llama,Amazon,Saturate,3,True
+llama,Amazon,Saturate,4,True
+llama,American Express,Saturate,1,True
+llama,American Express,Saturate,2,True
+llama,American Express,Saturate,3,True
+llama,American Express,Saturate,4,True
+llama,Apple,Saturate,1,True
+llama,Apple,Saturate,2,True
+llama,Apple,Saturate,3,True
+llama,Apple,Saturate,4,True
+llama,Bank of America,Saturate,1,True
+llama,Bank of America,Saturate,2,True
+llama,Bank of America,Saturate,3,True
+llama,Bank of America,Saturate,4,True
+llama,Bitcoin,Saturate,1,True
+llama,Bitcoin,Saturate,2,True
+llama,Bitcoin,Saturate,3,True
+llama,Bitcoin,Saturate,4,True
+llama,Blue Style,Saturate,1,True
+llama,Blue Style,Saturate,2,True
+llama,Blue Style,Saturate,3,True
+llama,Blue Style,Saturate,4,True
+llama,Capital One,Saturate,1,True
+llama,Capital One,Saturate,2,True
+llama,Capital One,Saturate,3,True
+llama,Capital One,Saturate,4,True
+llama,Chase,Saturate,1,True
+llama,Chase,Saturate,2,True
+llama,Chase,Saturate,3,True
+llama,Chase,Saturate,4,True
+llama,Costco Wholesale,Saturate,1,True
+llama,Costco Wholesale,Saturate,2,True
+llama,Costco Wholesale,Saturate,3,True
+llama,Costco Wholesale,Saturate,4,True
+llama,DHL,Saturate,1,True
+llama,DHL,Saturate,2,True
+llama,DHL,Saturate,3,True
+llama,DHL,Saturate,4,True
+llama,Discover,Saturate,1,True
+llama,Discover,Saturate,2,True
+llama,Discover,Saturate,3,True
+llama,Discover,Saturate,4,True
+llama,ExxonMobil,Saturate,1,True
+llama,ExxonMobil,Saturate,2,True
+llama,ExxonMobil,Saturate,3,True
+llama,ExxonMobil,Saturate,4,True
+llama,Facebook,Saturate,1,True
+llama,Facebook,Saturate,2,True
+llama,Facebook,Saturate,3,True
+llama,Facebook,Saturate,4,True
+llama,FedEx,Saturate,1,True
+llama,FedEx,Saturate,2,True
+llama,FedEx,Saturate,3,True
+llama,FedEx,Saturate,4,True
+llama,Google,Saturate,1,True
+llama,Google,Saturate,2,True
+llama,Google,Saturate,3,True
+llama,Google,Saturate,4,True
+llama,JPMorganChase,Saturate,1,True
+llama,JPMorganChase,Saturate,2,True
+llama,JPMorganChase,Saturate,3,True
+llama,JPMorganChase,Saturate,4,True
+llama,Kroger,Saturate,1,True
+llama,Kroger,Saturate,2,True
+llama,Kroger,Saturate,3,True
+llama,Kroger,Saturate,4,True
+llama,Mastercard,Saturate,1,False
+llama,Mastercard,Saturate,2,False
+llama,Mastercard,Saturate,3,False
+llama,Mastercard,Saturate,4,False
+llama,McDonalds,Saturate,1,False
+llama,McDonalds,Saturate,2,False
+llama,McDonalds,Saturate,3,False
+llama,McDonalds,Saturate,4,False
+llama,McKesson,Saturate,1,True
+llama,McKesson,Saturate,2,True
+llama,McKesson,Saturate,3,True
+llama,McKesson,Saturate,4,True
+llama,Microsoft,Saturate,1,True
+llama,Microsoft,Saturate,2,True
+llama,Microsoft,Saturate,3,True
+llama,Microsoft,Saturate,4,True
+llama,Nike,Saturate,1,False
+llama,Nike,Saturate,2,False
+llama,Nike,Saturate,3,False
+llama,Nike,Saturate,4,False
+llama,P&G,Saturate,1,True
+llama,P&G,Saturate,2,True
+llama,P&G,Saturate,3,True
+llama,P&G,Saturate,4,True
+llama,PAGO,Saturate,1,True
+llama,PAGO,Saturate,2,True
+llama,PAGO,Saturate,3,True
+llama,PAGO,Saturate,4,True
+llama,Regions,Saturate,1,True
+llama,Regions,Saturate,2,True
+llama,Regions,Saturate,3,True
+llama,Regions,Saturate,4,True
+llama,State Farm,Saturate,1,True
+llama,State Farm,Saturate,2,True
+llama,State Farm,Saturate,3,True
+llama,State Farm,Saturate,4,True
+llama,SunTrust,Saturate,1,True
+llama,SunTrust,Saturate,2,True
+llama,SunTrust,Saturate,3,True
+llama,SunTrust,Saturate,4,True
+llama,Target,Saturate,1,True
+llama,Target,Saturate,2,True
+llama,Target,Saturate,3,True
+llama,Target,Saturate,4,True
+llama,UPS,Saturate,1,True
+llama,UPS,Saturate,2,True
+llama,UPS,Saturate,3,True
+llama,UPS,Saturate,4,True
+llama,United Healthcare,Saturate,1,False
+llama,United Healthcare,Saturate,2,False
+llama,United Healthcare,Saturate,3,False
+llama,United Healthcare,Saturate,4,False
+llama,VISA,Saturate,1,True
+llama,VISA,Saturate,2,True
+llama,VISA,Saturate,3,True
+llama,VISA,Saturate,4,True
+llama,Wells Fargo,Saturate,1,True
+llama,Wells Fargo,Saturate,2,True
+llama,Wells Fargo,Saturate,3,True
+llama,Wells Fargo,Saturate,4,True
+llama,P&G,Noise,5,True
+llama,P&G,Saturate,5,True
+llama,State Farm,Noise,5,True
+llama,State Farm,Saturate,5,True
+llama,United Healthcare,Noise,5,True
+llama,United Healthcare,Saturate,5,False
+llama,Wells Fargo,Noise,5,True
+llama,Wells Fargo,Saturate,5,True
+llama,American Express,Noise,5,True
+llama,American Express,Saturate,5,True
+llama,Apple,Noise,5,True
+llama,Apple,Saturate,5,True
+llama,Bank of America,Noise,5,True
+llama,Bank of America,Saturate,5,True
+llama,Bitcoin,Noise,5,True
+llama,Bitcoin,Saturate,5,True
+llama,Blue Style,Noise,5,True
+llama,Blue Style,Saturate,5,True
+llama,Capital One,Noise,5,True
+llama,Capital One,Saturate,5,True
+llama,Chase,Noise,5,True
+llama,Chase,Saturate,5,True
+llama,Costco Wholesale,Noise,5,True
+llama,Costco Wholesale,Saturate,5,False
+llama,DHL,Noise,5,True
+llama,DHL,Saturate,5,True
+llama,Discover,Noise,5,True
+llama,Discover,Saturate,5,True
+llama,ExxonMobil,Noise,5,True
+llama,ExxonMobil,Saturate,5,True
+llama,Facebook,Noise,5,True
+llama,Facebook,Saturate,5,True
+llama,FedEx,Noise,5,True
+llama,FedEx,Saturate,5,True
+llama,Google,Noise,5,True
+llama,Google,Saturate,5,True
+llama,JPMorganChase,Noise,5,True
+llama,JPMorganChase,Saturate,5,False
+llama,Kroger,Noise,5,True
+llama,Kroger,Saturate,5,True
+llama,Mastercard,Noise,5,True
+llama,Mastercard,Saturate,5,False
+llama,McDonalds,Noise,5,True
+llama,McDonalds,Saturate,5,True
+llama,McKesson,Noise,5,True
+llama,McKesson,Saturate,5,True
+llama,Microsoft,Noise,5,True
+llama,Microsoft,Saturate,5,True
+llama,Nike,Noise,5,True
+llama,Nike,Saturate,5,True
+llama,PAGO,Noise,5,True
+llama,PAGO,Saturate,5,True
+llama,Regions,Noise,5,True
+llama,Regions,Saturate,5,True
+llama,SunTrust,Noise,5,True
+llama,SunTrust,Saturate,5,True
+llama,Target,Noise,5,True
+llama,Target,Saturate,5,True
+llama,UPS,Noise,5,True
+llama,UPS,Saturate,5,True
+llama,VISA,Noise,5,True
+llama,VISA,Saturate,5,True
+llama,AT&T,Noise,5,True
+llama,AT&T,Saturate,5,True
+llama,Amazon,Noise,5,True
+llama,Amazon,Saturate,5,True
+llama,Amazon,Adversarial,1,True
+llama,American Express,Adversarial,1,True
+llama,Apple,Adversarial,1,True
+llama,AT&T,Adversarial,1,False
+llama,Bank of America,Adversarial,1,True
+llama,Bitcoin,Adversarial,1,True
+llama,Blue Style,Adversarial,1,True
+llama,Capital One,Adversarial,1,True
+llama,Chase,Adversarial,1,True
+llama,Costco Wholesale,Adversarial,1,True
+llama,DHL,Adversarial,1,True
+llama,Discover,Adversarial,1,True
+llama,ExxonMobil,Adversarial,1,True
+llama,Facebook,Adversarial,1,True
+llama,FedEx,Adversarial,1,True
+llama,Google,Adversarial,1,True
+llama,JPMorganChase,Adversarial,1,True
+llama,Kroger,Adversarial,1,True
+llama,Mastercard,Adversarial,1,True
+llama,McDonalds,Adversarial,1,True
+llama,McKesson,Adversarial,1,True
+llama,Microsoft,Adversarial,1,True
+llama,Nike,Adversarial,1,True
+llama,PAGO,Adversarial,1,True
+llama,P&G,Adversarial,1,True
+llama,Regions,Adversarial,1,True
+llama,State Farm,Adversarial,1,True
+llama,SunTrust,Adversarial,1,True
+llama,Target,Adversarial,1,True
+llama,United Healthcare,Adversarial,1,True
+llama,UPS,Adversarial,1,True
+llama,VISA,Adversarial,1,True
+llama,Wells Fargo,Adversarial,1,True
+llama,Amazon,Adversarial,2,True
+llama,American Express,Adversarial,2,True
+llama,Apple,Adversarial,2,True
+llama,AT&T,Adversarial,2,False
+llama,Bank of America,Adversarial,2,True
+llama,Bitcoin,Adversarial,2,True
+llama,Blue Style,Adversarial,2,True
+llama,Capital One,Adversarial,2,True
+llama,Chase,Adversarial,2,True
+llama,Costco Wholesale,Adversarial,2,True
+llama,DHL,Adversarial,2,True
+llama,Discover,Adversarial,2,True
+llama,ExxonMobil,Adversarial,2,True
+llama,Facebook,Adversarial,2,True
+llama,FedEx,Adversarial,2,True
+llama,Google,Adversarial,2,True
+llama,JPMorganChase,Adversarial,2,True
+llama,Kroger,Adversarial,2,True
+llama,Mastercard,Adversarial,2,True
+llama,McDonalds,Adversarial,2,True
+llama,McKesson,Adversarial,2,True
+llama,Microsoft,Adversarial,2,True
+llama,Nike,Adversarial,2,True
+llama,PAGO,Adversarial,2,True
+llama,P&G,Adversarial,2,True
+llama,Regions,Adversarial,2,True
+llama,State Farm,Adversarial,2,True
+llama,SunTrust,Adversarial,2,True
+llama,Target,Adversarial,2,True
+llama,United Healthcare,Adversarial,2,True
+llama,UPS,Adversarial,2,True
+llama,VISA,Adversarial,2,True
+llama,Wells Fargo,Adversarial,2,True
+gemma,Costco Wholesale,Noise,1,True
+gemma,Costco Wholesale,Noise,2,True
+gemma,Costco Wholesale,Noise,3,True
+gemma,Costco Wholesale,Noise,4,True
+gemma,Costco Wholesale,Saturate,1,True
+gemma,Costco Wholesale,Saturate,2,True
+gemma,Costco Wholesale,Saturate,3,True
+gemma,Costco Wholesale,Saturate,4,True
+gemma,Costco Wholesale,Noise,5,True
+gemma,Costco Wholesale,Saturate,5,True
+gemma,Costco Wholesale,Adversarial,1,True
+gemma,Costco Wholesale,Adversarial,2,False

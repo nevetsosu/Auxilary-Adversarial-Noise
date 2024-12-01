@@ -1,5 +1,5 @@
 model,random noise,saturation,adversarial
-gpt,0,0,0
+gpt,0,3,0
 gemini,0,4,0
-llama,2,0,0
-gemma,5,25,59
+llama,0,20,2
+gemma,0,7,54
