@@ -1656,10 +1656,10 @@ llama,Mastercard.Saturate1.png,Mastercard,Venn Diagram,FALSE
 llama,Mastercard.Saturate2.png,Mastercard,Venn Diagram,FALSE
 llama,Mastercard.Saturate3.png,Mastercard,Venn Diagram,FALSE
 llama,Mastercard.Saturate4.png,Mastercard,Venn Diagram.,FALSE
-llama,McDonalds.Saturate1.png,McDonalds,Golden Arches.,TRUE 
-llama,McDonalds.Saturate2.png,McDonalds,Golden Arches.,TRUE 
-llama,McDonalds.Saturate3.png,McDonalds,Golden Arches.,TRUE 
-llama,McDonalds.Saturate4.png,McDonalds,Golden Arches.,TRUE 
+llama,McDonalds.Saturate1.png,McDonalds,Golden Arches.,TRUE
+llama,McDonalds.Saturate2.png,McDonalds,Golden Arches.,TRUE
+llama,McDonalds.Saturate3.png,McDonalds,Golden Arches.,TRUE
+llama,McDonalds.Saturate4.png,McDonalds,Golden Arches.,TRUE
 llama,McKesson.Saturate1.png,McKesson,McKesson.,TRUE
 llama,McKesson.Saturate2.png,McKesson,McKesson.,TRUE
 llama,McKesson.Saturate3.png,McKesson,McKesson.,TRUE
@@ -1668,10 +1668,10 @@ llama,Microsoft.Saturate1.png,Microsoft,Microsoft.,TRUE
 llama,Microsoft.Saturate2.png,Microsoft,Microsoft.,TRUE
 llama,Microsoft.Saturate3.png,Microsoft,Microsoft.,TRUE
 llama,Microsoft.Saturate4.png,Microsoft,Microsoft.,TRUE
-llama,Nike.Saturate1.png,Nike,Swoosh.,TRUE 
-llama,Nike.Saturate2.png,Nike,Swoosh.,TRUE 
-llama,Nike.Saturate3.png,Nike,Swoosh.,TRUE 
-llama,Nike.Saturate4.png,Nike,Swoosh.,TRUE 
+llama,Nike.Saturate1.png,Nike,Swoosh.,TRUE
+llama,Nike.Saturate2.png,Nike,Swoosh.,TRUE
+llama,Nike.Saturate3.png,Nike,Swoosh.,TRUE
+llama,Nike.Saturate4.png,Nike,Swoosh.,TRUE
 llama,P&G.Saturate1.png,P&G,P&G.,TRUE
 llama,P&G.Saturate2.png,P&G,P&G.,TRUE
 llama,P&G.Saturate3.png,P&G,P&G.,TRUE
@@ -1700,10 +1700,10 @@ llama,UPS.Saturate1.png,UPS,UPS.,TRUE
 llama,UPS.Saturate2.png,UPS,UPS.,TRUE
 llama,UPS.Saturate3.png,UPS,UPS.,TRUE
 llama,UPS.Saturate4.png,UPS,UPS.,TRUE
-llama,United Healthcare.Saturate1.png,United Healthcare,UnitedHealthcare.,TRUE 
-llama,United Healthcare.Saturate2.png,United Healthcare,UnitedHealthcare.,TRUE 
-llama,United Healthcare.Saturate3.png,United Healthcare,UnitedHealthcare.,TRUE 
-llama,United Healthcare.Saturate4.png,United Healthcare,UnitedHealthcare.,TRUE 
+llama,United Healthcare.Saturate1.png,United Healthcare,UnitedHealthcare.,TRUE
+llama,United Healthcare.Saturate2.png,United Healthcare,UnitedHealthcare.,TRUE
+llama,United Healthcare.Saturate3.png,United Healthcare,UnitedHealthcare.,TRUE
+llama,United Healthcare.Saturate4.png,United Healthcare,UnitedHealthcare.,TRUE
 llama,VISA.Saturate1.png,VISA,Visa.,TRUE
 llama,VISA.Saturate2.png,VISA,Visa.,TRUE
 llama,VISA.Saturate3.png,VISA,Visa.,TRUE
@@ -1717,7 +1717,7 @@ llama,P&G.Saturate5.png,P&G,P&G.,TRUE
 llama,State Farm.Noise5.png,State Farm,State Farm.,TRUE
 llama,State Farm.Saturate5.png,State Farm,State Farm.,TRUE
 llama,United Healthcare.Noise5.png,United Healthcare,UnitedHealthcare.,TRUE
-llama,United Healthcare.Saturate5.png,United Healthcare,UnitedHealthcare.,TRUE 
+llama,United Healthcare.Saturate5.png,United Healthcare,UnitedHealthcare.,TRUE
 llama,Wells Fargo.Noise5.png,Wells Fargo,Wells Fargo.,TRUE
 llama,Wells Fargo.Saturate5.png,Wells Fargo,Wells Fargo.,TRUE
 llama,American Express.Noise5.png,American Express,American Express.,TRUE
@@ -1735,7 +1735,7 @@ llama,Capital One.Saturate5.png,Capital One,Capital One.,TRUE
 llama,Chase.Noise5.png,Chase,Chase.,TRUE
 llama,Chase.Saturate5.png,Chase,Chase.,TRUE
 llama,Costco Wholesale.Noise5.png,Costco Wholesale,Costco.,TRUE
-llama,Costco Wholesale.Saturate5.png,Costco Wholesale,Costco.,TRUE 
+llama,Costco Wholesale.Saturate5.png,Costco Wholesale,Costco.,TRUE
 llama,DHL.Noise5.png,DHL,DHL.,TRUE
 llama,DHL.Saturate5.png,DHL,DHL.,TRUE
 llama,Discover.Noise5.png,Discover,Discover.,TRUE
@@ -1749,7 +1749,7 @@ llama,FedEx.Saturate5.png,FedEx,FedEx.,TRUE
 llama,Google.Noise5.png,Google,Google.,TRUE
 llama,Google.Saturate5.png,Google,Google.,TRUE
 llama,JPMorganChase.Noise5.png,JPMorganChase,JPMorgan Chase & Co.,TRUE
-llama,JPMorganChase.Saturate5.png,JPMorganChase,JPMorgan Chase & Co.,TRUE 
+llama,JPMorganChase.Saturate5.png,JPMorganChase,JPMorgan Chase & Co.,TRUE
 llama,Kroger.Noise5.png,Kroger,Kroger.,TRUE
 llama,Kroger.Saturate5.png,Kroger,Kroger.,TRUE
 llama,Mastercard.Noise5.png,Mastercard,Mastercard.,TRUE
