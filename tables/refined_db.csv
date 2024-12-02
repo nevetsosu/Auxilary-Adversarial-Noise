@@ -1413,10 +1413,10 @@ llama,Mastercard,Saturate,1,False
 llama,Mastercard,Saturate,2,False
 llama,Mastercard,Saturate,3,False
 llama,Mastercard,Saturate,4,False
-llama,McDonalds,Saturate,1,False
-llama,McDonalds,Saturate,2,False
-llama,McDonalds,Saturate,3,False
-llama,McDonalds,Saturate,4,False
+llama,McDonalds,Saturate,1,True
+llama,McDonalds,Saturate,2,True
+llama,McDonalds,Saturate,3,True
+llama,McDonalds,Saturate,4,True
 llama,McKesson,Saturate,1,True
 llama,McKesson,Saturate,2,True
 llama,McKesson,Saturate,3,True
@@ -1425,10 +1425,10 @@ llama,Microsoft,Saturate,1,True
 llama,Microsoft,Saturate,2,True
 llama,Microsoft,Saturate,3,True
 llama,Microsoft,Saturate,4,True
-llama,Nike,Saturate,1,False
-llama,Nike,Saturate,2,False
-llama,Nike,Saturate,3,False
-llama,Nike,Saturate,4,False
+llama,Nike,Saturate,1,True
+llama,Nike,Saturate,2,True
+llama,Nike,Saturate,3,True
+llama,Nike,Saturate,4,True
 llama,P&G,Saturate,1,True
 llama,P&G,Saturate,2,True
 llama,P&G,Saturate,3,True
@@ -1457,10 +1457,10 @@ llama,UPS,Saturate,1,True
 llama,UPS,Saturate,2,True
 llama,UPS,Saturate,3,True
 llama,UPS,Saturate,4,True
-llama,United Healthcare,Saturate,1,False
-llama,United Healthcare,Saturate,2,False
-llama,United Healthcare,Saturate,3,False
-llama,United Healthcare,Saturate,4,False
+llama,United Healthcare,Saturate,1,True
+llama,United Healthcare,Saturate,2,True
+llama,United Healthcare,Saturate,3,True
+llama,United Healthcare,Saturate,4,True
 llama,VISA,Saturate,1,True
 llama,VISA,Saturate,2,True
 llama,VISA,Saturate,3,True
@@ -1474,7 +1474,7 @@ llama,P&G,Saturate,5,True
 llama,State Farm,Noise,5,True
 llama,State Farm,Saturate,5,True
 llama,United Healthcare,Noise,5,True
-llama,United Healthcare,Saturate,5,False
+llama,United Healthcare,Saturate,5,True
 llama,Wells Fargo,Noise,5,True
 llama,Wells Fargo,Saturate,5,True
 llama,American Express,Noise,5,True
@@ -1492,7 +1492,7 @@ llama,Capital One,Saturate,5,True
 llama,Chase,Noise,5,True
 llama,Chase,Saturate,5,True
 llama,Costco Wholesale,Noise,5,True
-llama,Costco Wholesale,Saturate,5,False
+llama,Costco Wholesale,Saturate,5,True
 llama,DHL,Noise,5,True
 llama,DHL,Saturate,5,True
 llama,Discover,Noise,5,True
@@ -1506,7 +1506,7 @@ llama,FedEx,Saturate,5,True
 llama,Google,Noise,5,True
 llama,Google,Saturate,5,True
 llama,JPMorganChase,Noise,5,True
-llama,JPMorganChase,Saturate,5,False
+llama,JPMorganChase,Saturate,5,True
 llama,Kroger,Noise,5,True
 llama,Kroger,Saturate,5,True
 llama,Mastercard,Noise,5,True
