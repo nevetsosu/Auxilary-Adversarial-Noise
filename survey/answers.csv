@@ -1,0 +1,22 @@
+Answer,Perturbation,Logo
+normal,,Google
+unusual,Noise1,Bank of America
+unusual,Noise4,AT&T
+unusual,Adversarial1,Wells Fargo
+unusual,Adversarial1,Apple
+normal,,Costco
+unusual,Adversarial2,Google
+normal,,Wells Fargo
+unusual,Noise2,Nike
+unusual,Noise2,PayPal
+unusual,Noise3,Bank of America
+normal,,Home Depot
+normal,,DHL
+unusual,Saturated4,Chase
+unusual,Adversarial2,Target
+normal,,Google
+normal,,Google
+unusual,Adversarial1,BitCoin
+unusual,Adversarial1,UPS
+unusual,Noise1,PayPal
+unusual,Saturated2,Kroger
