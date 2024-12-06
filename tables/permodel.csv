@@ -2,4 +2,4 @@ model,random noise,saturation,adversarial
 gpt,0,3,0
 gemini,0,4,0
 llama,0,5,2
-gemma,0,7,54
+gemma,0,0,0
