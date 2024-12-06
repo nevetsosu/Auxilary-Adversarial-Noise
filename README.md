@@ -49,15 +49,7 @@ utils/prompt.py allows for prompting a single specific model.
 utils/autoprompt.py allows for prompting all files on a specific model or all models. It will attempt to prompt all unprompted files in LOGO_DIR and ALTERED_DIR. autoprompt will use the csv at DB_PATH to determine what has already been prompted and save new prompts to there. If the csv at DB_PATH doesn't exist already, it will be created. DB_PATH should be specified in the .env. 
 
 # Todo
-Perceptibility of adversarial examples have been improved. We have examples at episolon 0.05 and 0.1. We still need to prompt these images, but first the file names need to be adjusted to the right format.
-For examples, the files need to be something like "Apple.Adversarial1.png" and "Apple.Adversarial2.png".
-We aren't going to be able to find model perceptibility for Adversarial Noise since I dont have access to my computer, but we should be able to do it for saturation and random noise.
-Even with a higher and higher episilon, with an unbounded number of iterations, Adversarial examples should always be trainable to fool the original training network. 
-
-We still need to do human perception tests.
-
-Make charts
-
+update the rest  of this read me
 # Charts
 Find the perceptiability thresholds for humans and models. 
 
