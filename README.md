@@ -23,7 +23,6 @@ It WILL replace the original image.
 
 1. Run utils/resolution.py
 
-
 # Transparency fixes
 LOGO_DIR and ALTERED_DIR should be defined in a .env, as well as the model api keys.
 Your image should already be PNG and within resolution bounds.
@@ -49,17 +48,6 @@ utils/prompt.py allows for prompting a single specific model.
 utils/autoprompt.py allows for prompting all files on a specific model or all models. It will attempt to prompt all unprompted files in LOGO_DIR and ALTERED_DIR. autoprompt will use the csv at DB_PATH to determine what has already been prompted and save new prompts to there. If the csv at DB_PATH doesn't exist already, it will be created. DB_PATH should be specified in the .env. 
 
 # Todo
-update the rest  of this read me
-# Charts
-Find the perceptiability thresholds for humans and models. 
-
-Present more details about how the perturbations were added.
-We have 5 levels of both saturation and noise.
-
-Adversarial noise generation should include the learning rate (epsilon) and the loss threshold.
-
-Should we even bother to present accuracy numbers??
-
-We should add peligemma to the charts, which will be the only ones that can actually misclassify. 
+i wonder if the rest of this readme is actually accurate... but im too lazy to read back over it
 
 
