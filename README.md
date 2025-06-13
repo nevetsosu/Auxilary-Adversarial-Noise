@@ -1,7 +1,4 @@
-# Adversarial noise generation using a smaller auxilary network
-Mini-Research project for CS569 (Human Aspects in Cybersecurity)
-
-# Classification Pipeline
+## Classification Pipeline
 1. Convert jpg to png. This can be skipped if PNG already.
 2. Ensure resolution sizes are within bounds.
 3. Apply transparency fixes
